@@ -7,16 +7,24 @@
 
 ## Samenvatting
 RGM: een interactieve, multisensorische oefenmethode waarbij motorische, sensorische en cognitieve handelingen tegelijkertijd uitgevoerd worden. Wetenschappelijk onderzoek heeft al langer aangetoond dat deze methode effectief is. Deze methode stimuleert de hersenmassa en verbindingen hiertussen. Concreet resulteert dit in een hogere denksnelheid, kortere reactietijd, een beter humeur... 
+
 Praktisch staat deze methode echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector, voor mensen thuis bestaat er nog helemaal geen product. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier wouden oplossen. Hierbij willen we de uitvoering van deze methode in een nieuw jasje steken en vanuit een frisse blik benaderen
 Door deze strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief product. Graag stellen wij u voor aan [] .Dit interactieve product slaagt er in bovenstaande handelingen te combineren op een leuke, speelse en toegankelijke manier. 
+
 Om tot dit product te komen gingen wij zeer grondig te werk. We deden per fase meerdere interviews om te verzekeren dat we niet voor onszelf of voor een verkeerde doelgroep gingen ontwerpen. En maakten we telkens gebruik van meerdere prototypes om de tester zelf objectief de keuze te geven.
 
 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Vooraleer een product uitgewerkt wordt is het belangrijk ervoor te zorgen dat het probleem duidelijk gedefinieerd wordt en dat er wel degelijk een grondig probleem mee opgelost wordt. Het was bij de start van dit project dat ons meteen een grote gap opviel. Rap werd duidelijk dat de RGM methode veel potentieel heeft. Dit blijkt zowel uit de home site van RGM (Home. (z.d.). RGM Nederland. https://rgm-nederland.nl/site/home) als uit wetenschappelijke artikels (https://research.gold.ac.uk/id/eprint/29275/1/med-9780198824954-chapter-31.pdf) 
+
+Zowel uit deze home site als op youtube (https://youtu.be/uXo-22vdD_8?si=rbDRUkEz0bA-MzG0) blijkt dat de uitvoering niet verder gaat dan een projector en een beeldscherm. Desondanks zal uit de interviews later blijken dat mensen binnen onze doelgroep (65+ers zonder neurologische aandoening) deze methode ook graag thuis zouden beoefenen. Dit zowel in kleine groep als individueel.  
+
+Met behulp van klantenbehoeften, ontwerpcriteria, een fishbone diagram, een innovatrix, een functieboom adhv de interface... willen wij tot een degelijk product komen. Om bovenstaande informatie te verzamelen werden gebruikerstesten, interviews, een literatuurstudie gedaan.  
+
+De voornamelijkste stakeholders in dit project zijn de testpersonen, Sanne, onze leerkrachten van dit project en wij als ingenieur 
+
+Dit project werd uitgevoerd door Thoma en Jeroen binnen het vak project gebruiksgericht ontwerpen binnen de UGent.  
 
 ## Methodologie
 Zoals eerder vermeld is het noodzakelijk een strak plan te hebben en een methodologische aanpak te volgen om tot een goed concept te komen. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond. Een eerste fase is de discovery fase. Hierbinnen werd een literatuurstudie uitgevoerd. Aangezien het belangrijk is een volledig beeld te krijgen in dit topic is het belangrijk naast wetenschappelijke artikels ook eens verder te kijken en gebruik te maken van databases, gewone artikels en websites. Om voldoende ingelezen te zijn werden 10 bronnen gebruikt.  Vooraleer een goed product ontworpen wordt is het belangrijk om veel inzichten te krijgen en het probleem duidelijk af te bakenen en te definiëren. Het is als het ware belangrijk de gebruiker beter te leren kennen dan deze zichzelf kent. Bij deze interviews is het de bedoeling-nadat de literatuurstudie gedaan is en een wetenschappelijke basis gelegd is-rechtstreekse input van de gebruiker te krijgen. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor open staat. Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd. Uit de gevonden informatie konden de eerste klantbehoeften, een fishbone en innovatrix worden opgesteld. Daarnaast kon ook een user model worden opgesteld. Deze tools zijn zeer nuttig om tijdens het ontwerpproces als houvast te houden.
