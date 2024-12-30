@@ -45,20 +45,27 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Definition
+<img width="997" alt="image" src="https://github.com/user-attachments/assets/1fd16838-bfc2-43f7-8a39-efa6a0336942" />
+
+
+
 ![image](https://github.com/user-attachments/assets/a33babda-11e2-470f-9793-6422a0d6b006)
 
 WAVE 2 (N=5)
  
 Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave werd voornamelijk meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. De overgebleven onderzoeksvragen werden in de gebruikerstesten gesteld:
-Welke displaygrootte moet het product hebben?  Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet en een laptop. Hierop reageerden de gebruikers verdeeld. Maar om de prijs van het product laag te houden kan hier niet in geïnvesteerd worden. Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. Zie interview Willy: “wat is een HDMI-kabel”
+
+Welke displaygrootte moet het product hebben? Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet en een laptop. Hierop reageerden de gebruikers verdeeld. Maar om de prijs van het product laag te houden kan hier niet in geïnvesteerd worden. Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. Zie interview Willy: “wat is een HDMI-kabel”
 Welke afmetingen moet de blok hebben? Uit wave 1 bleek al eerder dat de blokken cilindervormig zullen zijn. Er werden aan de gebruiker drie formaten voorgelegd. Vervolgens konden zij hun voorkeur aanduiden en argumenteren waarom. Daaruit bleek voor alle gebruikers het voorkeur uit te gaan naar het kleine formaat. 
+
 Kent de doelgroep beloningssystemen en staan ze hiervoor open? Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd met dergelijke systemen. Vooral klantenkaarten en klantenapps bij supermarkten blijken populair te zijn. Daarbij viel op dat hun voorkeur uitgaat naar een manuele kaart i.p.v. een app waar ze veel meer met dergelijke systemen geconfronteerd worden. Uiteindelijk blijkt dat ze openstaan om hun vooruitgang te zien maar minder geïnteresseerd zijn in echte grote beloningssystemen. 
- Is de interface eenvoudig genoeg voor de doelgroep? Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Hier zal in het uiteindelijke product zeker rekening mee worden gehouden. 
+
+Is de interface eenvoudig genoeg voor de doelgroep? Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Hier zal in het uiteindelijke product zeker rekening mee worden gehouden. 
 Om de interface in het tweede semester vlot uit te werken werd daarom een functieboom a.d.h.v. de interface opgesteld.
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/0bd6fede-7f63-48ef-a26c-2a07bce238b6" />
 
 
-## Bill of materials
+## Bill of materials en klantbehoeften
 - Welk
 - Materiaal
 - Heb
@@ -68,6 +75,10 @@ Om de interface in het tweede semester vlot uit te werken werd daarom een functi
 - Voor
 - Je
 - Prototype
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/35ce26a0-322b-482e-bdec-200db8c034ec" />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d895d0c2-1341-4a56-aec6-36e5ec87c218" />
+
 
 ## Kritische reflectie
 Max. 500 woorden
