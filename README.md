@@ -34,7 +34,7 @@ Nadat de discovery fase is afgerond, het probleem duidelijk is en de eerste klan
 figuur 1: Ingevulde Zendesk tripple diamond
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
 Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces. 
 ### Materiaal & methoden
@@ -43,14 +43,15 @@ Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het 
 * Benchmarking
 
 ### Resultaten
-**Literatuurstudie (N=10)**
+#### Literatuurstudie (N=10)
 
 Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, werd begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
 
 Uit deze bronnen volgde onze doelgroep: “65+ers zonder neurologische aandoening” en konden de eerste design requirements worden vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
 ![fishbone diagram](https://github.com/user-attachments/assets/4a6b92c6-a2ad-4167-afdf-5ec24ce6baa6)![Innovatrix](https://github.com/user-attachments/assets/ebebdf3f-4ddc-4995-9782-804483deb4da)
 
-**Interviews (N=4)**
+#### Interviews (N=4)
+
 We voeren interviews uit met “65+ers zonder neurologische aandoening” met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
 
 De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aandoening tegenover de RGM-methode? Welke aspecten van deze methode spreken hen aan? Wat zien ze liever anders?   
@@ -59,7 +60,7 @@ Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden konden w
 
 Nadat uiteindelijk de interviews werden afgelegd werd het volgende persona opgesteld. 
 ![Persona](https://github.com/user-attachments/assets/0cb5bb9d-1eca-4e9b-9940-7f48631f29ae)
-**Benchmarking (N=11)**
+#### Benchmarking (N=11)
 
 Aan de hand van Benchmarking analyseerden we de huidige markt en hun huidige oplossingen.  
 
@@ -68,7 +69,7 @@ Momenteel passen geen producten RGM rechtstreeks toe. Daarom werden hierbij geli
 ### Conclusies & implicaties
 De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot een duidelijk beeld van de doelgroep, “65+’ers zonder neurologische aandoening,” en hun behoeften. De doelgroep staat open voor de RGM-methode, maar vraagt om een rustiger tempo, meer herhaling en verschillende moeilijkheidsniveaus. Daarnaast is er een sterke voorkeur voor een gebruiksvriendelijke thuisoplossing die zelfstandig kan worden gebruikt. Benchmarking toont aan dat er momenteel geen directe RGM-producten op de markt zijn, maar vergelijkbare oplossingen bieden waardevolle inzichten voor het ontwerp en bevestigen de bestaande marktkans. 
 
-Literatuurstudie:  
+**Literatuurstudie:**
 * Het product moet meerdere hersengebieden activeren. 
 * Het product moet uitstralen dat fouten maken mag. 
 * Het product moet in groep te kunnen gebruiken zijn. 
@@ -80,7 +81,7 @@ Literatuurstudie:
 
  
 
-Interviews: 
+**Interviews:**
 * Het product moet verschillende niveaus bevatten. 
 * Een sessie moet geleidelijk aan opbouwen. 
 * De muziek moet instelbaar of gekend zijn. 
@@ -90,22 +91,77 @@ Interviews:
 * Het product moet buiten te gebruiken kunnen zijn. 
 * Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten. 
 
-Benchmarking: 
+**Benchmarking:**
 * Het product moet gebruik maken van grote, heldere visuele cues. 
 * Het product moet compact en lichte accessoires hebben. 
 * Het product moet een eenvoudige interface hebben. 
 * Het product multifunctionele feedback geven. 
 * Het product moet verschillende moeilijkheidsgraden hebben, die de gebruiker zelf kan aanpassen. 
 * Het product moet zachte, griprijke materialen bevatten.
-* Het product moet een ergonomische vorm hebben. 
+* Het product moet een ergonomische vorm hebben.
+
+
+
+
 ## Definition
+![Storyboard](https://github.com/user-attachments/assets/86278325-7cd3-4a37-a17a-ff2951fcbef3)
+![Wave 1 morfologische matrix](https://github.com/user-attachments/assets/3b191b5d-6e7f-42f0-a0a0-e3500bc6e6db)
+
+### WAVE 1 (N=5)
+
+Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
+
+**Hoe worden danspasjes weergegeven?** 
+
+Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de zon in je hart” met RGM-symbolen voorbereid. Waarbij een verandering van danspas werd weergegeven aan de hand van een korte overgansanimatie. 
+
+ 
+
+* 1: Frequentie danspassen: om de 4 slagen
+
+  Lied verdeeld in: 4 
+
+* 2: Frequentie danspassen: om de 2 slagen
+
+  Lied verdeeld in: 4 
+
+* 3: Frequentie danspassen: om de 2 slagen
+
+   Lied verdeeld in: 6 
+
+ 
+
+**Hoe kan je de blokjes onderscheiden? Is dit nodig?**
+
+Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren. Uit observatie en een achteraf afgelegde ondervraging, konden we concluderen dat voor de meeste gebruikers dit niet hielp, dus om de keuze aan de gebruiker te geven zal 1 van de zijdes verschillend bij elke blok worden ingekleurd. Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren, 1 bij elk van de cilinders met een verschillend kleur ingekleurd, en 1 in hetzelfde kleur als de andere cilinders.
+
+ 
+
+**Hoeveel blokjes worden er gebruikt (fixed?)**
+
+Er werd dus gevraagd het product te testen met 4 en vervolgens met 6 blokken. Hierbij zagen we dat het al een grote uitdaging was met 4 blokken om deze in de correcte volgorde te plaatsen. Dit koste voor hen al heel wat tijd, en zorgde voor een intensieve cognitieve en fysieke uitdaging. “Het is lastig om zowel op de danspassen als de muziek te letten” 
+
+ 
+
+**Designrequerments door wave 1:**
+* Rood is rechts, blauw is links 
+* Het product moet de mogelijkheid geven het nummer vooraf volledig te spelen. 
+* Het product bevat slechts vier blokken 
+* Het product moet compact zijn, zodat weinig plek in de kast pakt. 
+* Het product moet verschillende moeilijkheidsgraden hebben. 
+* Het product moet duidelijk aangeven wat rechts(rood) en wat links(blauw) is.   
+* De blokken moeten een cilindrische vorm hebben. 
+
+
+
+
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/1fd16838-bfc2-43f7-8a39-efa6a0336942" />
 
 
 
 ![image](https://github.com/user-attachments/assets/a33babda-11e2-470f-9793-6422a0d6b006)
 
-WAVE 2 (N=5)
+### WAVE 2 (N=5)
  
 Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave werd voornamelijk meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. De overgebleven onderzoeksvragen werden in de gebruikerstesten gesteld:
 
