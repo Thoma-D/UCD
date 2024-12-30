@@ -36,14 +36,68 @@ figuur 1: Ingevulde Zendesk tripple diamond
 ## Discovery
 Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces. 
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+* Literatuurstudie 
+* Interviews 
+* Benchmarking
 
+### Resultaten
+**Literatuurstudie (N=10)**
+
+Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, werd begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
+
+Uit deze bronnen volgde onze doelgroep: “65+ers zonder neurologische aandoening” en konden de eerste design requirements worden vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
+![fishbone diagram](https://github.com/user-attachments/assets/4a6b92c6-a2ad-4167-afdf-5ec24ce6baa6)![Innovatrix](https://github.com/user-attachments/assets/ebebdf3f-4ddc-4995-9782-804483deb4da)
+
+**Interviews (N=4)**
+We voeren interviews uit met “65+ers zonder neurologische aandoening” met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
+
+De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aandoening tegenover de RGM-methode? Welke aspecten van deze methode spreken hen aan? Wat zien ze liever anders?   
+
+Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden konden we concluderen dat ze openstaan voor de RGM-methode, maar behoefte hebben aan een rustiger tempo en verschillende moeilijkheidsniveaus.  Ze stonden allemaal open voor een gebruiksvriendelijke thuisoplossing, die bruikbaar moet zijn zonder tussenkomst van derden.  
+
+Nadat uiteindelijk de interviews werden afgelegd werd het volgende persona opgesteld. 
+![Persona](https://github.com/user-attachments/assets/0cb5bb9d-1eca-4e9b-9940-7f48631f29ae)
+**Benchmarking (N=11)**
+
+Aan de hand van Benchmarking analyseerden we de huidige markt en hun huidige oplossingen.  
+
+Momenteel passen geen producten RGM rechtstreeks toe. Daarom werden hierbij gelijkaardige, relevante en succesvolle producten geanalyseerd om zo tot extra design requirements te komen. Uiteindelijk werd met deze data volgende tabel opgesteld. 
+
+### Conclusies & implicaties
+De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot een duidelijk beeld van de doelgroep, “65+’ers zonder neurologische aandoening,” en hun behoeften. De doelgroep staat open voor de RGM-methode, maar vraagt om een rustiger tempo, meer herhaling en verschillende moeilijkheidsniveaus. Daarnaast is er een sterke voorkeur voor een gebruiksvriendelijke thuisoplossing die zelfstandig kan worden gebruikt. Benchmarking toont aan dat er momenteel geen directe RGM-producten op de markt zijn, maar vergelijkbare oplossingen bieden waardevolle inzichten voor het ontwerp en bevestigen de bestaande marktkans. 
+
+Literatuurstudie:  
+* Het product moet meerdere hersengebieden activeren. 
+* Het product moet uitstralen dat fouten maken mag. 
+* Het product moet in groep te kunnen gebruiken zijn. 
+* Het product moet muziek en ritme bevatten. 
+* Het product moet correcte feedback geven.
+* Het product moet veilig te gebruiken zijn.
+* Het product moet ergonoom zijn.
+* Het product moet de ervaring geven/ erin slagen dat de doelgroep er steeds beter in wordt. 
+
+ 
+
+Interviews: 
+* Het product moet verschillende niveaus bevatten. 
+* Een sessie moet geleidelijk aan opbouwen. 
+* De muziek moet instelbaar of gekend zijn. 
+* Het product moet thuis te gebruiken zijn. 
+* Het product moet voor zowel individuele (eenzame) als meerdere personen tegelijkertijd geschikt zijn. 
+* Het product moet een alternatief voor dans kunnen bevatten 
+* Het product moet buiten te gebruiken kunnen zijn. 
+* Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten. 
+
+Benchmarking: 
+* Het product moet gebruik maken van grote, heldere visuele cues. 
+* Het product moet compact en lichte accessoires hebben. 
+* Het product moet een eenvoudige interface hebben. 
+* Het product multifunctionele feedback geven. 
+* Het product moet verschillende moeilijkheidsgraden hebben, die de gebruiker zelf kan aanpassen. 
+* Het product moet zachte, griprijke materialen bevatten.
+* Het product moet een ergonomische vorm hebben. 
 ## Definition
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/1fd16838-bfc2-43f7-8a39-efa6a0336942" />
 
