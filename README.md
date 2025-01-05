@@ -1,7 +1,7 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+Interative blocks
+RGM toegepast in een ander innovatief jasje
 
-*Projectteam: Naam 1; Cieters Jeroen
+Projectteam: Thoma Demets; Cieters Jeroen
 
 2024-2025
 
