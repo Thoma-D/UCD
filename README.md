@@ -23,12 +23,13 @@ Door de strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief 
 
 ## Introductie
 Vooraleer het uitgebreider te hebben over het probleem is het eerst belangrijk nog dieper in te gaan op de theoretische werking van deze methode. Dit is noodzakelijk als achtergrond om te begrijpen waarmee we bezig zijn.
+Zoals eerder vermeld is dit een multisensorische denk oefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat.
+De combinatie hiervan vergroot de hersenmassa en stimuleert de verbindingen hiertussen. Daarbij is vooral het belang van muziek niet te onderschatten. Zo volgde uit een wetenschappelijk artikel:“In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[x]. Hierbij is het de bedoeling de cognitieve reserve te vergroten en het verkleinen tegen te gaan.[x] Het is op deze theorie dat wij verder bouwen. 
 
+Het probleem is zoals eerder vermeld dat er nauwelijks een praktische uitwerking is. Daarboven 
 Vooraleer een product uitgewerkt wordt is het belangrijk ervoor te zorgen dat het probleem duidelijk gedefinieerd wordt en dat er wel degelijk een grondig probleem mee wordt opgelost. Het was bij de start van dit project dat ons meteen een grote gap opviel. Deze methode is theoretisch zeer sterk onderbouwd en aangetoond. 
 
-vrt nws cognitieve reserve
-De combinatie hiervan vergroot de hersenmassa en stimuleert de verbindingen hiertussen. Deze theorie Wetenschappelijk onderzoek heeft al langer aangetoond dat deze methode effectief is. Daarbij is vooral het belang van muziek niet te onderschatten. Zo volgde uit een wetenschappelijk artikel:“In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”[x]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”. Het is op deze theorie dat wij verder bouwen. 
-
+Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?
 
 De voornamelijkste stakeholders in dit project zijn de testpersonen, onze leerkrachten van dit project en wij als ingenieur 
 
