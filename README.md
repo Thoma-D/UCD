@@ -1,32 +1,34 @@
 Interative blocks
-RGM toegepast in een ander innovatief jasje
+
+RGM toegepast in een toegankelijk en uitdagend uitgewerkt product
 
 Projectteam: Thoma Demets; Cieters Jeroen
 
 2024-2025
 
 ## Samenvatting
-RGM: een interactieve, multisensorische oefenmethode waarbij motorische, sensorische en cognitieve handelingen tegelijkertijd uitgevoerd worden. Dit wordt uitgevoerd op symbolen en onder leiding van muziek. De symbolen vertegenwoordigen de danspassen die de participanten uitvoeren. In onderstaande figuur zijn de mogelijke danspassen weergegeven. 
+RGM: een interactieve en multisensorische oefenmethode die motorische, sensorische en cognitieve elementen bevat. Hierbij wordt er gebruik gemaakt van symbolen en muziek. De symbolen vertegenwoordigen de danspassen die de participanten uitvoeren op het ritme van de muziek. In onderstaande figuur zijn de mogelijke danspassen weergegeven. 
 sensorische gedeelte: het waarnemen van de muziek en symbolen
 motorische gedeelte: het uitvoeren van de danspassen zoals in de rechterkolom
 cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coordineren
 
-vrt nws cognitieve reserve
-De combinatie hiervan vergroot de hersenmassa en stimuleert de verbindingen hiertussen. Deze theorie Wetenschappelijk onderzoek heeft al langer aangetoond dat deze methode effectief is. Daarbij is vooral het belang van muziek niet te onderschatten. Zo volgde uit een wetenschappelijk artikel:“In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”[x]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”. Het is op deze theorie dat wij verder bouwen. Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... 
+Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... 
 
-Praktisch staat deze methode echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [1] en [2], voor mensen thuis bestaat er nog helemaal geen product. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier wouden oplossen. Hierbij willen we de uitvoering van deze methode in een nieuw jasje steken en vanuit een frisse blik benaderen
-Door deze strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief product. Graag stellen wij u voor aan de "interactive blocks".Dit interactieve product slaagt er in bovenstaande handelingen te combineren op een leuke, speelse en toegankelijke manier. 
+Praktisch staat deze methode echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [1] en [2], voor mensen thuis bestaat er nog helemaal geen product. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier wouden oplossen. Hierbij willen we de uitvoering van deze methode in een nieuw jasje steken en op een andere manier benaderen.
 
-Om tot dit product te komen gingen wij zeer grondig te werk. We deden per fase meerdere interviews om te verzekeren dat we niet voor onszelf of voor een verkeerde doelgroep gingen ontwerpen. En maakten we telkens gebruik van meerdere prototypes om de tester zelf objectief de keuze te geven.
+Om tot dit product te komen gingen wij zeer grondig te werk. We deden per fase meerdere interviews om te verzekeren dat we niet voor onszelf of voor een verkeerde doelgroep gingen ontwerpen. En maakten we telkens gebruik van meerdere prototypes om de tester zelf objectief de keuze te geven. We voerden een literatuurstudie uit om een meer theoretisch beeld te krijgen.
+Klantenbehoeften, ontwerpcriteria, een fishbone diagram, een innovatrix, een functieboom adhv de interface... hielpen ons om tot een degelijk product komen. 
 
-
+Door de strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief product. Graag stellen wij u voor aan de "interactive blocks". Die de essentie van de theorie van RGM overneemt(aangezien dit wetenschappelijk is aangetoond) maar dit in een meer toegankelijk en beter uitgewerkt product steekt.
 
 ## Introductie
-Vooraleer een product uitgewerkt wordt is het belangrijk ervoor te zorgen dat het probleem duidelijk gedefinieerd wordt en dat er wel degelijk een grondig probleem mee opgelost wordt. Het was bij de start van dit project dat ons meteen een grote gap opviel. Deze methode is theoretisch zeer sterk onderbouwd en aangetoond
+Vooraleer het uitgebreider te hebben over het probleem is het eerst belangrijk nog dieper in te gaan op de theoretische werking van deze methode. Dit is noodzakelijk als achtergrond om te begrijpen waarmee we bezig zijn.
 
-Zowel uit deze home site als op youtube (https://youtu.be/uXo-22vdD_8?si=rbDRUkEz0bA-MzG0) blijkt dat de uitvoering niet verder gaat dan een projector en een beeldscherm. Desondanks zal uit de interviews later blijken dat mensen binnen onze doelgroep (65+ers zonder neurologische aandoening) deze methode ook graag thuis zouden beoefenen. Dit zowel in kleine groep als individueel.  
+Vooraleer een product uitgewerkt wordt is het belangrijk ervoor te zorgen dat het probleem duidelijk gedefinieerd wordt en dat er wel degelijk een grondig probleem mee wordt opgelost. Het was bij de start van dit project dat ons meteen een grote gap opviel. Deze methode is theoretisch zeer sterk onderbouwd en aangetoond. 
 
-Met behulp van klantenbehoeften, ontwerpcriteria, een fishbone diagram, een innovatrix, een functieboom adhv de interface... willen wij tot een degelijk product komen. Om bovenstaande informatie te verzamelen werden gebruikerstesten, interviews, een literatuurstudie gedaan.  
+vrt nws cognitieve reserve
+De combinatie hiervan vergroot de hersenmassa en stimuleert de verbindingen hiertussen. Deze theorie Wetenschappelijk onderzoek heeft al langer aangetoond dat deze methode effectief is. Daarbij is vooral het belang van muziek niet te onderschatten. Zo volgde uit een wetenschappelijk artikel:“In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”[x]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”. Het is op deze theorie dat wij verder bouwen. 
+
 
 De voornamelijkste stakeholders in dit project zijn de testpersonen, onze leerkrachten van dit project en wij als ingenieur 
 
