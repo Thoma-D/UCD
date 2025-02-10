@@ -144,7 +144,10 @@ Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de
 
 **Hoe kan je de blokjes onderscheiden? Is dit nodig?**
 
-Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren. Uit observatie en een achteraf afgelegde ondervraging, konden we concluderen dat voor de meeste gebruikers dit niet hielp, dus om de keuze aan de gebruiker te geven zal 1 van de zijdes verschillend bij elke blok worden ingekleurd. Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren, 1 bij elk van de cilinders met een verschillend kleur ingekleurd, en 1 in hetzelfde kleur als de andere cilinders.
+Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren. Uit observatie en een achteraf afgelegde ondervraging, konden we concluderen dat voor de meeste gebruikers dit niet hielp, dus om de keuze aan de gebruiker te geven zal 1 van de zijdes verschillend bij elke blok worden ingekleurd. Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren, 1 bij elk van de cilinders met een verschillend kleur ingekleurd, en 1 in hetzelfde kleur als de andere cilinders.![blokken zw](https://github.com/user-attachments/assets/28def15b-0d7f-4cb0-a1ef-0bb421d9f4fb)
+![blokken kleuren](https://github.com/user-attachments/assets/bdb81264-3999-459a-b369-8edf3ad4ef2f)
+
+
 
  
 
@@ -174,23 +177,79 @@ Er werd dus gevraagd het product te testen met 4 en vervolgens met 6 blokken. Hi
 
 ### WAVE 2 (N=5)
  
-Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave werd voornamelijk meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. De overgebleven onderzoeksvragen werden in de gebruikerstesten gesteld:
+Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave werd voornamelijk meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. De overgebleven onderzoeksvragen worden in deze gebruikerstesten onderzocht.
 
-Welke displaygrootte moet het product hebben? Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet en een laptop. Hierop reageerden de gebruikers verdeeld. Maar om de prijs van het product laag te houden kan hier niet in geïnvesteerd worden. Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. Zie interview Willy: “wat is een HDMI-kabel”
-Welke afmetingen moet de blok hebben? Uit wave 1 bleek al eerder dat de blokken cilindervormig zullen zijn. Er werden aan de gebruiker drie formaten voorgelegd. Vervolgens konden zij hun voorkeur aanduiden en argumenteren waarom. Daaruit bleek voor alle gebruikers het voorkeur uit te gaan naar het kleine formaat. 
+### Doestellingen
+- Bepalen kleur
+- Bepalen geometrie en displaygrootte
+- Bepalen interface
+  
+### Materiaal & methoden
+- Figma
+- Smartphone (6.7")
+- Tablet (10.9")
+- Laptop (15.6")
+- tv
 
-Kent de doelgroep beloningssystemen en staan ze hiervoor open? Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd met dergelijke systemen. Vooral klantenkaarten en klantenapps bij supermarkten blijken populair te zijn. Daarbij viel op dat hun voorkeur uitgaat naar een manuele kaart i.p.v. een app waar ze veel meer met dergelijke systemen geconfronteerd worden. Uiteindelijk blijkt dat ze openstaan om hun vooruitgang te zien maar minder geïnteresseerd zijn in echte grote beloningssystemen. 
+  
+- Interview
+- BERT-test
 
-Is de interface eenvoudig genoeg voor de doelgroep? Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Hier zal in het uiteindelijke product zeker rekening mee worden gehouden. 
-Om de interface in het tweede semester vlot uit te werken werd daarom een functieboom a.d.h.v. de interface opgesteld.
+De gebruikerstesten worden uitgevoerd als een combinatie van BERT-testen en interviews. **De BERT-testen zorgen voor kwantitatieve informatie. De interviews voor meer kwalitatieve info.**
+  
+### Resultaten
+
+**Welke displaygrootte moet het product hebben?**
+
+Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet, een laptop en een TV. **Zoals op onderstaande figuur te zien is**.  
+
+Hierop reageerden de gebruikers verdeeld. 40% koos voor het 6.7" scherm, 40% tv en 20% 10.9" scherm zoals in onderstaande grafiek te zien is. Daarbij valt op dat de trendlijn daalt en links het hoogst ligt aangezien daar de meeste waarden liggen.
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/8a1aa261-4321-4523-b8eb-afec565d93bf" />
+
+Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. **Zie interview Willy: “wat is een HDMI-kabel”.**  
+
+**Welke afmetingen hebben de cilinders**
+
+Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groottes kan de gebruiker nu nauwkeuriger kiezen welke deze het meest aangenaams vindt. Uit de BERT testen en interviews blijkt dat 80% 45mm als straal en hoogte verkiest. Dit doordat deze het lichtst en makkelijkst vast te pakken zijn.
+
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/9175bdf3-4030-49d7-bbb5-5253d1f27a8f" />
+
+**Kent de doelgroep beloningssystemen en staan ze hiervoor open?**
+
+Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd met dergelijke systemen. Vooral klantenkaarten en klantenapps bij supermarkten blijken populair te zijn. Daarbij viel op dat hun voorkeur uitgaat naar een manuele kaart i.p.v. een app waar ze veel meer met dergelijke systemen geconfronteerd worden. Uiteindelijk blijkt dat ze openstaan om hun vooruitgang te zien maar minder geïnteresseerd zijn in echte grote beloningssystemen. 
+
+**Waar moet aandacht aan worden besteed om tot een goede interface te komen?**
+
+Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. één met woorden en één met symbolen. Deze zijn terug te vinden bij de bijlagen. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. symbolen
+Om de uitwerking van de interface in het vervolg van het proces vlotter te laten verlopen werd een boomdiagram van de interface gemaakt zoals in onderstaande figuur te zien is.
 <img width="985" alt="image" src="https://github.com/user-attachments/assets/0bd6fede-7f63-48ef-a26c-2a07bce238b6" />
 
+**Kleur**
+Kleur werd uiteindelijk al in de verwerking van wave 1 bepaald.
+
+### Conclusies
+**Displaygrootte**
+
+Naast het feit dat de cijfers verdeeld waren wordt voor een scherm tussen 6.7 en 10.9" gekozen. Dit om de kostprijs te drukken, om het sukkelen met HDMI poorten te vermijden (zie interview Willy: “wat is een HDMI-kabel”) en aangezien volgens de trendlijn daar de meeste waarden liggen.
+
+**Cilindergrootte**
+
+De cilinder heeft een hoogte en straal van 45 mm
+
+**Beloningsysteen**
+
+Doelgroep wenst geen uitgebreid beloningssysteem. Er moet wel een mogelijkheid zijn om de vooruitgang te kunnen zien.
+
+**Interface**
+
+De interface moet voldoende simpel zijn.
+De interface steunt voornamelijk op woorden en niet op symbolen.
 
 ## Bill of materials en klantbehoeften
-- Welk
-- Materiaal
-- Heb
-- Je
+- foam
+- vier kleuren balpen
+- papier
+- 
 - Nu
 - Nodig
 - Voor
@@ -209,3 +268,5 @@ Max. 500 woorden
 [2] https://youtu.be/f69yf9YW_Cw?si=AWP4Jiq0gLOwygd5
 
 ## Bijlagen
+figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
+figma symbolen: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=e6Q9ih9GOHFj0thw-1 
