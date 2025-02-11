@@ -1,6 +1,6 @@
-Interative blocks
+MuziSym
 
-RGM toegepast in een toegankelijk en uitdagend uitgewerkt product
+Interactief spel dat cognitieve, sensorische en motorische elementen combineert tot een toegankelijk en gebruiksvriendelijk product
 
 Projectteam: Thoma Demets; Cieters Jeroen
 
@@ -9,9 +9,11 @@ Projectteam: Thoma Demets; Cieters Jeroen
 ## Samenvatting
 RGM: een interactieve en multisensorische oefenmethode die motorische, sensorische en cognitieve elementen bevat. Daarbij omvat:
 
-Het sensorische gedeelte: het waarnemen van de muziek en symbolen
-Het motorische gedeelte: het uitvoeren van de danspassen zoals in de rechterkolom
-Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
+- Het sensorische gedeelte: het waarnemen van de muziek en symbolen
+
+- Het motorische gedeelte: het uitvoeren van de danspassen zoals in de rechterkolom
+
+- Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
 
 Hierbij wordt er gebruik gemaakt van symbolen en muziek. Op deze muziek en symbolen worden danspassen uitgevoerd. Het is net die combinatie van elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen. Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[Bron 3] Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... 
 In de introductie en literatuurstudie wordt hier dieper op ingegaan.
@@ -22,6 +24,7 @@ Het initiële doel van het spel is om de vier cilinders in de juiste volgorde te
 
 Om tot dit product te komen gingen wij zeer grondig te werk. We deden per fase meerdere interviews om te verzekeren dat we niet voor onszelf of voor een verkeerde doelgroep gingen ontwerpen. We maakten telkens gebruik van meerdere prototypes om de tester zelf objectief de keuze te geven. We voerden een literatuurstudie uit om een meer theoretisch beeld te krijgen. Klantenbehoeften, ontwerpcriteria, een fishbone diagram, een innovatrix, een functieboom adhv de interface... hielpen ons om tot een degelijk product komen. 
 Door de strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief product. Graag stellen wij u voor aan "Muzisym". Die de essentie van de theorie van RGM overneemt (aangezien dit wetenschappelijk is aangetoond) maar dit in een meer toegankelijk en beter uitgewerkt product steekt.
+
 <img width="285" alt="image" src="https://github.com/user-attachments/assets/a3ce32f7-a92f-4ce6-a621-38ad0dc8cdf6" />
 
 
@@ -43,7 +46,9 @@ Dit project werd uitgevoerd door Thoma en Jeroen binnen het vak project gebruiks
 
 
 ## Methodologie
-Zoals eerder vermeld is het noodzakelijk een strak plan te hebben en een methodologische aanpak te volgen om tot een goed concept te komen. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in figuur 1. 
+Om een project tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in figuur 1. 
+
+Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. Het belangrijkste doel is dus om de gaps te detecteren en om informatie die verder nuttig blijkt te zijn hieruit te filteren. 
 
 De eerste fase hierbinnen is de discovery fase. Hierbinnen werd een literatuurstudie uitgevoerd. Aangezien het belangrijk is een volledig beeld te krijgen in dit topic is het belangrijk naast wetenschappelijke artikels ook eens verder te kijken en gebruik te maken van databases, gewone artikels en websites. Om voldoende ingelezen te zijn werden 10 bronnen gebruikt. Vooraleer een goed product ontworpen wordt is het ook belangrijk om veel inzichten te krijgen en het probleem duidelijk af te bakenen en te definiëren. Het is als het ware belangrijk de gebruiker beter te leren kennen dan deze zichzelf kent. Na de literatuurstudie werden interviews afgenomen. Daarbij is het de bedoeling-nadat de literatuurstudie gedaan is en een wetenschappelijke basis gelegd is, ook rechtstreekse input van de gebruiker te krijgen. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat. Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd. Uit de gevonden informatie konden de eerste klantbehoeften, een fishbone en innovatrix worden opgesteld. Daarnaast kon ook een user model worden opgesteld. Deze tools zijn zeer nuttig om tijdens het ontwerpproces als houvast te houden.
 
