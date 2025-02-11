@@ -1,6 +1,6 @@
 MuziSym
 
-Interactief spel dat cognitieve, sensorische en motorische elementen combineert tot een toegankelijk en gebruiksvriendelijk product
+Het interactief spel dat cognitieve, sensorische en motorische elementen combineert op muzicale en interactieve manier tot een toegankelijk en gebruiksvriendelijk product.
 
 Projectteam: Thoma Demets; Cieters Jeroen
 
@@ -48,14 +48,21 @@ Dit project werd uitgevoerd door Thoma en Jeroen binnen het vak project gebruiks
 ## Methodologie
 Om een project tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in figuur 1. 
 
-Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. Het belangrijkste doel is dus om de gaps te detecteren en om informatie die verder nuttig blijkt te zijn hieruit te filteren. 
+Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
+Daarbij is het belangrijkste doel is om vragen als: **Waar liggen de Gaps? Wie is de doelgroep? En is deze doelgroep voldoende groot?** Te beantwoorden
+Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede basis**. 
 
-De eerste fase hierbinnen is de discovery fase. Hierbinnen werd een literatuurstudie uitgevoerd. Aangezien het belangrijk is een volledig beeld te krijgen in dit topic is het belangrijk naast wetenschappelijke artikels ook eens verder te kijken en gebruik te maken van databases, gewone artikels en websites. Om voldoende ingelezen te zijn werden 10 bronnen gebruikt. Vooraleer een goed product ontworpen wordt is het ook belangrijk om veel inzichten te krijgen en het probleem duidelijk af te bakenen en te definiëren. Het is als het ware belangrijk de gebruiker beter te leren kennen dan deze zichzelf kent. Na de literatuurstudie werden interviews afgenomen. Daarbij is het de bedoeling-nadat de literatuurstudie gedaan is en een wetenschappelijke basis gelegd is, ook rechtstreekse input van de gebruiker te krijgen. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat. Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd. Uit de gevonden informatie konden de eerste klantbehoeften, een fishbone en innovatrix worden opgesteld. Daarnaast kon ook een user model worden opgesteld. Deze tools zijn zeer nuttig om tijdens het ontwerpproces als houvast te houden.
+Binnen de literatuurstudie wordt gebruik gemaakt van: wetenschappelijke artikels, databases, gewone artikels en websites. Dit geeft een sterkt theoretisch, analytisch en wetenschappelijke basis.
 
-Nadat de discovery fase is afgerond, het probleem duidelijk is en de eerste klantbehoeften zijn opgesteld, is het nu tijd om over te gaan naar de” define” fase in het ontwerpproces. Ook in deze fase zal het belangrijk zijn om een methodische aanpak te gebruiken. Hierbinnen werd gebruik gebruik gemaakt van 2 waves. In de eerste wave zal voornamelijk op de functionaliteit gefocust worden. Dit is van primair belang. Hiervoor werden de nodige prototypes gemaakt. Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt. Dit telt zowel voor het hardware gedeelte waar verschillende vormen en maten van blokken gebruikt werden. Als voor software waar gebruik gemaakt werd van verschillende interfaces. Afmetingen, kleuren en gedetailleerde functies werden verder onderzocht in de tweede wave binnen de define fase. Met de informatie uit deze gebruikerstesten konden de klantbehoeften worden aangevuld.
+Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze beter te leren kennen dan deze zichzelf kent. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. **Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat.** Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd.
+
+Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker nog meer centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
+
+In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als hoeveel blokken? En hoe snel volgen de danspassen op elkaar? Te beantwoorden. Hiervoor werden de nodige prototypes gemaakt. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
+
+In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daarbij wordt meer naar de belonigssytemen en schermgrootte gekeken
 <img width="845" alt="image" src="https://github.com/user-attachments/assets/319baf8d-9894-48b3-bee8-3941fe869a2c" />
-
-figuur 1: Ingevulde Zendesk tripple diamond
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/74212ae5-f6d4-4989-bb20-589240e3eb2d" />
 
 ## Discovery
 
