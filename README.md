@@ -183,6 +183,7 @@ Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker w
 - Bepalen kleur
 - Bepalen geometrie en displaygrootte
 - Bepalen interface
+- Hoe staan ouderen t.o.v. belonigsystemen
   
 ### Materiaal & methoden
 - Figma
