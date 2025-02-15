@@ -84,17 +84,17 @@ Uit deze bronnen volgde onze doelgroep: “65+ers zonder neurologische aandoenin
 
 #### Interviews (N=4)
 
-We voeren interviews uit met “65+ers zonder neurologische aandoening” met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
+Er werden interviews uigevoerd met “65+ers zonder neurologische aandoening” met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
 
 De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aandoening tegenover de RGM-methode? Welke aspecten van deze methode spreken hen aan? Wat zien ze liever anders?   
 
-Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden konden we concluderen dat ze openstaan voor de RGM-methode, maar behoefte hebben aan een rustiger tempo en verschillende moeilijkheidsniveaus.  Ze stonden allemaal open voor een gebruiksvriendelijke thuisoplossing, die bruikbaar moet zijn zonder tussenkomst van derden.  
+Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden werd geconcludeerd dat ze openstaan voor de RGM-methode, maar behoefte hebben aan een rustiger tempo en verschillende moeilijkheidsniveaus. Ze stonden allemaal open voor een gebruiksvriendelijke thuisoplossing, die bruikbaar moet zijn zonder tussenkomst van derden.  
 
 Nadat uiteindelijk de interviews werden afgelegd werd het volgende persona opgesteld. 
 ![Persona](https://github.com/user-attachments/assets/0cb5bb9d-1eca-4e9b-9940-7f48631f29ae)
 #### Benchmarking (N=11)
 
-Aan de hand van Benchmarking analyseerden we de huidige markt en hun huidige oplossingen.  
+Aan de hand van Benchmarking werd de huidige markt en hun huidige oplossingen geanalyseerd.  
 
 Momenteel passen geen producten RGM rechtstreeks toe. Daarom werden hierbij gelijkaardige, relevante en succesvolle producten geanalyseerd om zo tot extra design requirements te komen. Uiteindelijk werd met deze data volgende tabel opgesteld. 
 
@@ -271,12 +271,13 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 - foam
 - vier kleuren balpen
 - papier
-- 
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+## Overzicht Design Requirements
+
+|ID|Design Requirement|Source|
+|:---|:---|:---|
+||
+
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/35ce26a0-322b-482e-bdec-200db8c034ec" />
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/d895d0c2-1341-4a56-aec6-36e5ec87c218" />
