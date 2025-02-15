@@ -275,12 +275,36 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 
 |ID|Design Requirement|Source|
 |:---|:---|:---|
-||
-
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/35ce26a0-322b-482e-bdec-200db8c034ec" />
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d895d0c2-1341-4a56-aec6-36e5ec87c218" />
+|**Groep 1**|**Algemeen**|
+|1.1|Het product moet meerdere hersengebieden activeren|[Literatuurstudie](#literatuurstudie-n10) bron 1|
+|1.2|Het product moet in groep te kunnen gebruiken zijn|[Literatuurstudie](#literatuurstudie-n10) bron 2|
+|1.3|Het product moet uitstralen dat fouten maken mag|[Literatuurstudie](#literatuurstudie-n10) bron 2|
+|1.4|Het product moet muziek bevatten|[Literatuurstudie](#literatuurstudie-n10) bron 1,2,3,7,10|
+|1.5|Het product moet ritme bevatten|[Literatuurstudie](#literatuurstudie-n10) bron 6|
+|1.6|Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt |[Literatuurstudie](#literatuurstudie-n10) bron 2|
+|1.7|Het product moet verschillende moeilijkheid niveaus bevatten|[Interviews](#interviews-n4) 1,2|
+|1.8|Een sessie moet geleidelijk opbouwen |[Interviews](#interviews-n4) 1,2|
+|1.9|De muziek moet instelbaar of gekend zijn |[Interviews](#interviews-n4) 1|
+|1.10|Het product moet thuis te gebruiken zijn |[Interviews](#interviews-n4) 2|
+|1.11|Het product moet voor zowel individuele (eenzame) als meerdere personen tegelijkertijd geschikt zijn |[Interviews](#interviews-n4) 2|
+|1.12|Het product moet een alternatief voor dans kunnen bevatten|[Interviews](#interviews-n4) 3|
+|1.13|Het product moet buiten te gebruiken kunnen zijn |[Interviews](#interviews-n4) 4|
+|1.14|Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten|[Interviews](#interviews-n4) 1|
+|1.15|Het product moet de mogelijkheid geven het muzieknummer vooraf volledig te spelen |[Wave 1](#wave-1-n5)|
+|1.16|Het product moet veilig te gebruiken zijn |[Wave 1](#wave-1-n5)|
+|**Groep 2**|**Interactieve blokken**|
+|2.1|Het product moet vier interactieve blokken bevatten|[Wave 1](#wave-1-n5)|
+|2.2|De interactieve blokken moeten zowel een te onderscheiden als een niet te onderscheiden kant hebben (1kant allemaal dezelfde kleur, 1 kant allemaal een verschillend kleur)|[Wave 1](#wave-1-n5)|
+|2.3|De interactieve blokken zijn cilindervormig, om duidelijk 2 verschillende kanten te hebben, met elk zijn unieke functie|[Wave 1](#wave-1-n5)|
+|2.4|De cilinders moeten een kleine diameter hebben (45mm-mm)|[Wave 2](#wave-2-n5)|
+|**Groep 3**|**Interface/scherm**|
+|3.1|De interface van het product moet hoofdzakelijk uit woorden bestaan.|[Wave 2](#wave-2-n5)|
+|3.2|De interface moet eenvoudig en beperkt blijven|[Wave 2](#wave-2-n5)|
+|3.3|De afmetingen van het scherm mogen niet groter zijn dan 10,9” |[Wave 2](#wave-2-n5)|
+|**Groep 4**|**Docking station**|
+|4.1|Het product moet esthetisch aantrekkelijk zijn |[Wave 2](#wave-2-n5)|
+|4.2|Het product moet feedback geven aan het einde van een spelsessie|[Wave 2](#wave-2-n5)|
+|4.3|De docking station van het product moet een speaker bevatten|[Wave 1](#wave-1-n5)|
 
 
 ## Kritische reflectie
@@ -293,3 +317,4 @@ Max. 500 woorden
 ## Bijlagen
 figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
 figma symbolen: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=e6Q9ih9GOHFj0thw-1 
+
