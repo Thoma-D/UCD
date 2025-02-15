@@ -256,7 +256,7 @@ Naast het feit dat de cijfers verdeeld waren wordt voor een scherm tussen 6.7 en
 
 **Cilindergrootte**
 
-De cilinder heeft een hoogte en straal van 45 mm
+De cilinder heeft een hoogte en diameter van 45 mm
 
 **Beloningsysteen**
 
