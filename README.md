@@ -94,7 +94,7 @@ De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aan
 Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden werd geconcludeerd dat ze openstaan voor de RGM-methode, maar behoefte hebben aan een rustiger tempo en verschillende moeilijkheidsniveaus. Ze stonden allemaal open voor een gebruiksvriendelijke thuisoplossing, die bruikbaar moet zijn zonder tussenkomst van derden.  
 
 Nadat uiteindelijk de interviews werden afgelegd werd het volgende persona opgesteld. 
-![Persona](https://github.com/user-attachments/assets/0cb5bb9d-1eca-4e9b-9940-7f48631f29ae)
+<img src="afbeeldingen/Persona.jpg">
 #### Benchmarking (N=11)
 
 Aan de hand van Benchmarking werd de huidige markt en hun huidige oplossingen geanalyseerd.  
@@ -139,9 +139,10 @@ De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot 
 
 
 ## Definition
-![Storyboard](https://github.com/user-attachments/assets/86278325-7cd3-4a37-a17a-ff2951fcbef3)
-![Wave 1 morfologische matrix](https://github.com/user-attachments/assets/3b191b5d-6e7f-42f0-a0a0-e3500bc6e6db)
-
+<p align="center">
+<img src="afbeeldingen/Storyboard.png" width="59%">
+<img src="afbeeldingen/Wave 1 morfologische matrix.png" width="40%">
+</p>
 ### WAVE 1 (N=5)
 
 Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
