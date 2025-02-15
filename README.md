@@ -80,7 +80,10 @@ Opstellen klantbehoeften
 Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, werd begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
 
 Uit deze bronnen volgde onze doelgroep: “65+ers zonder neurologische aandoening” en konden de eerste design requirements worden vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
-![fishbone diagram](https://github.com/user-attachments/assets/4a6b92c6-a2ad-4167-afdf-5ec24ce6baa6)![Innovatrix](https://github.com/user-attachments/assets/ebebdf3f-4ddc-4995-9782-804483deb4da)
+<p align="center">
+ <img src="afbeeldingen/fishbone diagram.jpg" width="75%">
+ <img src="afbeeldingen/Innovatrix.jpg" width="24%">
+</p>
 
 #### Interviews (N=4)
 
