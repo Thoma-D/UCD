@@ -1,8 +1,8 @@
 MuziSym
 
-Het interactief spel dat cognitieve, sensorische en motorische elementen combineert op muzicale en interactieve manier tot een toegankelijk en gebruiksvriendelijk product.
+Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op muzikale, toegankelijke en gebruiksvriendelijke manier.
 
-Projectteam: Thoma Demets; Cieters Jeroen
+Projectteam: Thoma Demets en Cieters Jeroen
 
 2024-2025
 
@@ -15,15 +15,16 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 
 - Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
 
-Hierbij wordt er gebruik gemaakt van symbolen en muziek. Op deze muziek en symbolen worden danspassen uitgevoerd. Het is net die combinatie van elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen. Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[Bron 3] Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... 
-In de introductie en literatuurstudie wordt hier dieper op ingegaan.
+Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
+Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[Bron 3].
 
-In realiteit blijft deze methode vooral in theorie bestaan. Enkel in rusthuizen worden sessies gegeven waarbij gebruik wordt gemaakt van een projector. Hierdoor vallen veel mensen die binnen de doelgroep vallen buiten de boot. 
+Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... De theoretische werking wordt verder besproken in de inleiding.
 
-Het initiële doel van het spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke  combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
+In realiteit blijft deze methode vooral in theorie bestaan. Enkel in rusthuizen worden sessies gegeven waarbij gebruik wordt gemaakt van een projector. Hierdoor vallen veel mensen vallen buiten de boot. Graag stellen wij u voor aan "Muzisym". Het spel dat de wetenschappelijk aangetoonde theorie van RGM integreert in een toegankelijker en verder uitgewerkt product.
 
-Om tot dit product te komen gingen wij zeer grondig te werk. We deden per fase meerdere interviews om te verzekeren dat we niet voor onszelf of voor een verkeerde doelgroep gingen ontwerpen. We maakten telkens gebruik van meerdere prototypes om de tester zelf objectief de keuze te geven. We voerden een literatuurstudie uit om een meer theoretisch beeld te krijgen. Klantenbehoeften, ontwerpcriteria, een fishbone diagram, een innovatrix, een functieboom adhv de interface... hielpen ons om tot een degelijk product komen. 
-Door de strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief product. Graag stellen wij u voor aan "Muzisym". Die de essentie van de theorie van RGM overneemt (aangezien dit wetenschappelijk is aangetoond) maar dit in een meer toegankelijk en beter uitgewerkt product steekt.
+Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
+
+Om tot dit product te komen werd grondig gewerkt. Dicht bij de doelgroep staan staat centraal in tom gebruiksgericht te ontwerpen. Telkens werd gebruik gemaakt van meerdere prototypes om de tester zelf de keuze te geven. Klantenbehoeften, ontwerpcriteria,literatuurstudie, interviews, fishbone diagram, persona, innovatrix, een functieboom adhv de interface... hielpen ons om tot dit degelijke product komen. 
 
 <img width="285" alt="image" src="https://github.com/user-attachments/assets/a3ce32f7-a92f-4ce6-a621-38ad0dc8cdf6" />
 
@@ -32,10 +33,9 @@ Door de strikte aanpak kwamen wij tot een toegankelijk, innovatief en effectief 
 ## Introductie
 Vooraleer het uitgebreider te hebben over het probleem is het eerst noodzakelijk dieper in te gaan op de theoretische werking van deze methode. Dit is noodzakelijk als achtergrond en aangezien het vervolg van dit proces steunt op dit principe.
 
-Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat.
-De combinatie hiervan vergroot de hersenmassa en stimuleert de verbindingen hiertussen. Daarbij is vooral het belang van muziek niet te onderschatten. Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[x]. Hierbij is het de bedoeling de cognitieve reserve in de hersenen te vergroten en het verkleinen daarvan tegen te gaan.[x] 
+Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[Bron 3]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[Bron 9]
 
-Alhoewel deze methode wetenschappelijk is aangetoond , staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [1] en [2], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
+Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [bron 1] en [bron 2,7], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 
 Hieruit volgt onze challenge, onze how might we:
 Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?
