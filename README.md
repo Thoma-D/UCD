@@ -79,11 +79,20 @@ Opstellen klantbehoeften
 
 Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, werd begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
 
-Uit deze bronnen volgde onze doelgroep: “65+ers zonder neurologische aandoening” en konden de eerste design requirements worden vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
+Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening” en werden de eerste design requirements vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
 <p align="center">
  <img src="afbeeldingen/fishbone diagram.jpg" width="75%">
  <img src="afbeeldingen/Innovatrix.jpg" width="24%">
 </p>
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.1 Het product moet meerdere hersengebieden activeren	
+> - D1.2 Het product moet in groep te kunnen gebruiken zijn	
+> - D1.3 Het product moet uitstralen dat fouten maken mag	
+> - D1.4 Het product moet muziek bevatten	
+> - D1.5 Het product moet ritme bevatten	
+> - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt	
 
 #### Interviews (N=4)
 
@@ -93,50 +102,35 @@ De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aan
 
 Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden werd geconcludeerd dat ze openstaan voor de RGM-methode, maar behoefte hebben aan een rustiger tempo en verschillende moeilijkheidsniveaus. Ze stonden allemaal open voor een gebruiksvriendelijke thuisoplossing, die bruikbaar moet zijn zonder tussenkomst van derden.  
 
-Nadat uiteindelijk de interviews werden afgelegd werd het volgende persona opgesteld. 
+Nadat uiteindelijk de interviews waren afgelegd werd het volgende persona opgesteld. 
 <img src="afbeeldingen/Persona.jpg">
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.7 Het product moet verschillende moeilijkheid niveaus bevatten	
+> - D1.8 Een sessie moet geleidelijk opbouwen	
+> - D1.9 De muziek moet instelbaar of gekend zijn	
+> - D1.10 Het product moet thuis te gebruiken zijn	
+> - D1.11 Het product moet voor zowel individuele (eenzame) als meerdere personen tegelijkertijd geschikt zijn 	
+> - D1.12 Het product moet een alternatief voor dans kunnen bevatten	
+> - D1.13 Het product moet buiten te gebruiken kunnen zijn 	
+> - D1.14 Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten	
+
+
 #### Benchmarking (N=11)
 
 Aan de hand van Benchmarking werd de huidige markt en hun huidige oplossingen geanalyseerd.  
 
 Momenteel passen geen producten RGM rechtstreeks toe. Daarom werden hierbij gelijkaardige, relevante en succesvolle producten geanalyseerd om zo tot extra design requirements te komen. Uiteindelijk werd met deze data volgende tabel opgesteld. 
+<p align="center">
+<img src="afbeeldingen/Benchmark analyse.png">
+</p>
+
 
 ### Conclusies & implicaties
 De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot een duidelijk beeld van de doelgroep, “65+’ers zonder neurologische aandoening,” en hun behoeften. De doelgroep staat open voor de RGM-methode, maar vraagt om een rustiger tempo, meer herhaling en verschillende moeilijkheidsniveaus. Daarnaast is er een sterke voorkeur voor een gebruiksvriendelijke thuisoplossing die zelfstandig kan worden gebruikt. Benchmarking toont aan dat er momenteel geen directe RGM-producten op de markt zijn, maar vergelijkbare oplossingen bieden waardevolle inzichten voor het ontwerp en bevestigen de bestaande marktkans. 
 
-**Literatuurstudie:**
-* Het product moet meerdere hersengebieden activeren. 
-* Het product moet uitstralen dat fouten maken mag. 
-* Het product moet in groep te kunnen gebruiken zijn. 
-* Het product moet muziek en ritme bevatten. 
-* Het product moet correcte feedback geven.
-* Het product moet veilig te gebruiken zijn.
-* Het product moet ergonoom zijn.
-* Het product moet de ervaring geven/ erin slagen dat de doelgroep er steeds beter in wordt. 
-
- 
-
-**Interviews:**
-* Het product moet verschillende niveaus bevatten. 
-* Een sessie moet geleidelijk aan opbouwen. 
-* De muziek moet instelbaar of gekend zijn. 
-* Het product moet thuis te gebruiken zijn. 
-* Het product moet voor zowel individuele (eenzame) als meerdere personen tegelijkertijd geschikt zijn. 
-* Het product moet een alternatief voor dans kunnen bevatten 
-* Het product moet buiten te gebruiken kunnen zijn. 
-* Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten. 
-
-**Benchmarking:**
-* Het product moet gebruik maken van grote, heldere visuele cues. 
-* Het product moet compact en lichte accessoires hebben. 
-* Het product moet een eenvoudige interface hebben. 
-* Het product multifunctionele feedback geven. 
-* Het product moet verschillende moeilijkheidsgraden hebben, die de gebruiker zelf kan aanpassen. 
-* Het product moet zachte, griprijke materialen bevatten.
-* Het product moet een ergonomische vorm hebben.
-
-
-
+**Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
 
 ## Definition
 <p align="center">
