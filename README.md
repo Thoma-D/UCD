@@ -142,6 +142,23 @@ De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot 
 
 Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
 
+### Doestellingen
+- Bepalen hoe we de danspassen weergeven
+- Bepalen als de blokken te onderscheiden moeten zijn
+- Bepalen van het aantal blokken
+
+### Materiaal & methoden
+- Smartphone
+- Video's RGM danspassen
+- 6 indentiek gekleurde blokken
+- 4 verschillend gekleurde blokken
+- TAP (think out lout protocol)
+- QAP (Question asking protocol)
+- Intervieuw
+
+### Resultaten
+
+
 **Hoe worden danspasjes weergegeven?** 
 
 Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de zon in je hart” met RGM-symbolen voorbereid. Waarbij een verandering van danspas werd weergegeven aan de hand van een korte overgansanimatie. 
