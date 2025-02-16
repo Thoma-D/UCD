@@ -137,6 +137,7 @@ De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot 
 <img src="afbeeldingen/Storyboard.png" width="59%">
 <img src="afbeeldingen/Wave 1 morfologische matrix.png" width="40%">
 </p>
+
 ### WAVE 1 (N=5)
 
 Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
