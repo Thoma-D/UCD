@@ -77,6 +77,8 @@ Opstellen klantbehoeften
 
 ### Resultaten
 #### Literatuurstudie (N=10)
+[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
+[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
 
 Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, werd begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
 
@@ -96,6 +98,8 @@ Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening�
 > - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt	
 
 #### Interviews (N=4)
+[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20interview.pdf)
+[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/interview%20verslag.pdf)
 
 Er werden interviews uigevoerd met “65+ers zonder neurologische aandoening” met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
 
@@ -119,6 +123,8 @@ Nadat uiteindelijk de interviews waren afgelegd werd het volgende persona opgest
 
 
 #### Benchmarking (N=11)
+[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/ProtocoL_Benchmarking_Thoma_Demets.pdf)
+[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/Studie_Benchmarking_Thoma_Demets.pdf)
 
 Aan de hand van Benchmarking werd de huidige markt en hun huidige oplossingen geanalyseerd.  
 
