@@ -229,6 +229,15 @@ Na afloop verkoos 80% de variant met 4 blokken. Hieruit volgt de design requirem
 Bij de kleuren en hun bijhorende kanten werden ook veel fouten gemaakt, daaruit volgt design requirment D 4.4
  
  ### Conclusies
+**spel**
+Het product laat de gebruiker het liedje op voorhand horen als dit gewenst is.
+
+**interactieve blokken**
+Het product bezit 4 interactieve cilindervormige blokken met 2 fuctionele zijdes.
+
+**Docking station**
+Er zit 1 centrale speaker in de docking station, zo houden we de kostprijs lager en kunnen we de cilinders compacter houden.
+De dockingstation geeft aan welke kant rood en blauw moeten voorstellen.
  
 > [!IMPORTANT]
 > Design Requirements:
@@ -308,7 +317,7 @@ Naast het feit dat de cijfers verdeeld waren wordt voor een scherm tussen 6.7" e
 
 **Cilindergrootte**
 
-De cilinder heeft een hoogte en diameter van 45 mm
+De cilinder heeft een hoogte en diameter van 45 mm.
 
 **Beloningsysteen**
 
