@@ -165,7 +165,6 @@ Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de i
 
 ### Resultaten
 
-
 **Hoe worden danspasjes weergegeven?** 
 
 Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de zon in je hart” met RGM-symbolen voorbereid. Waarbij een verandering van danspas werd weergegeven aan de hand van een korte overgansanimatie. 
@@ -189,31 +188,56 @@ Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de
    Lied verdeeld in: 6
   [Links naar video's](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/Videofragmenten/snel%206/snelle%20video's%20(in%206))
 
- 
-
+  
 **Hoe kan je de blokjes onderscheiden? Is dit nodig?**
 
-Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren. Uit observatie en een achteraf afgelegde ondervraging, konden we concluderen dat voor de meeste gebruikers dit niet hielp, dus om de keuze aan de gebruiker te geven zal 1 van de zijdes verschillend bij elke blok worden ingekleurd. Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren, 1 bij elk van de cilinders met een verschillend kleur ingekleurd, en 1 in hetzelfde kleur als de andere cilinders.![blokken zw](https://github.com/user-attachments/assets/28def15b-0d7f-4cb0-a1ef-0bb421d9f4fb)
-![blokken kleuren](https://github.com/user-attachments/assets/bdb81264-3999-459a-b369-8edf3ad4ef2f)
+Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28def15b-0d7f-4cb0-a1ef-0bb421d9f4fb" width="45%">
+  <img src="https://github.com/user-attachments/assets/bdb81264-3999-459a-b369-8edf3ad4ef2f" width="45%">
+</p>
 
+Uit observatie en een achteraf afgelegde ondervraging, konden we concluderen dat 60% verkoos ze te kunnen onderscheiden. 
 
+<p align="center">
+ <img src="afbeeldingen/Grafiek Blokken onderscheiden.png" width="50%">
+ </p>
 
+Om de keuze aan de gebruiker te geven zal 1 van de zijdes verschillend bij elke blok worden ingekleurd (rood, blauw,...), en de andere zijde bij elke blok dezelfde (zwart). Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren. Dit leide dan tot design requirements D2.3 en D2.2.
  
 
 **Hoeveel blokjes worden er gebruikt (fixed?)**
 
-Er werd dus gevraagd het product te testen met 4 en vervolgens met 6 blokken. Hierbij zagen we dat het al een grote uitdaging was met 4 blokken om deze in de correcte volgorde te plaatsen. Dit koste voor hen al heel wat tijd, en zorgde voor een intensieve cognitieve en fysieke uitdaging. “Het is lastig om zowel op de danspassen als de muziek te letten” 
 
+ Het spel werd 3x gespeeld, startent bij de makkelijkste variant.
  
+ Hierbij zagen we dat het al een grote uitdaging was met 4 blokken om deze in de correcte volgorde te plaatsen.
 
-**Designrequerments door wave 1:**
-* Rood is rechts, blauw is links 
-* Het product moet de mogelijkheid geven het nummer vooraf volledig te spelen. 
-* Het product bevat slechts vier blokken 
-* Het product moet compact zijn, zodat weinig plek in de kast pakt. 
-* Het product moet verschillende moeilijkheidsgraden hebben. 
-* Het product moet duidelijk aangeven wat rechts(rood) en wat links(blauw) is.   
-* De blokken moeten een cilindrische vorm hebben. 
+> “Het is lastig om zowel op de danspassen als de muziek te letten” 
+
+Na afloop verkoos 80% de variant met 4 blokken. Hieruit volgt de design requirement D.1.
+
+<p align="center">
+ <img src="afbeeldingen/Grafiek aantal blokken.png" width="50%">
+ </p> 
+
+ **TAP/QAP**
+ Wat opviel is dat de grootste moeilijk lag bij het sorteren van de blokken. 60% van de gebruikers vroeg, of vermelde dat ze graag het de mogelijkheid zouden hebben een nummer op voorhand eens te beluisteren. Vandaar design requirment D1.15
+
+
+> “Welke kant is rood”
+Bij de kleuren en hun bijhorende kanten werden ook veel fouten gemaakt, daaruit volgt design requirment D 4.4
+ 
+ ### Conclusies
+ 
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.15 Het product moet de mogelijkheid geven het muzieknummer vooraf volledig te spelen
+> - D2.1 Het product moet vier interactieve blokken bevatten	* Het product moet verschillende moeilijkheidsgraden hebben
+> - D4.4 Het product moet duidelijk aangeven wat rechts(rood) en wat links(blauw) is
+> - D2.3 De interactieve blokken zijn cilindervormig, om duidelijk 2 verschillende kanten te hebben, met elk zijn unieke functie
+> - D2.2 	De interactieve blokken moeten zowel een te onderscheiden als een niet te onderscheiden kant hebben (1kant allemaal dezelfde kleur, 1 kant allemaal een verschillend kleur)
+> - D4.3 De docking station van het product moet een speaker bevatten	
 
 
 
@@ -342,6 +366,7 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 |4.1|Het product moet esthetisch aantrekkelijk zijn |[Wave 2](#wave-2-n5)|
 |4.2|Het product moet feedback geven aan het einde van een spelsessie|[Wave 2](#wave-2-n5)|
 |4.3|De docking station van het product moet een speaker bevatten|[Wave 1](#wave-1-n5)|
+|4.4|Het product moet duidelijk aangeven wat rechts(rood) en wat links(blauw) is|[Wave 1](#wave-1-n5)|
 
 
 ## Kritische reflectie
