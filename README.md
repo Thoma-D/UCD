@@ -16,7 +16,7 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 - Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
 
 Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
-Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[Bron 3].
+Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
 
 Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... De theoretische werking wordt verder besproken in de inleiding.
 
@@ -26,16 +26,16 @@ Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te
 
 Om tot dit product te komen werd grondig gewerkt. Dicht bij de doelgroep staan staat centraal in tom gebruiksgericht te ontwerpen. Telkens werd gebruik gemaakt van meerdere prototypes om de tester zelf de keuze te geven. Klantenbehoeften, ontwerpcriteria,literatuurstudie, interviews, fishbone diagram, persona, innovatrix, een functieboom adhv de interface... hielpen ons om tot dit degelijke product komen. 
 
-<img width="285" alt="image" src="https://github.com/user-attachments/assets/a3ce32f7-a92f-4ce6-a621-38ad0dc8cdf6" />
+<img src="afbeeldingen/symbolen met uitleg.png" width="25%">
 
 
 
 ## Introductie
 Vooraleer het uitgebreider te hebben over het probleem is het eerst noodzakelijk dieper in te gaan op de theoretische werking van deze methode. Dit is noodzakelijk als achtergrond en aangezien het vervolg van dit proces steunt op dit principe.
 
-Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[Bron 3]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[Bron 9]
+Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[1]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[2]
 
-Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [bron 1] en [bron 2,7], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
+Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 
 Hieruit volgt onze challenge, onze how might we:
 Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?
@@ -61,8 +61,9 @@ Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opg
 In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als hoeveel blokken? En hoe snel volgen de danspassen op elkaar? Te beantwoorden. Hiervoor werden de nodige prototypes gemaakt. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
 
 In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daarbij wordt meer naar de belonigssytemen en schermgrootte gekeken
-<img width="845" alt="image" src="https://github.com/user-attachments/assets/319baf8d-9894-48b3-bee8-3941fe869a2c" />
-<img width="485" alt="image" src="https://github.com/user-attachments/assets/74212ae5-f6d4-4989-bb20-589240e3eb2d" />
+<p align="center">
+<img src="afbeeldingen/zendesk.png" width="50%">
+<img src="afbeeldingen/Aaron Walter.png" width="25%">
 
 ## Discovery
 
@@ -89,7 +90,7 @@ Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening�
 > Design Requirements:
 > - D1.1 Het product moet meerdere hersengebieden activeren	
 > - D1.2 Het product moet in groep te kunnen gebruiken zijn	
-> - D1.3 Het product moet uitstralen dat fouten maken mag	
+> - D1.3 Het product moet fouten maken toelaten
 > - D1.4 Het product moet muziek bevatten	
 > - D1.5 Het product moet ritme bevatten	
 > - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt	
@@ -242,7 +243,7 @@ De gebruikerstesten worden uitgevoerd als een combinatie van BERT-testen en inte
 Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet, een laptop en een TV. **Zoals op onderstaande figuur te zien is**.  
 
 Hierop reageerden de gebruikers verdeeld. 40% koos voor het 6.7" scherm, 40% tv en 20% 10.9" scherm zoals in onderstaande grafiek te zien is. Daarbij valt op dat de trendlijn daalt en links het hoogst ligt aangezien daar de meeste waarden liggen.
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/8a1aa261-4321-4523-b8eb-afec565d93bf" />
+<img src="afbeeldingen/Schermgrootte.png" width="50%">
 
 Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. **Zie interview Willy: “wat is een HDMI-kabel”.**  
 
@@ -250,7 +251,7 @@ Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is k
 
 Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groottes kan de gebruiker nu nauwkeuriger kiezen welke deze het meest aangenaams vindt. Uit de BERT testen en interviews blijkt dat 80% 45mm als straal en hoogte verkiest. Dit doordat deze het lichtst en makkelijkst vast te pakken zijn.
 
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/9175bdf3-4030-49d7-bbb5-5253d1f27a8f" />
+<img src="afbeeldingen/Afmetingen cilinder.png" width="50%">
 
 **Kent de doelgroep beloningssystemen en staan ze hiervoor open?**
 
@@ -260,7 +261,7 @@ Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd 
 
 Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. één met woorden en één met symbolen. Deze zijn terug te vinden bij de bijlagen. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. symbolen
 Om de uitwerking van de interface in het vervolg van het proces vlotter te laten verlopen werd een boomdiagram van de interface gemaakt zoals in onderstaande figuur te zien is.
-<img width="985" alt="image" src="https://github.com/user-attachments/assets/0bd6fede-7f63-48ef-a26c-2a07bce238b6" />
+<img src="afbeeldingen/boomschema interface.png" width="80%">
 
 **Kleur**
 Kleur werd uiteindelijk al in de verwerking van wave 1 bepaald.
@@ -268,7 +269,7 @@ Kleur werd uiteindelijk al in de verwerking van wave 1 bepaald.
 ### Conclusies
 **Displaygrootte**
 
-Naast het feit dat de cijfers verdeeld waren wordt voor een scherm tussen 6.7 en 10.9" gekozen. Dit om de kostprijs te drukken, om het sukkelen met HDMI poorten te vermijden (zie interview Willy: “wat is een HDMI-kabel”) en aangezien volgens de trendlijn daar de meeste waarden liggen.
+Naast het feit dat de cijfers verdeeld waren wordt voor een scherm tussen 6.7" en 10.9" gekozen. Dit om de kostprijs te drukken, om het sukkelen met HDMI poorten te vermijden (zie interview Willy: “wat is een HDMI-kabel”) en aangezien volgens de trendlijn daar de meeste waarden liggen.
 
 **Cilindergrootte**
 
@@ -283,6 +284,14 @@ Doelgroep wenst geen uitgebreid beloningssysteem. Er moet wel een mogelijkheid z
 De interface moet voldoende simpel zijn.
 De interface steunt voornamelijk op woorden en niet op symbolen.
 
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D3.3 De schermgrootte ligt tussen 6.7" en 10.9"
+> - D2.4 De interactieve blokken hebben een hoogte en straal van 45mm
+> - D1.17 De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien
+> - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
+
 ## Bill of materials en klantbehoeften
 - foam
 - vier kleuren balpen
@@ -294,7 +303,7 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 |**Groep 1**|**Algemeen**|
 |1.1|Het product moet meerdere hersengebieden activeren|[Literatuurstudie](#literatuurstudie-n10) bron 1|
 |1.2|Het product moet in groep te kunnen gebruiken zijn|[Literatuurstudie](#literatuurstudie-n10) bron 2|
-|1.3|Het product moet uitstralen dat fouten maken mag|[Literatuurstudie](#literatuurstudie-n10) bron 2|
+|1.3|Het product moet fouten maken toelaten |[Literatuurstudie](#literatuurstudie-n10) bron 2|
 |1.4|Het product moet muziek bevatten|[Literatuurstudie](#literatuurstudie-n10) bron 1,2,3,7,10|
 |1.5|Het product moet ritme bevatten|[Literatuurstudie](#literatuurstudie-n10) bron 6|
 |1.6|Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt |[Literatuurstudie](#literatuurstudie-n10) bron 2|
@@ -308,15 +317,16 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 |1.14|Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten|[Interviews](#interviews-n4) 1|
 |1.15|Het product moet de mogelijkheid geven het muzieknummer vooraf volledig te spelen |[Wave 1](#wave-1-n5)|
 |1.16|Het product moet veilig te gebruiken zijn |[Wave 1](#wave-1-n5)|
+|1.17|De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien |[Wave 2](#wave-2-n5)|
 |**Groep 2**|**Interactieve blokken**|
 |2.1|Het product moet vier interactieve blokken bevatten|[Wave 1](#wave-1-n5)|
 |2.2|De interactieve blokken moeten zowel een te onderscheiden als een niet te onderscheiden kant hebben (1kant allemaal dezelfde kleur, 1 kant allemaal een verschillend kleur)|[Wave 1](#wave-1-n5)|
 |2.3|De interactieve blokken zijn cilindervormig, om duidelijk 2 verschillende kanten te hebben, met elk zijn unieke functie|[Wave 1](#wave-1-n5)|
-|2.4|De cilinders moeten een kleine diameter hebben (45mm-mm)|[Wave 2](#wave-2-n5)|
+|2.4|De interactieve blokken hebben een hoogte en straal van 45mm|[Wave 2](#wave-2-n5)|
 |**Groep 3**|**Interface/scherm**|
 |3.1|De interface van het product moet hoofdzakelijk uit woorden bestaan.|[Wave 2](#wave-2-n5)|
 |3.2|De interface moet eenvoudig en beperkt blijven|[Wave 2](#wave-2-n5)|
-|3.3|De afmetingen van het scherm mogen niet groter zijn dan 10,9” |[Wave 2](#wave-2-n5)|
+|3.3|De schermgrootte ligt tussen 6.7" en 10.9" |[Wave 2](#wave-2-n5)|
 |**Groep 4**|**Docking station**|
 |4.1|Het product moet esthetisch aantrekkelijk zijn |[Wave 2](#wave-2-n5)|
 |4.2|Het product moet feedback geven aan het einde van een spelsessie|[Wave 2](#wave-2-n5)|
@@ -327,8 +337,10 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 Max. 500 woorden
 
 ## Bronnen
-[1] https://www.rgm-nederland.nl/site/
-[2] https://youtu.be/f69yf9YW_Cw?si=AWP4Jiq0gLOwygd5
+[1]https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf
+[2]https://www.vrt.be/vrtnws/nl/2022/04/13/tweetaligheid-houdt-de-hersenen-jong/
+[3]https://rgm-nederland.nl/site/home
+[4]https://youtu.be/f69yf9YW_Cw?si=AWP4Jiq0gLOwygd5
 
 ## Bijlagen
 figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
