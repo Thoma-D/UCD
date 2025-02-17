@@ -168,15 +168,20 @@ Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de
 
 * 1: Frequentie danspassen: om de 4 slagen
 
-  Lied verdeeld in: 4 
+  Lied verdeeld in: 4
+  [Links naar video's](https://github.com/username/repository/blob/main/Bijlages/Definition/Videofragmenten/Traag%204/Trage%20video%27s)
+
 
 * 2: Frequentie danspassen: om de 2 slagen
 
-  Lied verdeeld in: 4 
+  Lied verdeeld in: 4
+  [Links naar video's](https://github.com/username/repository/blob/main/Bijlages/Definition/Videofragmenten/snel%204/snelle%20video%27s%20(in%204))
+
 
 * 3: Frequentie danspassen: om de 2 slagen
 
-   Lied verdeeld in: 6 
+   Lied verdeeld in: 6
+  [Links naar video's](https://github.com/username/repository/blob/main/Bijlages/Definition/Videofragmenten/snel%206/snelle%20video%27s%20(in%206))
 
  
 
