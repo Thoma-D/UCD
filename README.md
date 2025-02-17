@@ -222,20 +222,25 @@ Na afloop verkoos 80% de variant met 4 blokken. Hieruit volgt de design requirem
  </p> 
 
  **TAP/QAP**
+ 
  Wat opviel is dat de grootste moeilijk lag bij het sorteren van de blokken. 60% van de gebruikers vroeg, of vermelde dat ze graag het de mogelijkheid zouden hebben een nummer op voorhand eens te beluisteren. Vandaar design requirment D1.15
 
 
 > “Welke kant is rood”
+
 Bij de kleuren en hun bijhorende kanten werden ook veel fouten gemaakt, daaruit volgt design requirment D 4.4
  
  ### Conclusies
 **spel**
+
 Het product laat de gebruiker het liedje op voorhand horen als dit gewenst is.
 
 **interactieve blokken**
+
 Het product bezit 4 interactieve cilindervormige blokken met 2 fuctionele zijdes.
 
 **Docking station**
+
 Er zit 1 centrale speaker in de docking station, zo houden we de kostprijs lager en kunnen we de cilinders compacter houden.
 De dockingstation geeft aan welke kant rood en blauw moeten voorstellen.
  
