@@ -337,10 +337,13 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 Max. 500 woorden
 
 ## Bronnen
-[1]https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf
-[2]https://www.vrt.be/vrtnws/nl/2022/04/13/tweetaligheid-houdt-de-hersenen-jong/
-[3]https://rgm-nederland.nl/site/home
-[4]https://youtu.be/f69yf9YW_Cw?si=AWP4Jiq0gLOwygd5
+[1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. https://doi.org/10.33805/2641-8991.111
+
+[2]Nws, V. (2022, 13 april). Tweetaligheid houdt de hersenen jong. vrtnws.be. https://www.vrt.be/vrtnws/nl/2022/04/13/tweetaligheid-houdt-de-hersenen-jong/
+
+[3]Home. (z.d.). RGM Nederland. https://rgm-nederland.nl/site/home
+
+[4]Rianne Stouten. (2022, 31 oktober). RGM - een introductie [Video]. YouTube. https://www.youtube.com/watch?v=f69yf9YW_Cw
 
 ## Bijlagen
 figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
