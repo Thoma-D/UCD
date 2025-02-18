@@ -146,6 +146,8 @@ De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot 
 </p>
 
 ### WAVE 1 (N=5)
+[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
+[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
 
 Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
 
@@ -263,7 +265,9 @@ De dockingstation geeft aan welke kant rood en blauw moeten voorstellen.
 ![image](https://github.com/user-attachments/assets/a33babda-11e2-470f-9793-6422a0d6b006)
 
 ### WAVE 2 (N=5)
- 
+ [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20interview%20wave%202.pdf)
+[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20two.pdf)
+
 Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave werd voornamelijk meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. De overgebleven onderzoeksvragen worden in deze gebruikerstesten onderzocht.
 
 ### Doestellingen
