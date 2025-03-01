@@ -351,12 +351,18 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 Een van de laatste zaken die moet bepaald worden is de keuze van de electronica. Daarvoor werd gestart vanuit een keuzematrix waarin de relavante mogelijkheden stonden. Deze matrix is hieronder weergegeven.
 <img src="afbeeldingen/keuzematrix elektronica.png" width="75%">
 
-Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. 
->Problemen met druksensoren:
+Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg
+>Practische nadelen druksensoren:
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
 
-Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer
+Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. Hieronder zijn de voor en nadelen opgelijst.
+>Practische voor en nadelen druksensoren
+> - geen interferentie tussen naburige tags
+> - gebruik vier lezers nodig
+
+Om de prijs te drukken en compexiteit te vermijden wordt gebruik gemaakt van 1 lezer (type:). Dit betekent dat vier verscchillende tags en dus cilinders kunnen worden ingelezen. Nadeel: de positie kan niet worden bepaald.
+Oplossing: extra gebruik van drukknop om met aantal keer drukken de positie te bepalen.
 
 ## Bill of materials en klantbehoeften
 - foam
