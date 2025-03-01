@@ -1,10 +1,12 @@
 MuziSym
 
+
 Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op muzikale, toegankelijke en gebruiksvriendelijke manier.
 
 Projectteam: Thoma Demets en Cieters Jeroen
-
+<img src="afbeeldingen/logo png.png" width="50%">
 2024-2025
+
 
 ## Samenvatting
 RGM: een interactieve en multisensorische oefenmethode die motorische, sensorische en cognitieve elementen bevat. Daarbij omvat:
@@ -344,6 +346,17 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 > - D2.4 De interactieve blokken hebben een hoogte en straal van 45mm
 > - D1.17 De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien
 > - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
+
+## Prototyping
+Een van de laatste zaken die moet bepaald worden is de keuze van de electronica. Daarvoor werd gestart vanuit een keuzematrix waarin de relavante mogelijkheden stonden. Deze matrix is hieronder weergegeven.
+<img src="afbeeldingen/keuzematrix elektronica.png" width="75%">
+
+Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. 
+>Problemen met druksensoren:
+> - moeilijk te calibreren bij een constante indrukking
+> - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
+
+Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer
 
 ## Bill of materials en klantbehoeften
 - foam
