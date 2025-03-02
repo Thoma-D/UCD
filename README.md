@@ -295,7 +295,8 @@ De gebruikerstesten worden uitgevoerd als een combinatie van BERT-testen en inte
 
 **Welke displaygrootte moet het product hebben?**
 
-Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet, een laptop en een TV. **Zoals op onderstaande figuur te zien is**.  
+Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet, een laptop en een TV. Zoals op onderstaande figuur te zien is.  
+<img src="afbeeldingen/Schermgroottes.png.jpg" width="50%">
 
 Hierop reageerden de gebruikers verdeeld. 40% koos voor het 6.7" scherm, 40% tv en 20% 10.9" scherm zoals in onderstaande grafiek te zien is. Daarbij valt op dat de trendlijn daalt en links het hoogst ligt aangezien daar de meeste waarden liggen.
 <img src="afbeeldingen/Schermgrootte.png" width="50%">
@@ -355,6 +356,8 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 >Practische nadelen druksensoren:
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
+
+<img src="afbeeldingen/druksensor1.jpg" width="75%">
 
 Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. Hieronder zijn de voor en nadelen opgelijst.
 >Practische voor en nadelen druksensoren
