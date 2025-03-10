@@ -365,8 +365,10 @@ Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer.
 > - geen interferentie tussen naburige tags
 > - gebruik vier lezers nodig
 
-Om de prijs te drukken en compexiteit te vermijden wordt gebruik gemaakt van 1 lezer (type:). Dit betekent dat vier verscchillende tags en dus cilinders kunnen worden ingelezen. Nadeel: de positie kan niet worden bepaald.
-Oplossing: extra gebruik van drukknop om met aantal keer drukken de positie te bepalen.
+Om de prijs te drukken en compexiteit te vermijden wordt gebruik gemaakt van 1 lezer (type:). Dit betekent dat vier verscchillende tags en dus cilinders kunnen worden ingelezen. Nadeel: de positie kan niet worden bepaald. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deeze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
+<img src="afbeeldingen/volgorde cilinder.png" width="50%">
+<img src="afbeeldingen/opstelling rfid.png" width="50%">
+<img src="afbeeldingen/nfc output2.png" width="50%">
 
 ## Bill of materials en klantbehoeften
 - foam
