@@ -4,7 +4,9 @@ MuziSym
 Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op muzikale, toegankelijke en gebruiksvriendelijke manier.
 
 Projectteam: Thoma Demets en Cieters Jeroen
+
 <img src="afbeeldingen/logo png.png" width="50%">
+
 2024-2025
 
 
@@ -305,7 +307,7 @@ Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is k
 
 **Welke afmetingen hebben de cilinders**
 
-Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groottes kan de gebruiker nu nauwkeuriger kiezen welke deze het meest aangenaams vindt. Uit de BERT testen en interviews blijkt dat 80% 45mm als straal en hoogte verkiest. Dit doordat deze het lichtst en makkelijkst vast te pakken zijn.
+Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groottes kan de gebruiker nu nauwkeuriger kiezen welke deze het meest aangenaams vindt. Uit de BERT testen en interviews blijkt dat 80% 45mm als diameter verkiest. Dit doordat deze het makkelijkst vast te pakken zijn.
 
 <img src="afbeeldingen/Afmetingen cilinder.png" width="50%">
 
@@ -329,7 +331,7 @@ Naast het feit dat de cijfers verdeeld waren wordt voor een scherm tussen 6.7" e
 
 **Cilindergrootte**
 
-De cilinder heeft een hoogte en diameter van 45 mm.
+De cilinder heeft een diameter van 45 mm.
 
 **Beloningsysteen**
 
