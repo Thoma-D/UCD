@@ -372,6 +372,13 @@ Om de prijs te drukken en compexiteit te vermijden wordt gebruik gemaakt van 1 l
 <img src="afbeeldingen/opstelling rfid.png" width="50%">
 <img src="afbeeldingen/nfc output2.png" width="50%">
 
+
+
+||Geleidende tape| Sheet metal| Sluitringen|Al folie|
+|:---|:---|:---|:---|:---|
+|+| Snel mee te werken, esthetisch||Estetisch, moet niet meer bewerken| Makkelijk voor prototypes, makkelijk bewerkbaar|
+|-|lastig om cirkelvormige ringen mee te maken|moeilijk vervormbaar|vormen staan al vast (geleid)|niet esthetisch|
+
 ## Bill of materials en klantbehoeften
 - foam
 - vier kleuren balpen
