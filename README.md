@@ -268,7 +268,7 @@ De dockingstation geeft aan welke kant rood en blauw moeten voorstellen.
 
 ![image](https://github.com/user-attachments/assets/a33babda-11e2-470f-9793-6422a0d6b006)
 
-### WAVE 2 (N=5)
+## WAVE 2 (N=5)
  [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20interview%20wave%202.pdf)
 [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20two.pdf)
 
@@ -294,6 +294,7 @@ Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker w
 De gebruikerstesten worden uitgevoerd als een combinatie van BERT-testen en interviews. **De BERT-testen zorgen voor kwantitatieve informatie. De interviews voor meer kwalitatieve info.**
   
 ### Resultaten
+
 
 **Welke displaygrootte moet het product hebben?**
 
@@ -350,11 +351,27 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 > - D1.17 De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien
 > - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
 
+
+## Wave drie
+ergonomie
+**...**
+
+## Wave vier
+gebruikertest en validatie prototype
+**...**
+
+
 ## Prototyping
+
+### keuze elektronica
 Een van de laatste zaken die moet bepaald worden is de keuze van de electronica. Daarvoor werd gestart vanuit een keuzematrix waarin de relavante mogelijkheden stonden. Deze matrix is hieronder weergegeven.
 <img src="afbeeldingen/keuzematrix elektronica.png" width="75%">
 
-Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg volgens onderstaande opstelling met spanningsdeler.
+**Druksensoren**
+
+
+Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg volgens onderstaande opstelling met spanningsdeler. De code hiervan is terug te vinden onder de map "code".
+
 <img src="afbeeldingen/opstelling druksensor.jpg" width="50%">
 >Practische nadelen druksensoren:
 > - moeilijk te calibreren bij een constante indrukking
@@ -362,24 +379,61 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 <img src="afbeeldingen/ruis_druk.png" width="50%">
 <img src="afbeeldingen/druksensor1.jpg" width="50%">
 
-Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. Hieronder zijn de voor en nadelen opgelijst.
+
+**RFID/NFC lezers**
+
+
+Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. 
+
+Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag mag niet verder dan 6 mm van de lezer verwijderd zijn om te kunnen worden ingelezen. Echter is het heel complex en ingewikkeld om vier lezers aan 1 arduino aan te sluiten. Voor 1 lezer blijken ook 7 aansluitingen nodig te zijn. Door het gebruik van 1 lezer zou er te veel aan gebruiksvriendelijkheid moeten worden ingeboet. De gebruiker zou op een bijkomstige manier de positie van de cilinder moeten ingeven. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
+
 >Practische voor en nadelen druksensoren
-> - geen interferentie tussen naburige tags
+> - geen interferentie tussen naburige tags dus betrouwbaar
 > - gebruik vier lezers nodig
 
-Om de prijs te drukken en compexiteit te vermijden wordt gebruik gemaakt van 1 lezer (type:). Dit betekent dat vier verscchillende tags en dus cilinders kunnen worden ingelezen. Nadeel: de positie kan niet worden bepaald. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deeze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
 <img src="afbeeldingen/volgorde cilinder.png" width="50%">
-<img src="afbeeldingen/opstelling rfid.png" width="50%">
 <img src="afbeeldingen/nfc output2.png" width="50%">
+<img src="afbeeldingen/opstelling rfid.jpg" width="50%">
 
 
+**Weerstanden**
+
+
+Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. OP die manier kwamen we bij gewone weerstanden uit. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins. Bij de testen vielen geen nadelen op.
+
+De weerstanden werden als volgt gekozen: 
+Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. Zodat de onnauwkeurigheid van de arduino veel lager ligt.
+**verder aanvullen met formule spanningsdeler en keuze weerstand uitleggen**
+
+code in het kort.
+aanmaken lijst met correcte volgorde
+aanmaken lijst huidige volgorde
+aanmaken functie die volgorde controleert
+aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand door gebruik te maken van intervallen
+**...**
+
+
+
+
+>Practische voor en nadelen weerstanden
+> - betrouwbaar
+
+
+### keuze connectie
 
 ||Geleidende tape| Sheet metal| Sluitringen|Al folie|Geleidende verf|
 |:---|:---|:---|:---|:---|:---|
 |+| Snel mee te werken, esthetisch||Estetisch, moet niet meer bewerken| Makkelijk voor prototypes, makkelijk bewerkbaar|vormvrijheid, |
 |-|lastig om cirkelvormige ringen mee te maken|moeilijk vervormbaar|vormen staan al vast (geleid)|niet esthetisch|weinig kleur, duur|
 
+uitwerking 1 rondel op cilinder
+werkt zelf goed maar folie zorgt voor slecht contact
 
+uitwerking 2 folie op folie
+nogmaals slecht contact.
+
+beide voorgaande werken beter door harder in te drukken
+**...**
 
 ## Bill of materials en klantbehoeften
 - foam
@@ -425,6 +479,9 @@ Om de prijs te drukken en compexiteit te vermijden wordt gebruik gemaakt van 1 l
 
 ## Kritische reflectie
 Max. 500 woorden
+
+-> keuze electronica
+-> geleidende materialen
 
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. https://doi.org/10.33805/2641-8991.111
