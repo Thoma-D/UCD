@@ -352,9 +352,40 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 > - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
 
 
-## Wave drie
-ergonomie
-**...**
+## Develop 1: Ergonomie deel 1
+### Doestellingen
+1. Bepalen van de meest ergonomische massa.
+ 1a. a.d.h.v. gebruikerstest voor rechtstreekse input.
+ 1b. a.d.h.v. moment met arm
+
+2. ergonomische afmetingen 
+ 2a. Omtrek a.d.h.v. database gebruikt voor een grotere steekproef (werd eerder uit gebruikerstest bepaald)
+ 2b. Hoogte 
+
+Deze worden bepaald om de cilinders te ontwerpen op die manier dat deze door zoveel mogelijk mensen binnen de doelgroep 65+ers zonder neurologische aandoening als ergonomisch beschouwd worden. 
+### Materiaal & methoden
+-Ondoorzichtige cilinder (2X) 
+-Anders niet tegelijkertijd 
+-Weegschaal 
+-Vloeistof( water) 
+
+-Percentile driven design 
+-Gebruikerstest  
+
+-Dined database 
+
+### Resultaten
+1a
+Er wordt bepaald welke massa voor de gebruiker aangenaam te hanteren is. 
+Werkwijze: Er worden 2/3 massa’s met een verschil van 100g aan de gebruiker voorgeschoteld, om deze door hen te laten vergelijken. 
+Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald. Hieruit 
+**foto waarden excel**
+**foto percentile driven**
+### Conclusies
+
+
+
+
 
 ## Wave vier
 gebruikertest en validatie prototype
