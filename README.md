@@ -374,30 +374,41 @@ Deze worden bepaald om de cilinders te ontwerpen op die manier dat deze door zov
 -Dined database 
 
 ### Resultaten
-1a
-Er wordt bepaald welke massa voor de gebruiker aangenaam te hanteren is. 
+1a: Welke massa meest ergonomisch?
+
 Werkwijze: Er worden 2/3 massa’s met een verschil van 100g aan de gebruiker voorgeschoteld, om deze door hen te laten vergelijken. 
-Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald. 2. 
-<img src="afbeeldingen/Gebruikerstest.png" width="50%">
-<img src="afbeeldingen/weegschaal.png" width="50%">
-<img src="afbeeldingen/waarden 1A.png" width="50%">
-<img src="afbeeldingen/design mean.png" width="50%">
-Binnen percentile driven willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gewicht 230,8g is
+Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald.
 
+<img src="afbeeldingen/Gebruikerstest.png" width="25%">
+<img src="afbeeldingen/weegschaal.png" width="25%">
 
-2a: omtrek cilinder
-Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien ergonomische minder interessant is als vingers over handpalm wrijven. Bovendien is een maximaal contactopp belangrijk. dus mean omtrek 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. 
-<img src="afbeeldingen/data 2A.png" width="50%">
+Uit deze test werden pnderstaande waarden verkregen
+
+<img src="afbeeldingen/waarden 1A.png" width="25%">
+
+Binnen percentile driven willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast zoals in onderstaande figuur te zien is. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gemidgewicht 230,8g is
+
+<img src="afbeeldingen/design mean.png" width="25%">
+
+2a: Welke omtrek cilinder? (database)
+Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien ergonomische minder interessant is als vingers over handpalm wrijven. Bovendien is een maximaal contactopp belangrijk. dus mean omtrek 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
+<img src="afbeeldingen/data 2A.png" width="50%"> tot 
 <img src="afbeeldingen/design tall 2A.png" width="50%">
 
-2b: hoogte cilinder adhv database
+2b: hoogte cilinder? (database)
 <img src="afbeeldingen/data 2B.png" width="50%">
 De database werd ingesteld zoals hierboven weergegeven. Aangezien hier de grootste handen de cilinder ook moeten kunnen vastnemen wordt weer design for the tall gebruikt. waarde = mean + 3 sd = 85+3*6=103mm
-**foto percentile driven**
+
 ### Conclusies
+1a: De cilinders hebben elk een gewicht van 230,8g. 
 
+2a: Wanneer de waarden van de omtrek van de cilinders uit de database en de gebruikerstest vergeleken worden valt op dat deze vrij dicht bij elkaar liggen. Respectievelijk 49,34 mm en 45mm. Aangezien de gebruikers zelf voorhang hebben op databases wordt verder gerekend met 45mm
 
-
+2b: De hoogte van de cilinder bedraagt 103mm
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.6 De cilinder weegt 230,8g
+> - D2.5 De hoogte bedraagt 103mm
 
 
 ## Wave vier
@@ -510,6 +521,8 @@ beide voorgaande werken beter door harder in te drukken
 |2.2|De interactieve blokken moeten zowel een te onderscheiden als een niet te onderscheiden kant hebben (1kant allemaal dezelfde kleur, 1 kant allemaal een verschillend kleur)|[Wave 1](#wave-1-n5)|
 |2.3|De interactieve blokken zijn cilindervormig, om duidelijk 2 verschillende kanten te hebben, met elk zijn unieke functie|[Wave 1](#wave-1-n5)|
 |2.4|De interactieve blokken hebben een hoogte en straal van 45mm|[Wave 2](#wave-2-n5)|
+|2.5|De hoogte bedraagt 103mm|[Develop 1: Ergonomie deel 1]|
+|2.6|De cilinder weegt 230,8g|[Develop 1: Ergonomie deel 1]|
 |**Groep 3**|**Interface/scherm**|
 |3.1|De interface van het product moet hoofdzakelijk uit woorden bestaan.|[Wave 2](#wave-2-n5)|
 |3.2|De interface moet eenvoudig en beperkt blijven|[Wave 2](#wave-2-n5)|
