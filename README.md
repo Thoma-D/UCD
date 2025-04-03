@@ -21,14 +21,9 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 
 Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
 Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
-
 Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... De theoretische werking wordt verder besproken in de inleiding.
 
-In realiteit blijft deze methode vooral in theorie bestaan. Enkel in rusthuizen worden sessies gegeven waarbij gebruik wordt gemaakt van een projector. Hierdoor vallen veel mensen vallen buiten de boot. Graag stellen wij u voor aan "Muzisym". Het spel dat de wetenschappelijk aangetoonde theorie van RGM integreert in een toegankelijker en verder uitgewerkt product.
-
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
-
-Om tot dit product te komen werd grondig gewerkt. Dicht bij de doelgroep staan staat centraal in tom gebruiksgericht te ontwerpen. Telkens werd gebruik gemaakt van meerdere prototypes om de tester zelf de keuze te geven. Klantenbehoeften, ontwerpcriteria,literatuurstudie, interviews, fishbone diagram, persona, innovatrix, een functieboom adhv de interface... hielpen ons om tot dit degelijke product komen. 
 
 <img src="afbeeldingen/symbolen met uitleg.png" width="25%">
 
@@ -42,16 +37,15 @@ Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt
 Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 
 Hieruit volgt onze challenge, onze how might we:
-Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?
+**Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
  
-Debelangrijkste stakeholders in dit project zijn de testpersonen, de eindgebruikers, Thoma en Jeroen als ingenieurs. 
+Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn en wij.
  
-Dit project werd uitgevoerd door Thoma en Jeroen binnen het vak project gebruiksgericht ontwerpen binnen de UGent.  
-
 
 ## Methodologie
 Om een project tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in figuur 1. 
 
+### Discovery fase
 Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
 Daarbij is het belangrijkste doel is om vragen als: **Waar liggen de Gaps? Wie is de doelgroep? En is deze doelgroep voldoende groot?** Te beantwoorden
 Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede basis**. 
@@ -60,6 +54,7 @@ Binnen de literatuurstudie wordt gebruik gemaakt van: wetenschappelijke artikels
 
 Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze beter te leren kennen dan deze zichzelf kent. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. **Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat.** Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd.
 
+### Defenition fase
 Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker nog meer centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
 
 In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als hoeveel blokken? En hoe snel volgen de danspassen op elkaar? Te beantwoorden. Hiervoor werden de nodige prototypes gemaakt. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
@@ -68,6 +63,8 @@ In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daar
 <p align="center">
 <img src="afbeeldingen/zendesk.png" width="50%">
 <img src="afbeeldingen/Aaron Walter.png" width="25%">
+
+### Develop
 
 ## Discovery
 
