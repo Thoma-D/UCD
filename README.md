@@ -357,45 +357,42 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 1. Bepalen van de meest ergonomische massa.
  1a. a.d.h.v. gebruikerstest voor rechtstreekse input.
 
-2. ergonomische afmetingen 
- 2a. Omtrek a.d.h.v. database gebruikt voor een grotere steekproef (werd eerder uit gebruikerstest bepaald)
- 2b. Hoogte 
+2. ergonomische afmetingen
+- 2a. Omtrek a.d.h.v. database gebruikt voor een grotere steekproef (werd eerder uit gebruikerstest bepaald)
+- 2b. Hoogte 
 
-Deze worden bepaald om de cilinders te ontwerpen op die manier dat deze door zoveel mogelijk mensen binnen de doelgroep 65+ers zonder neurologische aandoening als ergonomisch beschouwd worden. 
 ### Materiaal & methoden
--Ondoorzichtige cilinder (2X) 
--Anders niet tegelijkertijd 
--Weegschaal 
--Vloeistof( water) 
+- Ondoorzichtige cilinder (2X) 
+- Anders niet tegelijkertijd 
+- Weegschaal 
+- Vloeistof( water) 
 
--Percentile driven design 
--Gebruikerstest  
+- Percentile driven design 
+- Gebruikerstest  
 
--Dined database 
+- Dined database 
 
 ### Resultaten
 **1a: Meest ergonomisch gewicht**
 
-Werkwijze: Er worden 2/3 gewichten met een verschil van 100g aan de gebruiker voorgeschoteld, om deze door hen te laten vergelijken. 
+Er werden 2 gewichten met een verschil van 100g aan de gebruiker voorgeschoteld, om deze door hen te laten vergelijken. 
 Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald.
 
-<img src="afbeeldingen/Gebruikerstest.png" width="25%">
-<img src="afbeeldingen/weegschaal.png" width="25%">
+<img src="afbeeldingen/Gebruikerstest.png" width="25%"> <img src="afbeeldingen/weegschaal.png" width="12%">
 
-Uit deze test werden pnderstaande waarden verkregen
+Uit deze test werden onderstaande waarden verkregen
 
 <img src="afbeeldingen/waarden 1A.png" width="25%">
 
-Binnen percentile driven willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast zoals in onderstaande figuur te zien is. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gemiddelde gewicht 230,8g is.
+Binnen dit percentile driven protocol willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast zoals in onderstaande figuur te zien is. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gemiddelde gewicht 230,8g is.
 
 <img src="afbeeldingen/design mean.png" width="25%">
 
 **2a: Omtrek cilinder (database)**
 
-Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien ergonomische minder interessant is als vingers over handpalm wrijven. Bovendien is een maximaal contactopp belangrijk. dus mean omtrek 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
+Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien een maximaal contactopp belangrijk is. Dus de omtrek is 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
 
-<img src="afbeeldingen/data 2A.png" width="30%"> tot 
-<img src="afbeeldingen/design tall.png" width="30%">
+<img src="afbeeldingen/data 2A.png" width="30%"> <img src="afbeeldingen/design tall.png" width="30%">
 
 **2b: hoogte cilinder (database)**
 
