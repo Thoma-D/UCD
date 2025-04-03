@@ -356,7 +356,6 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 ### Doestellingen
 1. Bepalen van de meest ergonomische massa.
  1a. a.d.h.v. gebruikerstest voor rechtstreekse input.
- 1b. a.d.h.v. moment met arm
 
 2. ergonomische afmetingen 
  2a. Omtrek a.d.h.v. database gebruikt voor een grotere steekproef (werd eerder uit gebruikerstest bepaald)
@@ -378,8 +377,22 @@ Deze worden bepaald om de cilinders te ontwerpen op die manier dat deze door zov
 1a
 Er wordt bepaald welke massa voor de gebruiker aangenaam te hanteren is. 
 Werkwijze: Er worden 2/3 massa’s met een verschil van 100g aan de gebruiker voorgeschoteld, om deze door hen te laten vergelijken. 
-Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald. Hieruit 
-**foto waarden excel**
+Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald. 2. 
+<img src="afbeeldingen/Gebruikerstest.png" width="50%">
+<img src="afbeeldingen/weegschaal.png" width="50%">
+<img src="afbeeldingen/waarden 1A.png" width="50%">
+<img src="afbeeldingen/design mean.png" width="50%">
+Binnen percentile driven willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gewicht 230,8g is
+
+
+2a: omtrek cilinder
+Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien ergonomische minder interessant is als vingers over handpalm wrijven. Bovendien is een maximaal contactopp belangrijk. dus mean omtrek 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. 
+<img src="afbeeldingen/data 2A.png" width="50%">
+<img src="afbeeldingen/design tall 2A.png" width="50%">
+
+2b: hoogte cilinder adhv database
+<img src="afbeeldingen/data 2B.png" width="50%">
+De database werd ingesteld zoals hierboven weergegeven. Aangezien hier de grootste handen de cilinder ook moeten kunnen vastnemen wordt weer design for the tall gebruikt. waarde = mean + 3 sd = 85+3*6=103mm
 **foto percentile driven**
 ### Conclusies
 
@@ -513,6 +526,8 @@ Max. 500 woorden
 
 -> keuze electronica
 -> geleidende materialen
+->database vs gebruikerstest omtrek hand
+Een belangrijke kritische reflectie hierbij is dat deze gelijkaardige waarden nog steeds op een toeval kunnen wijzen. Dit doordat de maximale omsloten waarde uit de database niet volledig hetzelfde is als de door de gebruiker gekozen diameter.
 
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. https://doi.org/10.33805/2641-8991.111
