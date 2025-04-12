@@ -1,16 +1,15 @@
 MuziSym
 
-
-Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op muzikale, toegankelijke en gebruiksvriendelijke manier.
-
-Projectteam: Thoma Demets en Cieters Jeroen
+Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op een muzikale, toegankelijke en gebruiksvriendelijke manier.
 
 <img src="afbeeldingen/logo png.png" width="50%">
+Projectteam: Thoma Demets en Cieters Jeroen
 
 2024-2025
 
 
 ## Samenvatting
+### Theoretisch
 RGM: een interactieve en multisensorische oefenmethode die motorische, sensorische en cognitieve elementen bevat. Daarbij omvat:
 
 - Het sensorische gedeelte: het waarnemen van de muziek en symbolen
@@ -23,6 +22,7 @@ Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en s
 Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
 Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... De theoretische werking wordt verder besproken in de inleiding.
 
+### Spelregels
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
 
 <img src="afbeeldingen/symbolen met uitleg.png" width="25%">
@@ -30,21 +30,32 @@ Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te
 
 
 ## Introductie
+### Theoretisch
 Vooraleer het uitgebreider te hebben over het probleem is het eerst noodzakelijk dieper in te gaan op de theoretische werking van deze methode. Dit is noodzakelijk als achtergrond en aangezien het vervolg van dit proces steunt op dit principe.
 
 Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[1]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[2]
 
+
+### probleem
 Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 
+
+### How might we
 Hieruit volgt onze challenge, onze how might we:
 **Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
- 
-Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn en wij.
+
+
+### Stakeholders
+Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput.
  
 
 ## Methodologie
-Om een project tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in figuur 1. 
+Om een project tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Binnen dit ontwerpproces wordt onderaan de pyramide van Aaron Walter begonnen. Doorheen wordt hogerop geklommen om op alle aspecten te focussen.
 
+<p align="center">
+<img src="afbeeldingen/zendesk.png" width="50%">
+<img src="afbeeldingen/Aaron Walter.png" width="25%">
+ 
 ### Discovery fase
 Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
 Daarbij is het belangrijkste doel is om vragen als: **Waar liggen de Gaps? Wie is de doelgroep? En is deze doelgroep voldoende groot?** Te beantwoorden
@@ -57,14 +68,16 @@ Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze be
 ### Defenition fase
 Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker nog meer centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
 
-In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als hoeveel blokken? En hoe snel volgen de danspassen op elkaar? Te beantwoorden. Hiervoor werden de nodige prototypes gemaakt. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
+In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als **hoeveel blokken? En hoe snel volgen de danspassen op elkaar?** Te beantwoorden. Hiervoor werden de nodige prototypes gemaakt. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
 
-In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daarbij wordt meer naar de belonigssytemen en schermgrootte gekeken
-<p align="center">
-<img src="afbeeldingen/zendesk.png" width="50%">
-<img src="afbeeldingen/Aaron Walter.png" width="25%">
+In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daarbij wordt meer naar de belonigssytemen en schermgrootte gekeken.
 
-### Develop
+
+### Develop fase
+Hierbij ligt de nadruk meer op detaillering en validereing van prototypes.
+In develop 1 wordt nog gefocust op de ergonomie. 
+In develop 2 wordt nog even teruggekomen op de ergonomie. Voornamelijk wordt hierbij op de integratie van de elektronica gefocust. Hieronder vallen zowel het mechanisme van de verbinding van de cilinder met het dockingstation als het type en grootte van de knop
+
 
 ## Discovery
 
@@ -543,12 +556,13 @@ beide voorgaande werken beter door harder in te drukken
 Max. 500 woorden
 
 -> keuze electronica
+-> theorie <-> praktijk
 -> geleidende materialen
 ->database vs gebruikerstest omtrek hand
 Een belangrijke kritische reflectie hierbij is dat deze gelijkaardige waarden nog steeds op een toeval kunnen wijzen. Dit doordat de maximale omsloten waarde uit de database niet volledig hetzelfde is als de door de gebruiker gekozen diameter.
 
 ## Bronnen
-[1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. https://doi.org/10.33805/2641-8991.111
+[1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. (https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf)
 
 [2]Nws, V. (2022, 13 april). Tweetaligheid houdt de hersenen jong. vrtnws.be. https://www.vrt.be/vrtnws/nl/2022/04/13/tweetaligheid-houdt-de-hersenen-jong/
 
