@@ -429,8 +429,8 @@ De hoogte van de cilinder bedraagt 103mm.
 > - D2.5 De hoogte bedraagt 103mm
 
 
-## Wave vier
-gebruikertest en validatie prototype
+## Develop 2
+
 **...**
 
 
@@ -440,7 +440,7 @@ gebruikertest en validatie prototype
 Een van de laatste zaken die moet bepaald worden is de keuze van de electronica. Daarvoor werd gestart vanuit een keuzematrix waarin de relavante mogelijkheden stonden. Deze matrix is hieronder weergegeven.
 <img src="afbeeldingen/keuzematrix elektronica.png" width="75%">
 
-**Druksensoren**
+#### Druksensoren
 
 
 Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg volgens onderstaande opstelling met spanningsdeler. De code hiervan is terug te vinden onder de map "code".
@@ -453,7 +453,7 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 <img src="afbeeldingen/druksensor1.jpg" width="50%">
 
 
-**RFID/NFC lezers**
+#### RFID/NFC lezers
 
 
 Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. 
@@ -469,7 +469,7 @@ Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag 
 <img src="afbeeldingen/opstelling rfid.jpg" width="50%">
 
 
-**Weerstanden**
+#### Weerstanden
 
 
 Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. OP die manier kwamen we bij gewone weerstanden uit. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins. Bij de testen vielen geen nadelen op.
@@ -477,6 +477,7 @@ Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij funct
 De weerstanden werden als volgt gekozen: 
 Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. Zodat de onnauwkeurigheid van de arduino veel lager ligt.
 **verder aanvullen met formule spanningsdeler en keuze weerstand uitleggen**
+
 
 code in het kort.
 aanmaken lijst met correcte volgorde
@@ -507,38 +508,68 @@ nogmaals slecht contact.
 
 beide voorgaande werken beter door harder in te drukken
 **...**
-## Design
-Het design van dit product vloeit voort uit onderstaande luiken. Om de tekst te beperken werd van enkele principes weergegeven hoe hiermee in het product rekening werd gehouden. In realiteit is dit dus uitgebreider.
-### Design principes Dieter Rams
-<img src="afbeeldingen/" width="50%">
 
-Hier werd veel aandact besteed aan:
-#### principe één: good design is innovative
-De **theoretische werking is nooit eerder zo ontwikkeld tot een product. Hiervoor was er enkel een beamer en projector.**
-#### principe twee: good design makes a product useful.
-Doorheen dit proces werd gekeken hoe we onze how might we zo efficient mogelijk konden oplossen. Daarbij werd gekeken dat de theoretische werking behouden werd zonder onnodige toevoegingen aan te brengen. **In ons ontwerp is dit te zien door geen onnodige knoppen en functies** aan te brengen.
-#### principe drie: good design is aesthetic.
+
+### Productie definitieve ontwerp
+
+
+
+## Design
+Het design van dit product vloeit voort uit:
+- Design principes Dieter Rams
+- gestalt wetten
+- moodboard
+- Algemene design principes
+
+Om de tekst te beperken werd van enkele principes weergegeven hoe hiermee in het product rekening werd gehouden. In realiteit is dit dus uitgebreider.
+
+### Design principes Dieter Rams
+Dieter Rams is een bekende Duitse ontwerper. Zijn tien algemene ontwerpregels worden hieronder weergegeven. 
+<img src="afbeeldingen/10-principles-good-design-rams-dieter.jpg" width="30%">
+
+In dit ontwerp werd o.a. veel aandacht besteed aan:
+#### principe één: good design is innovative:
+De theoretische werking is **nooit eerder zo ontwikkeld tot een product**. Hiervoor was er enkel een beamer en projector.
+#### principe twee: good design makes a product useful:
+Doorheen dit proces werd gekeken hoe we onze how might we zo efficient mogelijk konden oplossen. Daarbij werd gekeken dat de theoretische werking behouden werd zonder onnodige toevoegingen aan te brengen. In ons ontwerp is dit te zien door **geen onnodige knoppen en functies** aan te brengen.
+#### principe drie: good design is aesthetic:
 Hieraan werd voldaan door niet enkel vanuit een functioneel oogpunt te starten maar ook vanuit een moodboard...
 
-### gestalt wetten
-<img src="afbeeldingen/" width="50%">
 
+### gestalt wetten
 Deze geven weer hoe de gebruiker objecten interpreteerd. Door het toepassen van deze wetten verloopt de interactie tussen gebruiker en product vlotter. 
+
+<img src="afbeeldingen/gestalt.jpg" width="30%">
+
 #### similarity:
 Om duidelijk te maken dat de **cilinders bij elkaar horen krijgen deze dezelfde kleur.**
+
 #### Closure:
-Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak gezet**. Dit is verschillend van de blok met de arduino en het scherm. 
+Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak** gezet. Dit is verschillend van de blok met de arduino en het scherm. 
+
 
 ### moodboard
-texture:
-Oogt premium, is zweet absorberend. Maar moeilijk om effectief toe te passen.
+
+<img src="afbeeldingen/moodboard.png" width="30%">
+
+#### materiaalkeuze docking:
+Om het docking een "glossy" uiterlijk te geven zoals in het moodboard wordt een plastic plaat gebruikt.
+#### texture cilinders:
+**Oogt premium, is zweet absorberend**. Maar moeilijk om effectief toe te passen.
+#### grip cilinders:
+Zoals de bidon in het moodboard wordt ook bij de cilinders een **grip toegevoegd**. De vorm van die grip is al eerder in develop twee onderzocht.
+
+
 ### Algemene design principes
+<img src="afbeeldingen/design principes.png" width="30%">
+
 #### constraints:
 De verbinding tussen de cilinder en het docking station zijn beide cilindervormig. Doordat de vier openingen en de vier cilinders de zelfde zijn is het duidelijk dat eender welke cilinder op eender welke plaats kan komen.
-#### Feedback
-De leds branden wanneer de cilinder contact maakt met het dockingstation.
+#### Feedback:
+De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
 #### Affordances:
-Door de openingen met rode cirkel rond is het voor de gebruiker duidelijk dat hier een cilinder in komt.
+Door de openingen en **rode cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**.
+
 
 ## Bill of materials en klantbehoeften
 - foam
