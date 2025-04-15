@@ -507,6 +507,38 @@ nogmaals slecht contact.
 
 beide voorgaande werken beter door harder in te drukken
 **...**
+## Design
+Het design van dit product vloeit voort uit onderstaande luiken. Om de tekst te beperken werd van enkele principes weergegeven hoe hiermee in het product rekening werd gehouden. In realiteit is dit dus uitgebreider.
+### Design principes Dieter Rams
+<img src="afbeeldingen/" width="50%">
+
+Hier werd veel aandact besteed aan:
+#### principe één: good design is innovative
+De **theoretische werking is nooit eerder zo ontwikkeld tot een product. Hiervoor was er enkel een beamer en projector.**
+#### principe twee: good design makes a product useful.
+Doorheen dit proces werd gekeken hoe we onze how might we zo efficient mogelijk konden oplossen. Daarbij werd gekeken dat de theoretische werking behouden werd zonder onnodige toevoegingen aan te brengen. **In ons ontwerp is dit te zien door geen onnodige knoppen en functies** aan te brengen.
+#### principe drie: good design is aesthetic.
+Hieraan werd voldaan door niet enkel vanuit een functioneel oogpunt te starten maar ook vanuit een moodboard...
+
+### gestalt wetten
+<img src="afbeeldingen/" width="50%">
+
+Deze geven weer hoe de gebruiker objecten interpreteerd. Door het toepassen van deze wetten verloopt de interactie tussen gebruiker en product vlotter. 
+#### similarity:
+Om duidelijk te maken dat de **cilinders bij elkaar horen krijgen deze dezelfde kleur.**
+#### Closure:
+Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak gezet**. Dit is verschillend van de blok met de arduino en het scherm. 
+
+### moodboard
+texture:
+Oogt premium, is zweet absorberend. Maar moeilijk om effectief toe te passen.
+### Algemene design principes
+#### constraints:
+De verbinding tussen de cilinder en het docking station zijn beide cilindervormig. Doordat de vier openingen en de vier cilinders de zelfde zijn is het duidelijk dat eender welke cilinder op eender welke plaats kan komen.
+#### Feedback
+De leds branden wanneer de cilinder contact maakt met het dockingstation.
+#### Affordances:
+Door de openingen met rode cirkel rond is het voor de gebruiker duidelijk dat hier een cilinder in komt.
 
 ## Bill of materials en klantbehoeften
 - foam
