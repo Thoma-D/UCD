@@ -475,9 +475,10 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
 
+<p align="center">
 <img src="afbeeldingen/druksensor1.jpg" width="28%">
 <img src="afbeeldingen/ruis_druk.png" width="61%">
-
+ </p>
 
 
 #### RFID/NFC lezers
@@ -492,9 +493,10 @@ Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag 
 > - gebruik vier lezers nodig, lastig voor 1 enkele arduino
 
 <img src="afbeeldingen/volgorde cilinder.png" width="99%">
+<p align="center">
 <img src="afbeeldingen/nfc output2.png" width="49%">
 <img src="afbeeldingen/opstelling rfid.jpg" width="49%">
-
+</p>
 
 #### Weerstanden
 
