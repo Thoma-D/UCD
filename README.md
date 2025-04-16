@@ -471,7 +471,8 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 
 <img src="afbeeldingen/opstelling druksensor.jpg" width="50%">
 
->Practische nadelen druksensoren:
+>Praktische voordelen en uidaginen druksensoren:
+> - Goed in detecteren als er iets of niets opstaat
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
 
@@ -486,9 +487,9 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 
 Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. 
 
-Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag mag niet verder dan 6 mm van de lezer verwijderd zijn om te kunnen worden ingelezen. Echter is het heel complex en ingewikkeld om vier lezers aan 1 arduino aan te sluiten. Voor 1 lezer blijken ook 7 aansluitingen nodig te zijn. Door het gebruik van 1 lezer zou er te veel aan gebruiksvriendelijkheid moeten worden ingeboet. De gebruiker zou op een bijkomstige manier de positie van de cilinder moeten ingeven. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
+Uit onze testen hiermee bleek dat er geen interferentie optrad. De tag mag niet verder dan 6 mm van de lezer verwijderd zijn om te kunnen worden ingelezen. Echter is het heel complex en ingewikkeld om vier lezers aan 1 arduino aan te sluiten. Voor 1 lezer blijken ook 7 aansluitingen nodig te zijn. Door het gebruik van 1 lezer zou er te veel aan gebruiksvriendelijkheid moeten worden ingeboet. De gebruiker zou op een bijkomstige manier de positie van de cilinder moeten ingeven. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
 
->Practische voor en nadelen RFID/NFC lezers
+>Praktische voordelen en uitdagingen RFID/NFC lezers
 > - geen interferentie tussen naburige tags dus betrouwbaar
 > - gebruik vier lezers nodig, lastig voor 1 enkele arduino
 
@@ -514,32 +515,31 @@ Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de b
 **verder aanvullen met formule spanningsdeler en keuze weerstand uitleggen**
 
 
+>Praktische voordelen en uitdagingen weerstanden
+> - Nauwkeurige metingen, betrouwbare werking
+> - Het contact tussen de docking station en de cilinders met de weerstanden
+> - De schakeling moet onafhankelijk zijn van de richting waarin de cilinderbase t.o.v. de dockingstation wordt gemaakt 
 
-**Uitleg code:**
-
-- aanmaken lijst met correcte volgorde
-- aanmaken lijst huidige volgorde
-- aanmaken functie die volgorde controleert
-- aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand door - 
-- gebruik te maken van intervallen
-- **...**
-
-
-
-
->Practische voor en nadelen weerstanden
-> - betrouwbaar
 
 
 ### keuze connectie
 
-**voorselectie: keuzematrix op basis van voorkennis:**
+Door gebruik te maken van 2 cirkels van geleidend materiaal waarover de weerstand staat hoeft de gebruiker geen rekening te houden met hoe de cilinder in de dockingstations wordt gezet, en zal deze altijd passen.
+
+<p align="center">
+<img src="afbeeldingen/Schakeling_Onafhankelijk_Richting.jpg" width="60%">
+</p>
+
+
+**voorselectie: keuzematrix materiaalkeuze op basis van voorkennis:**
 
 ||Geleidende tape| Sheet metal| Sluitringen|Al folie|Geleidende verf|
 |:---|:---|:---|:---|:---|:---|
 |+| Snel mee te werken, esthetisch||Estetisch, moet niet meer bewerken| Makkelijk voor prototypes, makkelijk bewerkbaar|vormvrijheid, |
 |-|lastig om cirkelvormige ringen mee te maken|moeilijk vervormbaar|vormen staan al vast (geleid)|niet esthetisch|weinig kleur, duur|
 
+
+.
 
 **Def-selectie: keuzematrix op basis van praktische test**
 
@@ -550,6 +550,18 @@ Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de b
 |**Rondel met Cu-draad (met pin)** <img src="afbeeldingen/8_Rondel met Cu-draad (met pin).jpg" width="80%">|Slecht contact bij pin, goed contact tussen de rondellen|/|Slecht contact bij pin, goed contact tussen ronddelen|Slecht contact bij pin, goed contact tussen de rondellen|/|
 |**Rondel met Cu-draad (zonder pin)**<img src="afbeeldingen/9_Rondel met Cu-draad (zonder pin).jpg" width="80%">|Goed contact|/|goed contact bij licht drukken|Goed contact|/|
 |**Adapter** <img src="afbeeldingen/10_adapter.jpg" width="80%">|/|/|/|/|Goed contact|
+
+
+
+
+**Uitleg code:**
+
+- aanmaken lijst met correcte volgorde
+- aanmaken lijst huidige volgorde
+- aanmaken functie die volgorde controleert
+- aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand door - 
+- gebruik te maken van intervallen
+- **...**
 
 ### Productie definitieve ontwerp
 
