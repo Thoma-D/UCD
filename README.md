@@ -414,7 +414,11 @@ Binnen dit percentile driven protocol willen we een zo aangenaam mogelijk gewich
 
 Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien een maximaal contactopp belangrijk is. Dus de omtrek is 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
 
-<img src="afbeeldingen/data 2A.png" width="30%"> <img src="afbeeldingen/design tall.png" width="30%">
+<img src="afbeeldingen/design tall.png" width="50%">
+
+<img src="afbeeldingen/data 2A.png" width="50%"> 
+
+.
 
 **2b: hoogte cilinder (database)**
 
@@ -457,19 +461,23 @@ De hoogte van de cilinder bedraagt 103mm.
 
 ### keuze elektronica
 Een van de laatste zaken die moet bepaald worden is de keuze van de electronica. Daarvoor werd gestart vanuit een keuzematrix waarin de relavante mogelijkheden stonden. Deze matrix is hieronder weergegeven.
+
 <img src="afbeeldingen/keuzematrix elektronica.png" width="75%">
 
 #### Druksensoren
 
 
-Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onvoldoende onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg volgens onderstaande opstelling met spanningsdeler. De code hiervan is terug te vinden onder de map "code".
+Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg volgens onderstaande opstelling met spanningsdeler. De code hiervan is terug te vinden onder de map "code".
 
 <img src="afbeeldingen/opstelling druksensor.jpg" width="50%">
+
 >Practische nadelen druksensoren:
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
-<img src="afbeeldingen/ruis_druk.png" width="50%">
-<img src="afbeeldingen/druksensor1.jpg" width="50%">
+
+<img src="afbeeldingen/druksensor1.jpg" width="28%">
+<img src="afbeeldingen/ruis_druk.png" width="61%">
+
 
 
 #### RFID/NFC lezers
@@ -479,13 +487,13 @@ Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer.
 
 Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag mag niet verder dan 6 mm van de lezer verwijderd zijn om te kunnen worden ingelezen. Echter is het heel complex en ingewikkeld om vier lezers aan 1 arduino aan te sluiten. Voor 1 lezer blijken ook 7 aansluitingen nodig te zijn. Door het gebruik van 1 lezer zou er te veel aan gebruiksvriendelijkheid moeten worden ingeboet. De gebruiker zou op een bijkomstige manier de positie van de cilinder moeten ingeven. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
 
->Practische voor en nadelen druksensoren
+>Practische voor en nadelen RFID/NFC lezers
 > - geen interferentie tussen naburige tags dus betrouwbaar
-> - gebruik vier lezers nodig
+> - gebruik vier lezers nodig, lastig voor 1 enkele arduino
 
-<img src="afbeeldingen/volgorde cilinder.png" width="50%">
-<img src="afbeeldingen/nfc output2.png" width="50%">
-<img src="afbeeldingen/opstelling rfid.jpg" width="50%">
+<img src="afbeeldingen/volgorde cilinder.png" width="99%">
+<img src="afbeeldingen/nfc output2.png" width="49%">
+<img src="afbeeldingen/opstelling rfid.jpg" width="49%">
 
 
 #### Weerstanden
