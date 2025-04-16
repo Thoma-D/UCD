@@ -501,19 +501,28 @@ Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag 
 #### Weerstanden
 
 
-Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. OP die manier kwamen we bij gewone weerstanden uit. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins. Bij de testen vielen geen nadelen op.
+Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. Er werd een poging gedaan met weerstanden. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins. Bij de testen vielen geen nadelen op.
 
-De weerstanden werden als volgt gekozen: 
+<p align="center">
+<img src="afbeeldingen/Schakeling_arduino_weerstand.jpg" width="60%">
+</p>
+
+**Keuze weerstandgrotes:**
+
 Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. Zodat de onnauwkeurigheid van de arduino veel lager ligt.
+
 **verder aanvullen met formule spanningsdeler en keuze weerstand uitleggen**
 
 
-code in het kort.
-aanmaken lijst met correcte volgorde
-aanmaken lijst huidige volgorde
-aanmaken functie die volgorde controleert
-aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand door gebruik te maken van intervallen
-**...**
+
+**Uitleg code:**
+
+- aanmaken lijst met correcte volgorde
+- aanmaken lijst huidige volgorde
+- aanmaken functie die volgorde controleert
+- aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand door - 
+- gebruik te maken van intervallen
+- **...**
 
 
 
