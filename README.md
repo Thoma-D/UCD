@@ -494,8 +494,8 @@ Uit onze testen hiermee bleek dat er gelukkig geen interferentie optrad. De tag 
 
 <img src="afbeeldingen/volgorde cilinder.png" width="99%">
 <p align="center">
-<img src="afbeeldingen/nfc output2.png" width="49%">
-<img src="afbeeldingen/opstelling rfid.jpg" width="49%">
+<img src="afbeeldingen/nfc output2.png" width="53%">
+<img src="afbeeldingen/opstelling rfid.jpg" width="44%">
 </p>
 
 #### Weerstanden
@@ -524,20 +524,23 @@ aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand
 
 ### keuze connectie
 
+**voorselectie: keuzematrix op basis van voorkennis:**
+
 ||Geleidende tape| Sheet metal| Sluitringen|Al folie|Geleidende verf|
 |:---|:---|:---|:---|:---|:---|
 |+| Snel mee te werken, esthetisch||Estetisch, moet niet meer bewerken| Makkelijk voor prototypes, makkelijk bewerkbaar|vormvrijheid, |
 |-|lastig om cirkelvormige ringen mee te maken|moeilijk vervormbaar|vormen staan al vast (geleid)|niet esthetisch|weinig kleur, duur|
 
-uitwerking 1 rondel op cilinder
-werkt zelf goed maar folie zorgt voor slecht contact
 
-uitwerking 2 folie op folie
-nogmaals slecht contact.
+**Def-selectie: keuzematrix op basis van praktische test**
 
-beide voorgaande werken beter door harder in te drukken
-**...**
-
+||Rondel Rondel vebonden met soldeer| Al/Cu-tape| Rechtstreeks|Rondel Rondel verbonden met Cu-tape|Adapter|
+|:---|:---|:---|:---|:---|:---|
+|Al/Cu- (met pin)|/|Slecht contact zowel met pins als indrukken|/|/|/|
+|Al/Cu (zonder pin)|/|goed contact|goed contact|/|/|
+|Rondel met Cu-draad (met pin)|Slecht contact bij pin, goed contact tussen de rondellen|/|Slecht contact bij pin, goed contact tussen ronddelen|Slecht contact bij pin, goed contact tussen de rondellen|/|
+|Rondel met Cu-draad (zonder pin)|Goed contact|/|goed contact bij licht drukken|Goed contact|/|
+|Adapter|/|/|/|/|Goed contact|
 
 ### Productie definitieve ontwerp
 
