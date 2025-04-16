@@ -643,8 +643,8 @@ Door de openingen en **rode cirkels** in het docking station kan de **gebruiker 
 |2.2|De interactieve blokken moeten zowel een te onderscheiden als een niet te onderscheiden kant hebben (1kant allemaal dezelfde kleur, 1 kant allemaal een verschillend kleur)|[Wave 1](#wave-1-n5)|
 |2.3|De interactieve blokken zijn cilindervormig, om duidelijk 2 verschillende kanten te hebben, met elk zijn unieke functie|[Wave 1](#wave-1-n5)|
 |2.4|De interactieve blokken hebben een hoogte en straal van 45mm|[Wave 2](#wave-2-n5)|
-|2.5|De hoogte bedraagt 103mm|[Develop 1: Ergonomie deel 1]|
-|2.6|De cilinder weegt 230,8g|[Develop 1: Ergonomie deel 1]|
+|2.5|De hoogte bedraagt 103mm|[Develop 1](#develop-1-ergonomie-deel-1)|
+|2.6|De cilinder weegt 230,8g|[Develop 1](#develop-1-ergonomie-deel-1)|
 |**Groep 3**|**Interface/scherm**|
 |3.1|De interface van het product moet hoofdzakelijk uit woorden bestaan.|[Wave 2](#wave-2-n5)|
 |3.2|De interface moet eenvoudig en beperkt blijven|[Wave 2](#wave-2-n5)|
