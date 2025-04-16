@@ -534,13 +534,13 @@ aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand
 
 **Def-selectie: keuzematrix op basis van praktische test**
 
-||Rondel Rondel vebonden met soldeer| Al/Cu-tape| Rechtstreeks|Rondel Rondel verbonden met Cu-tape|Adapter|
+||Rondel Rondel vebonden met soldeer<img src="afbeeldingen/1_Rondel Rondel verbonden met soldeer.jpg" width="80%">| Al/Cu-tape<img src="afbeeldingen/2_Al_Cu-tape.jpg">| Rechtstreeks<img src="afbeeldingen/3_Rechtreeks.jpg" width="80%">|Rondel Rondel verbonden met Cu-tape <img src="afbeeldingen/4_Rondel Rondel verbonden met Cu-tape.jpg" width="80%">|Adapter <img src="afbeeldingen/5_Adapter.jpg" width="100%">|
 |:---|:---|:---|:---|:---|:---|
-|Al/Cu- (met pin)|/|Slecht contact zowel met pins als indrukken|/|/|/|
-|Al/Cu (zonder pin)|/|goed contact|goed contact|/|/|
-|Rondel met Cu-draad (met pin)|Slecht contact bij pin, goed contact tussen de rondellen|/|Slecht contact bij pin, goed contact tussen ronddelen|Slecht contact bij pin, goed contact tussen de rondellen|/|
-|Rondel met Cu-draad (zonder pin)|Goed contact|/|goed contact bij licht drukken|Goed contact|/|
-|Adapter|/|/|/|/|Goed contact|
+|**Al/Cu- (met pin)** <img src="afbeeldingen/6_Al_Cu- (met pin).jpg" width="80%">|/|Slecht contact zowel met pins als indrukken|/|/|/|
+|**Al/Cu (zonder pin)** <img src="afbeeldingen/7_Al_Cu- (zonder pin).jpg" width="80%">|/|goed contact|goed contact|/|/|
+|**Rondel met Cu-draad (met pin)** <img src="afbeeldingen/8_Rondel met Cu-draad (met pin).jpg" width="80%">|Slecht contact bij pin, goed contact tussen de rondellen|/|Slecht contact bij pin, goed contact tussen ronddelen|Slecht contact bij pin, goed contact tussen de rondellen|/|
+|**Rondel met Cu-draad (zonder pin)**<img src="afbeeldingen/9_Rondel met Cu-draad (zonder pin).jpg" width="80%">|Goed contact|/|goed contact bij licht drukken|Goed contact|/|
+|**Adapter** <img src="afbeeldingen/10_adapter.jpg" width="80%">|/|/|/|/|Goed contact|
 
 ### Productie definitieve ontwerp
 
