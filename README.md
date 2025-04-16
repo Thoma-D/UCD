@@ -309,10 +309,16 @@ De gebruikerstesten worden uitgevoerd als een combinatie van BERT-testen en inte
 **Welke displaygrootte moet het product hebben?**
 
 Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet, een laptop en een TV. Zoals op onderstaande figuur te zien is.  
+
+<p align="center">
 <img src="afbeeldingen/Schermgroottes.png.jpg" width="50%">
+ </p> 
 
 Hierop reageerden de gebruikers verdeeld. 40% koos voor het 6.7" scherm, 40% tv en 20% 10.9" scherm zoals in onderstaande grafiek te zien is. Daarbij valt op dat de trendlijn daalt en links het hoogst ligt aangezien daar de meeste waarden liggen.
+
+<p align="center">
 <img src="afbeeldingen/Schermgrootte.png" width="50%">
+ </p> 
 
 Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. **Zie interview Willy: “wat is een HDMI-kabel”.**  
 
@@ -320,7 +326,9 @@ Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is k
 
 Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groottes kan de gebruiker nu nauwkeuriger kiezen welke deze het meest aangenaams vindt. Uit de BERT testen en interviews blijkt dat 80% 45mm als diameter verkiest. Dit doordat deze het makkelijkst vast te pakken zijn.
 
+<p align="center">
 <img src="afbeeldingen/Afmetingen cilinder.png" width="50%">
+ </p> 
 
 **Kent de doelgroep beloningssystemen en staan ze hiervoor open?**
 
@@ -330,9 +338,13 @@ Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd 
 
 Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. één met woorden en één met symbolen. Deze zijn terug te vinden bij de bijlagen. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. symbolen
 Om de uitwerking van de interface in het vervolg van het proces vlotter te laten verlopen werd een boomdiagram van de interface gemaakt zoals in onderstaande figuur te zien is.
-<img src="afbeeldingen/boomschema interface.png" width="80%">
 
+<p align="center">
+<img src="afbeeldingen/boomschema interface.png" width="80%">
+ </p>
+ 
 **Kleur**
+
 Kleur werd uiteindelijk al in de verwerking van wave 1 bepaald.
 
 ### Conclusies
@@ -430,6 +442,13 @@ De hoogte van de cilinder bedraagt 103mm.
 
 
 ## Develop 2
+### Doestellingen
+
+### Materiaal & methoden
+
+### Resultaten
+
+### Conclusies
 
 **...**
 
