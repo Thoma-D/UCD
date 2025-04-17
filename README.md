@@ -445,12 +445,43 @@ De hoogte van de cilinder bedraagt 103mm.
 > - D2.5 De hoogte bedraagt 103mm
 
 
-## Develop 2
+## Develop 2 (N=4)
 ### Doestellingen
-
+- Uitesten van spel
+- Bepalen van beste extra grip
+- Bepalen begrip contact LED's
+- Bepalen beste knop voor einde v.h. spel
 ### Materiaal & methoden
-
+- Knoppen
+- extra scherm(protopie)
+- Prototype docking station+ arduino/ bekabeling
+- Cilinders (+weerstanden) 
+-TAP & QAP
+- Bipolar emotional response testing (BERT)
+- comparative usability testing 
 ### Resultaten
+
+**Welke cilinder-grip wordt verkozen, waarom?**
+
+**in action tests**
+
+Hiervoor werden 3 cilinder toppers met elkaar vergeleken in spel context en achteraf geevalueerd op meerdere categorieen met een comparative usability testing.
+
+**insert tabel**
+
+**inest data analyse**
+
+Hieruit werd vastgelegd dat 100% gebruikers grip 2 verkoos. Daaruit volgt design requirment D.blah.blah
+
+
+**Hoe wordt gecommuniceerd dat de cilinders zeker een goed contact hebben?**
+1. vorm cutout
+
+2. LED's
+
+
+**Hoe rond je en spel af?**
+
 
 ### Conclusies
 
