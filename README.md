@@ -470,8 +470,17 @@ De hoogte van de cilinder bedraagt 103mm.
 
 
 Hiervoor werden 3 cilinder toppers met elkaar vergeleken in spel context en achteraf geevalueerd op meerdere categorieen met een comparative usability testing.
+<p align="center">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Estetiek.jpg" width="50%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Voorkeur.png" 
+width="49%">
+ </p>
+Extra uitleg blah
 
-**insert tabel**
+.
+
+
+<img src="afbeeldingen/Gebruikerstest_Dev2_Totaal.jpg" width="100%">
 
 **inest data analyse**
 
