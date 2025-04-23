@@ -463,7 +463,11 @@ De hoogte van de cilinder bedraagt 103mm.
 
 **Welke cilinder-grip wordt verkozen, waarom?**
 
-**in action tests**
+<p align="center">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Grip1.jpg" width="40%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Grip2.jpg" width="40%">
+ </p>
+
 
 Hiervoor werden 3 cilinder toppers met elkaar vergeleken in spel context en achteraf geevalueerd op meerdere categorieen met een comparative usability testing.
 
