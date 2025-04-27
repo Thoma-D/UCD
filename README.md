@@ -19,7 +19,7 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 - Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
 
 Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
-Daarbij worden dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
+Daarbij worden **dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld**. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
 Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... De theoretische werking wordt verder besproken in de inleiding.
 
 ### Spelregels
