@@ -503,7 +503,7 @@ Hieruit werd vastgelegd dat 100% gebruikers grip 2 verkoos. Daaruit volgt design
 
 **...**
 
-<img src="afbeeldingen/prototype.png" width="30%">
+<img src="afbeeldingen/prototype.jpg" width="30%">
 
 ## Prototyping
 
