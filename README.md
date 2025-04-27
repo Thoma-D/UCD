@@ -2,11 +2,11 @@ MuziSym
 
 Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op een muzikale, toegankelijke en gebruiksvriendelijke manier.
 
-<img src="afbeeldingen/logo.png" width="50%">
 Projectteam: Thoma Demets en Cieters Jeroen
 
 2024-2025
-
+<p align="center">
+<img src="afbeeldingen/logo.png" width="30%">
 
 ## Samenvatting
 ### Theoretisch
