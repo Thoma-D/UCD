@@ -1,6 +1,6 @@
 MuziSym
 
-Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op een muzikale, toegankelijke en gebruiksvriendelijke manier.
+Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op een muzikale, toegankelijke en gebruiksvriendelijke manier. Dit zonder begeleider en op een zelfstandige manier
 
 Projectteam: Thoma Demets en Cieters Jeroen
 
@@ -38,7 +38,9 @@ Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt
 
 
 ### probleem
-Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een projector [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot. Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
+Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een beeldscherm [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot aangezien er in die methode een ebgeleider nodig is.
+<img src="afbeeldingen/primitieve methode.png" width="30%">
+Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 
 
 ### How might we
