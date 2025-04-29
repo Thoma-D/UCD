@@ -478,16 +478,13 @@ Hiervoor werden 3 cilinder toppers met elkaar vergeleken in spel context en acht
 <img src="afbeeldingen/Gebruikerstest_Dev2_Voorkeur.png" 
 width="49%">
  </p>
-Extra uitleg blah
 
-.
 
 
 <img src="afbeeldingen/Gebruikerstest_Dev2_Totaal.jpg" width="100%">
+Uit deze test blijkt dat deze grip 2 door de meeste gebruikers gekozen wordt. Vervolgens grip 1 en als laatste de derde. 
 
-**inest data analyse**
-
-Hieruit werd vastgelegd dat 100% gebruikers grip 2 verkoos. Daaruit volgt design requirment D.blah.blah
+ Daaruit volgt design requirment D.blah.blah
 
 
 **Hoe wordt gecommuniceerd dat de cilinders zeker een goed contact hebben?**
