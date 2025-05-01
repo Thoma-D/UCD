@@ -474,33 +474,61 @@ De hoogte van de cilinder bedraagt 103mm.
 
 Hiervoor werden 3 cilinder toppers met elkaar vergeleken in spel context en achteraf geevalueerd op meerdere categorieen met een comparative usability testing.
 <p align="center">
-<img src="afbeeldingen/Gebruikerstest_Dev2_Estetiek.jpg" width="50%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Estetiek.jpg" width="46%">
 <img src="afbeeldingen/Gebruikerstest_Dev2_Voorkeur.png" 
-width="49%">
+width="45%">
  </p>
 
+<p align="center">
+<img src="afbeeldingen/CilinderGripSoorten.png" width="30%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Totaal.jpg" width="62%">
+</p>
 
+Uit deze test blijkt dat deze grip B door de meeste gebruikers gekozen wordt. Vervolgens grip A en als laatste C. 
 
-<img src="afbeeldingen/Gebruikerstest_Dev2_Totaal.jpg" width="100%">
-Uit deze test blijkt dat deze grip 2 door de meeste gebruikers gekozen wordt. Vervolgens grip 1 en als laatste de derde. 
-
- Daaruit volgt design requirment D.blah.blah
-
+Hieruit volgt design requirment D2.7. 
 
 **Hoe wordt gecommuniceerd dat de cilinders zeker een goed contact hebben?**
-1. vorm cutout
 
-2. LED's
+1. **Vorm cutout**
+
+Om te zorgen dat de elektronische elementen correct worden gealinieerd worden inzinkingen voorzien waarin de cilinders inpassen. Deze affordance maakt ook duidelijk waar de cilinders moeten worden geplaatst op de docking station.
+<p align="center">
+<img src="afbeeldingen/Gebruikertest_DEV2_GRIP2.jpg" width="90%">
+</p>
+Tijdens de observatities werd vastgesteld dat deze hielpen bij het terugplaatsen van de cilinders.
+
+Hieruit volgt D
+
+
+2. **LED's**
+
+ Er werd gestest in spel context of een LED die brand wanneer de cilinders een goed contact hebben een meerwaarde geven.
+<p align="center">
+<img src="afbeeldingen/Gebruikertest_DEV2_GRIP.jpg" width="90%">
+</p>
+ 
 
 
 **Hoe rond je en spel af?**
 
+Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv BERT testing.
 
+
+Hieruit volgde dat de gebruiker de "grote" arcade knop verkoos boven alles
 ### Conclusies
 
 **...**
 
 <img src="afbeeldingen/prototype.jpg" width="30%">
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.7 De cilinders hebben grip B.
+<img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
+>- D 
+>- D
+>- D
 
 ## Prototyping
 
@@ -702,6 +730,7 @@ Door de openingen en **rode cirkels** in het docking station kan de **gebruiker 
 |2.4|De interactieve blokken hebben een hoogte en straal van 45mm|[Wave 2](#wave-2-n5)|
 |2.5|De hoogte bedraagt 103mm|[Develop 1](#develop-1-ergonomie-deel-1)|
 |2.6|De cilinder weegt 230,8g|[Develop 1](#develop-1-ergonomie-deel-1)|
+|2.7|De cilinders hebben grip B.<img src="afbeeldingen/CilinderGripSoorten.png" width="10%">|[Develop 2](#develop-2-n4)|
 |**Groep 3**|**Interface/scherm**|
 |3.1|De interface van het product moet hoofdzakelijk uit woorden bestaan.|[Wave 2](#wave-2-n5)|
 |3.2|De interface moet eenvoudig en beperkt blijven|[Wave 2](#wave-2-n5)|
