@@ -182,6 +182,11 @@ Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de i
 - QAP (Question asking protocol)
 - Intervieuw
 
+<p align="center">
+  <img src="afbeeldingen/Prototype 1 (2).jpg" width="49%">
+  <img src="afbeeldingen/Prototype 1 (1).jpg" width="49%">
+</p>
+
 ### Resultaten
 
 **Hoe worden danspasjes weergegeven?** 
