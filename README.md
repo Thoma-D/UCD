@@ -519,8 +519,11 @@ Hieruit volgt D
 
 Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv BERT testing.
 
-
-Hieruit volgde dat de gebruiker de "grote" arcade knop verkoos boven alles
+<p align="center">
+<img src="afbeeldingen/Gemiddelde BERT scores.png" width="90%">
+</p>
+ 
+Hieruit volgt dat de gebruiker de "grote" arcade knop verkiest. (D)
 ### Conclusies
 
 **...**
@@ -529,11 +532,12 @@ Hieruit volgde dat de gebruiker de "grote" arcade knop verkoos boven alles
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.7 De cilinders hebben grip B.
+> - D2.7 De cilinders hebben grip B
 <img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
->- D 
->- D
->- D
+>- D De dockingstation bevat cutout's van de cilinders als affordance
+>- D De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
+>- D De dockingstation bevat een arcade knop voor een spel te beëindigen
+
 
 ## Prototyping
 
