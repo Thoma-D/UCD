@@ -39,6 +39,7 @@ Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt
 
 ### probleem
 Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een beeldscherm [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot aangezien er in die methode een ebgeleider nodig is.
+
 <img src="afbeeldingen/primitieve methode.png" width="30%">
 Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 
@@ -53,8 +54,7 @@ Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de e
  
 
 ## Methodologie
-Om een project tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project werd gebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Binnen dit ontwerpproces wordt onderaan de pyramide van Aaron Walter begonnen. Doorheen wordt hogerop geklommen om op alle aspecten te focussen.
-
+Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken.
 <p align="center">
 <img src="afbeeldingen/zendesk.png" width="50%">
 <img src="afbeeldingen/Aaron Walter.png" width="25%">
@@ -71,15 +71,15 @@ Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze be
 ### Defenition fase
 Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker nog meer centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
 
-In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als **hoeveel blokken? En hoe snel volgen de danspassen op elkaar?** Te beantwoorden. Hiervoor werden de nodige prototypes gemaakt. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
+In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als **hoeveel blokken? En hoe snel volgen de danspassen op elkaar?** Te beantwoorden. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
 
 In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daarbij wordt meer naar de belonigssytemen en schermgrootte gekeken.
-
 
 ### Develop fase
 Hierbij ligt de nadruk meer op detaillering en validereing van prototypes.
 In develop 1 wordt nog gefocust op de ergonomie. 
-In develop 2 wordt nog even teruggekomen op de ergonomie. Voornamelijk wordt hierbij op de integratie van de elektronica gefocust. Hieronder vallen zowel het mechanisme van de verbinding van de cilinder met het dockingstation als het type en grootte van de knop
+In develop 2 wordt nog even teruggekomen op de ergonomie. Voornamelijk wordt hierbij op de integratie van de elektronica gefocust. Hieronder vallen zowel het mechanisme van de verbinding van de cilinder met het dockingstation als het type en grootte van de knop.
+In develop 3 staat 
 
 
 ## Discovery
@@ -754,11 +754,18 @@ Door de openingen en **rode cirkels** in het docking station kan de **gebruiker 
 ## Kritische reflectie
 Max. 500 woorden
 
--> keuze electronica
+
+->keuze electronica
+
 -> theorie <-> praktijk
+
+-> van verhaal naar to the point
+
+-> boomstructuur interface
+
 -> geleidende materialen
-->database vs gebruikerstest omtrek hand
-Een belangrijke kritische reflectie hierbij is dat deze gelijkaardige waarden nog steeds op een toeval kunnen wijzen. Dit doordat de maximale omsloten waarde uit de database niet volledig hetzelfde is als de door de gebruiker gekozen diameter.
+
+
 
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. (https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf)
