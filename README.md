@@ -299,7 +299,7 @@ Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker w
 - Hoe staan ouderen t.o.v. belonigsystemen
   
 ### Materiaal & methoden
-- Figma
+- Figma interface met woorden en interface met symbolen
 - Smartphone (6.7")
 - Tablet (10.9")
 - Laptop (15.6")
@@ -522,8 +522,9 @@ Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv
 <p align="center">
 <img src="afbeeldingen/Gemiddelde BERT scores.png" width="90%">
 </p>
- 
-Hieruit volgt dat de gebruiker de "grote" arcade knop verkiest. (D)
+<img src="afbeeldingen/knop direct-indirect.png" width="50%">
+ knop direct-indirect.png
+Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest. (D)
 ### Conclusies
 
 **...**
@@ -533,6 +534,8 @@ Hieruit volgt dat de gebruiker de "grote" arcade knop verkiest. (D)
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.7 De cilinders hebben grip B
+> - D4.5 De knop heeft een minimale diameter van 19mm
+> - D4.6 De knop is een directe drukknop 
 <img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
 >- D De dockingstation bevat cutout's van de cilinders als affordance
 >- D De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
@@ -749,7 +752,8 @@ Door de openingen en **rode cirkels** in het docking station kan de **gebruiker 
 |4.2|Het product moet feedback geven aan het einde van een spelsessie|[Wave 2](#wave-2-n5)|
 |4.3|De docking station van het product moet een speaker bevatten|[Wave 1](#wave-1-n5)|
 |4.4|Het product moet duidelijk aangeven wat rechts(rood) en wat links(blauw) is|[Wave 1](#wave-1-n5)|
-
+|4.5|De knop heeft een minimale diameter van 19mm |[Develop 2](#develop-2-n4)|
+|4.6|De knop is een directe drukknop |[Develop 2](#develop-2-n4)|
 
 ## Kritische reflectie
 Max. 500 woorden
@@ -765,7 +769,7 @@ Max. 500 woorden
 
 -> geleidende materialen
 
-
+-> niet alle klantbehoeften kunnen worden waar gemaakt
 
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. (https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf)
