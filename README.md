@@ -54,7 +54,7 @@ Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de e
  
 
 ## Methodologie
-Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken.
+Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken. Daarbij wordt onderaan gestart om op uiteindelijk bij pleasurable uit te komen
 <p align="center">
 <img src="afbeeldingen/zendesk.png" width="50%">
 <img src="afbeeldingen/Aaron Walter.png" width="25%">
@@ -85,8 +85,10 @@ In develop 3 staat
 ## Discovery
 
 ### Doestellingen
-Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces. 
-Opstellen klantbehoeften
+- Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces.
+- Opstellen klantbehoeften
+- Algemeen beeld krijgen
+- 
 ### Materiaal & methoden
 * Literatuurstudie 
 * Interviews 
@@ -96,8 +98,8 @@ Opstellen klantbehoeften
 #### Literatuurstudie (N=10)
 [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
 [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
-
-Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, werd begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
+Doel
+Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, wordt begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
 
 Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening” en werden de eerste design requirements vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
 <p align="center">
