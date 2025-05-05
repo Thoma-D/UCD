@@ -20,9 +20,9 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 
 Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
 Daarbij worden **dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld**. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
-Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een beter humeur... De theoretische werking wordt verder besproken in de inleiding.
+Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coordinatie..(bron6 literatuurstudie) De theoretische werking wordt verder besproken in de inleiding.
 
-### Spelregels
+### Spelverloop
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
 <p align="center">
 <img src="afbeeldingen/symbolen met uitleg.png" width="25%">
@@ -63,13 +63,11 @@ Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologis
 Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
 Daarbij is het belangrijkste doel is om vragen als: **Waar liggen de Gaps? Wie is de doelgroep? En is deze doelgroep voldoende groot?** Te beantwoorden
 Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede basis**. 
-
-Binnen de literatuurstudie wordt gebruik gemaakt van: wetenschappelijke artikels, databases, gewone artikels en websites. Dit geeft een sterkt theoretisch, analytisch en wetenschappelijke basis.
-
+Binnen de literatuurstudie wordt gebruik gemaakt van: wetenschappelijke artikels, databases, gewone artikels en websites. Dit geeft een sterke brede, theoretische en wetenschappelijke basis.
 Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze beter te leren kennen dan deze zichzelf kent. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. **Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat.** Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd.
 
 ### Defenition fase
-Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker nog meer centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
+Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker opnieuw centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor staan zoals in bovenstaande figuur bij prototypes meestal twee versies. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
 
 In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als **hoeveel blokken? En hoe snel volgen de danspassen op elkaar?** Te beantwoorden. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
 
@@ -80,6 +78,11 @@ Hierbij ligt de nadruk meer op detaillering en validereing van prototypes.
 In develop 1 wordt nog gefocust op de ergonomie. 
 In develop 2 wordt nog even teruggekomen op de ergonomie. Voornamelijk wordt hierbij op de integratie van de elektronica gefocust. Hieronder vallen zowel het mechanisme van de verbinding van de cilinder met het dockingstation als het type en grootte van de knop.
 In develop 3 staat 
+### Deliver fase 
+Belangrijk: deze fase is overlappend en niet chronologisch
+
+Uit voorgaande prototypes, gebruikerstesten, templates, experimenten (zie o.a. prototyping - elektronica) wordt een finaal prototype/product uitgewerkt. Met behulp van DaVinci Resolve en beeldmateriaal uit voorgaande testen wordt ook een video gerealiseerd. Deze geeft het ontwerpproces en het product weer.
+
 
 
 ## Discovery
@@ -87,8 +90,20 @@ In develop 3 staat
 ### Doestellingen
 - Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces.
 - Opstellen klantbehoeften
-- Algemeen beeld krijgen
-- 
+- Algemeen beeld inzake RGM en beantwoorden onderzoeksvragen
+- De belangrijkste onderzoeksvragen in deze studie zijn: 
+
+### Onderzoeksvragen  
+- Wat is de RGM methode?
+- Onderzoeksvragen secundair:  
+- Hoe helpt de RGM methode mensen? 
+- Hoe werkt deze methode? 
+- voor wie is deze methode het meest geschikt? 
+- is de doelgroep groot? 
+- Welke rol speelt muziek?  
+- Hoe werkt dit in de hersenen? Welke hersengebied bevindt zich waar? 
+- Hoe veroudert ons lichaam? 
+
 ### Materiaal & methoden
 * Literatuurstudie 
 * Interviews 
@@ -98,8 +113,22 @@ In develop 3 staat
 #### Literatuurstudie (N=10)
 [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
 [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
-Doel
-Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, wordt begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd. 
+Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, wordt begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd om met een brede basis te beginnen. 
+De belangrijkste bevindingen - die onder andere de onderzoeksvragen beantwoorden - worden hieronder weergegeven:
+
+Als doelgroep werden “65+ers zonder neurologische aandoening” gekozen. Geen kinderen omdat deze methode minder efficiënt en invloed heeft op hun hersenen . 65+ers omdat dit een groot deel van de bevolking is. Zo blijkt uit Statbel dat **18,9% van de Vlamingen 65+er** is.
+<img src="afbeeldingen/bevolking Vlaanderen" width="24%">
+
+De hedendaagse methode vereist een scherm, practionner en een groepsgebeuren (bron7). **Een belangrijke gap is dat er dus geen kant en klare thuis oplossing bestaat dat de eindgebruiker autonoom kan gebruiken.**
+
+**Door de sterke achterliggende theorie van RGM zoals hierboven vermeld is het nuttig de theoretische werking( combinatie muziek, symbolen en danspassen) over te nemen en in een nieuw jasje te steken. Het is de bedoeling de theoretische werking te integreren in een eindproduct.**
+
+In dit [1] wetenschappelijk artikel wordt de methode theoretisch samengevat: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas [2]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation.” Wat verder wordt gezegd: “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”
+
+Uit dit [5] wetenschappelijk artikel volgt dat de mens verouderd doordat dit in ons DNA zit en door chemische reacties versterkt door UV straling. In functie van deze oorzaken kan binnen onze haalbaarheid niet worden ontworpen. wel kunnen bovenstaande voordelen blijven wanneer de theoretische werking van RGM verder geintegreerd wordt tot een product.
+
+
+
 
 Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening” en werden de eerste design requirements vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
 <p align="center">
@@ -114,7 +143,7 @@ Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening�
 > - D1.3 Het product moet fouten maken toelaten
 > - D1.4 Het product moet muziek bevatten	
 > - D1.5 Het product moet ritme bevatten	
-> - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt	
+> - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt
 
 #### Interviews (N=4)
 [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20interview.pdf)
@@ -781,6 +810,8 @@ Max. 500 woorden
 [3]Home. (z.d.). RGM Nederland. https://rgm-nederland.nl/site/home
 
 [4]Rianne Stouten. (2022, 31 oktober). RGM - een introductie [Video]. YouTube. https://www.youtube.com/watch?v=f69yf9YW_Cw
+
+[5]https://www.pnas.org/doi/pdf/10.1073/pnas.78.11.7124
 
 ## Bijlagen
 figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
