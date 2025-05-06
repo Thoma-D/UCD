@@ -26,7 +26,7 @@ Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
 <p align="center">
 <img src="afbeeldingen/symbolen met uitleg.png" width="25%">
-<img src="afbeeldingen/render_eindok.png" width="40%">
+<img src="afbeeldingen/render_eind.png" width="40%">
 <img src="afbeeldingen/render_grip.png" width="30%">
 
 
