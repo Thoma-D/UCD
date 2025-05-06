@@ -397,7 +397,7 @@ De cilinder heeft een diameter van 45 mm.
 
 **Beloningsysteen**
 
-Doelgroep wenst geen uitgebreid beloningssysteem. Er moet wel een mogelijkheid zijn om de vooruitgang te kunnen zien.
+Doelgroep wenst geen uitgebreid beloningssysteem.
 
 **Interface**
 
