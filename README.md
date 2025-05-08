@@ -50,14 +50,14 @@ Hieruit volgt onze challenge, onze how might we:
 
 
 ### Stakeholders
-Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput.
- 
+Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput.de
 
 ## Methodologie
 Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken. Daarbij wordt onderaan gestart om op uiteindelijk bij pleasurable uit te komen
 <p align="center">
 <img src="afbeeldingen/zendesk.png" width="50%">
 <img src="afbeeldingen/Aaron Walter.png" width="25%">
+<img src="afbeeldingen/cilinders.png" width="25%">
  
 ### Discovery fase
 Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
@@ -680,6 +680,31 @@ Door gebruik te maken van 2 cirkels van geleidend materiaal waarover de weerstan
 - **...**
 
 ### Productie definitieve ontwerp
+#### componenten:
+Uit de vorige waves, klantbehoeften en uit het gedeelte design volgt dat het product volgende componenten moet bevatten:
+- 4 cilinders
+- scherm
+- centraal station met:
+  - 4 openingen voor de "lezers"
+  - 1 drukknop als "ok" en "validatie" knop
+  - 4 Leds om contact te detecteren (feedback)
+
+#### positie componenten: 
+Daarbij kan het geheel op onderstaande manieren geplaatst worden
+<img src="afbeeldingen/positie.png" width="60%">
+Scherm optie 1 en 2 gaan niet omdat deze het zicht hinderen. 3 en 4 is afhankelijk van rechts of linkshandigen. Hieruit wordt besloten dat het scherm volledig appart en op voorkeur van de gebruiker geplaatst wordt.
+
+#### technieken:
+Keuzematrix met design blocks:
+||1|2|3|4|
+|:---|:---|:---|:---|:---|
+|materiaal|MDF|PLA|PS|Foam
+|productietechniek|3D printen|thermovormen|lasercutten|spuitgieten
+|verbindingsmechanismen|schroef|klik|vaste passing|lijm
+
+voor de cilinders wordt 3D printing toegepast. Dit omdat het hier om een cilindrisch element en een beperkte hoeveelheid gaat. Bij hogere productie kan bv naar thermovormen gekeken.
+
+Het dockingstation bestaat uit een combinatie van lasercutten en thermovormen. Thermovormen omdat in weinig stappen een gebogen vorm met alsnog een strak bovenste surface ontstaat. Een deel van de matrijs kan daarbij behouden worden. Wat in weinig materiaalverlies resulteert. Om te verzekeren dat de lezers langs de bovenkant niet inzakken worden nog twee lagen gelasercut.
 
 
 
@@ -737,7 +762,9 @@ De verbinding tussen de cilinder en het docking station zijn beide cilindervormi
 #### Feedback:
 De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
 #### Affordances:
-Door de openingen en **rode cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**.
+Door de openingen en **rode cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. DIt kan ook als nudging gezien worden.
+
+Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
 
 
 ## Bill of materials en klantbehoeften
