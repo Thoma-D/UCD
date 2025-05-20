@@ -231,7 +231,7 @@ Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de i
 
 <p align="center">
   <img src="afbeeldingen/Prototype 1 (2).jpg" width="49%">
-  <img src="afbeeldingen/Prototype 1 (1).jpg" width="49%">
+  
 </p>
 
 ### Resultaten
@@ -263,7 +263,7 @@ Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de
 
 Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/28def15b-0d7f-4cb0-a1ef-0bb421d9f4fb" width="45%">
+  <img src="afbeeldingen/blokkenzelfdekleur.png" width="49%">
   <img src="https://github.com/user-attachments/assets/bdb81264-3999-459a-b369-8edf3ad4ef2f" width="45%">
 </p>
 
