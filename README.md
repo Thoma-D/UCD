@@ -414,6 +414,8 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 
 ## Develop
 ### Wave 1
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
 #### Doestellingen
 1. Bepalen van de meest ergonomische massa.
  1a. a.d.h.v. gebruikerstest voor rechtstreekse input.
@@ -452,10 +454,10 @@ Uit deze test werden bovenstaande waarden verkregen. Binnen dit percentile drive
 **2a: Omtrek cilinder (database)**
 
 Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt zoals hier onder te zien.
-<p align="center">
+
 <img src="afbeeldingen/Gebruikerstest_Dev2_Grip1.jpg" width="20%">
 <img src="afbeeldingen/Gebruikerstest_Dev2_Grip2.jpg" width="20%">
- </p> 
+
  één daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aangezien een maximaal contactopp belangrijk is. Dus de omtrek is 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
 <p align="center">
 <img src="afbeeldingen/design tall.png" width="60%">
@@ -488,13 +490,18 @@ De hoogte van de cilinder bedraagt 103mm.
 > - D2.5 De hoogte bedraagt 103mm
 
 
-## Develop 2 (N=4)
-### Doestellingen
+### Wave 2 (N=4)
+#### Doestellingen
 
-1. Bepalen van de grip
-2. Bepalen begrip contact LED's
-- Bepalen beste knop voor einde v.h. spel
-### Materiaal & methoden
+1. Bepalen welke grip
+2. communiceren dat cilinders goed contact hebben
+
+    2a. Bepalen begrip contact LED's
+
+    2b. vorm cutout
+
+3. keuze knop
+#### Materiaal & methoden
 - Knoppen
 - extra scherm(protopie)
 - Prototype docking station+ arduino/ bekabeling
@@ -502,9 +509,9 @@ De hoogte van de cilinder bedraagt 103mm.
 -TAP & QAP
 - **Bipolar emotional response testing (BERT)**
 - **comparative usability testing**
-### Resultaten
+#### Resultaten
 
-**Cilinder-grip**
+**1. Cilinder-grip**
 
 <p align="center">
 <img src="afbeeldingen/Gebruikerstest_Dev2_Grip1.jpg" width="20%">
@@ -526,9 +533,13 @@ Uit deze test blijkt dat deze grip B door de meeste gebruikers gekozen wordt. Ve
 > Design Requirements:
 > - D2.7 B wordt gebruikt als grip
 
-**Communicatie dat de cilinders zeker een goed contact hebben**
+**2. communiceren dat de cilinders zeker een goed contact hebben**
 
-1. **Vorm cutout**
+Hiervoor werd onderstaand prototype gebouwd.
+<p align="center">
+<img src="afbeeldingen/prototype.jpg" width="50%">
+
+**2a. vorm cutout**
 
 Om te zorgen dat de elektronische elementen correct worden gealinieerd worden inzinkingen voorzien waarin de cilinders inpassen. Deze affordance maakt ook duidelijk waar de cilinders moeten worden geplaatst op de docking station.
 <p align="center">
@@ -539,7 +550,7 @@ Tijdens de observatities werd vastgesteld dat deze hielpen bij het terugplaatsen
 Hieruit volgt D
 
 
-2. **LED's**
+**2b. LED's**
 
  Er werd gestest in spel context of een LED die brand wanneer de cilinders een goed contact hebben een meerwaarde geven.
 <p align="center">
@@ -548,7 +559,7 @@ Hieruit volgt D
  
 
 
-**Hoe rond je en spel af?**
+**Keuze knop**
 
 Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv BERT testing.
 
@@ -556,14 +567,8 @@ Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv
 <img src="afbeeldingen/Gemiddelde BERT scores.png" width="78%">
 <img src="afbeeldingen/knop direct-indirect.png" width="20%">
 
-knop direct-indirect.png
-Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest. (D)
-### Conclusies
 
-**...**
-
-<img src="afbeeldingen/prototype.jpg" width="30%">
-
+Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.7 De cilinders hebben grip B
@@ -829,9 +834,6 @@ Op
 
 
 -> niet alle klantbehoeften kunnen worden waargemaakt
-
-
-
 
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. (https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf)
