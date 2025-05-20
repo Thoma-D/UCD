@@ -1,4 +1,4 @@
-MuziSym
+**MuziSym**
 
 Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op een muzikale, toegankelijke en gebruiksvriendelijke manier. Dit zonder begeleider en op een zelfstandige manier
 
@@ -20,7 +20,7 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 
 Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
 Daarbij worden **dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld**. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
-Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coordinatie..(bron6 literatuurstudie) De theoretische werking wordt verder besproken in de inleiding.
+Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coordinatie.(bron6 literatuurstudie) De theoretische werking wordt verder besproken in de inleiding.
 
 ### Spelverloop
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
@@ -825,7 +825,7 @@ De arduino bleek nogal traag en onbettrouwbaar te zijn bij het uploaden van code
 
 -> geleidende materialen
 
--> niet alle klantbehoeften kunnen worden waar gemaakt
+-> niet alle klantbehoeften kunnen worden waargemaakt
 
 
 ## Bronnen
@@ -841,5 +841,6 @@ De arduino bleek nogal traag en onbettrouwbaar te zijn bij het uploaden van code
 
 ## Bijlagen
 figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
+
 figma symbolen: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=e6Q9ih9GOHFj0thw-1 
 
