@@ -107,22 +107,22 @@ Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, 
 
 De belangrijkste bevindingen - die onder andere de onderzoeksvragen beantwoorden - worden hieronder weergegeven:
 
-1. Als doelgroep werden “65+ers zonder neurologische aandoening” gekozen. Geen kinderen omdat deze methode minder efficiënt en invloed heeft op hun hersenen. 65+ers omdat dit een groot deel van de bevolking is. Zo blijkt uit Statbel dat **18,9% van de Vlamingen 65+er** is.
-<img src="afbeeldingen/bevolking Vlaanderen" width="24%">
+1. Als doelgroep wordt “65+ers zonder neurologische aandoening” gekozen. Geen kinderen omdat deze methode minder efficiënt en invloed heeft op hun hersenen. 65+ers omdat dit een groot deel van de bevolking is. Zo blijkt uit Statbel dat **18,9% van de Vlamingen 65+er** is.
+<p align="center">
+<img src="afbeeldingen/bevolking Vlaanderen.png" width="24%">
 
 2. De hedendaagse methode vereist een scherm, practionner en een groepsgebeuren (bron7). **Een belangrijke gap is dat er dus geen kant en klare thuis oplossing bestaat dat de eindgebruiker autonoom kan gebruiken.**
 
 3. **Door de sterke achterliggende theorie van RGM zoals hierboven vermeld is het nuttig de theoretische werking( combinatie muziek, symbolen en danspassen) over te nemen en in een nieuw jasje te steken. Het is de bedoeling de theoretische werking te integreren in een eindproduct.**
 
-4. In dit [1] wetenschappelijk artikel wordt de methode theoretisch samengevat: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas [3]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation.” Wat verder wordt gezegd: “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”
+4. In dit [1] wetenschappelijk artikel wordt de methode theoretisch samengevat: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas [3]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation.” Wat verder wordt gezegd: “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.” **Muziek speelt dus een heel belangrijke rol.**
 
 5. Uit dit [6] wetenschappelijk artikel volgt dat de mens verouderd doordat dit in ons DNA zit en door chemische reacties versterkt door UV straling. In functie van deze oorzaken kan binnen onze haalbaarheid niet worden ontworpen. wel kunnen bovenstaande voordelen blijven wanneer de theoretische werking van RGM verder geintegreerd wordt tot een product.
-
-Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening” en werden de eerste design requirements vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
+Hieruit volgt onderstaand fishbone diagram.
 <p align="center">
- <img src="afbeeldingen/fishbone diagram.jpg" width="75%">
- <img src="afbeeldingen/Innovatrix.jpg" width="24%">
-</p>
+ <img src="afbeeldingen/fishbone diagram.jpg" width="60%">
+ 
+
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -134,10 +134,18 @@ Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening�
 > - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt
 
 #### Interviews (N=4)
-[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20interview.pdf)
-[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/interview%20verslag.pdf)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20interview.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/interview%20verslag.pdf)
 
-Er werden interviews uigevoerd met “65+ers zonder neurologische aandoening” met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
+Uit de interviews met “65+ers zonder neurologische aandoening” volgt dat wanneer ze naar de originele methode kijken: 
+
+**“Het ziet er zo moeilijk uit al deze dingen tegelijkertijd te doen”.** Hiermee geeft Marleen Hofman aan dat ze de combinatie van motorische, sensorische en cognitieve prikkels te veel vindt."
+
+**“Ik hoop hiermee mijn grenzen te verleggen. Achteraf hoop ik te kunnen zeggen: amai ik had nooit gedacht dat ik dit zou kunnen”.** Hiermee geeft Joske aan wat ze met dit spel zou willen 
+
+
+
+Er werden interviews uigevoerd met  met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
 
 De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aandoening tegenover de RGM-methode? Welke aspecten van deze methode spreken hen aan? Wat zien ze liever anders?   
 
@@ -174,6 +182,7 @@ Momenteel passen geen producten RGM rechtstreeks toe. Daarom werden hierbij geli
 De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot een duidelijk beeld van de doelgroep, “65+’ers zonder neurologische aandoening,” en hun behoeften. De doelgroep staat open voor de RGM-methode, maar vraagt om een rustiger tempo, meer herhaling en verschillende moeilijkheidsniveaus. Daarnaast is er een sterke voorkeur voor een gebruiksvriendelijke thuisoplossing die zelfstandig kan worden gebruikt. Benchmarking toont aan dat er momenteel geen directe RGM-producten op de markt zijn, maar vergelijkbare oplossingen bieden waardevolle inzichten voor het ontwerp en bevestigen de bestaande marktkans. 
 
 **Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
+<img src="afbeeldingen/Innovatrix.jpg" width="24%">
 
 ## Definition
 <p align="center">
