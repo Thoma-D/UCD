@@ -67,17 +67,12 @@ Eerst werd een storyboard opgesteld die elke stap van het gebruiksproces benader
 
 In deze fase wordt nudat de fundamentele kennis er is gekeken naar de functionele parameters van het concept. Vragen als **hoeveel blokken? Welke vorm hebben de blokken? En hoe snel volgen de danspassen op elkaar?** worden beantwoord.
 
- Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
-
-In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als **hoeveel blokken? En hoe snel volgen de danspassen op elkaar?** Te beantwoorden. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
-
-In de tweede wave staat meer de detaillering en het "pleasurable" centraal. Daarbij wordt meer naar de belonigssytemen en schermgrootte gekeken.
 
 ### Develop fase
-Hierbij ligt de nadruk meer op detaillering en validereing van prototypes.
+Hierbij ligt de nadruk meer op detaillering en validering van prototypes.
 In develop 1 wordt nog gefocust op de ergonomie. 
 In develop 2 wordt nog even teruggekomen op de ergonomie. Voornamelijk wordt hierbij op de integratie van de elektronica gefocust. Hieronder vallen zowel het mechanisme van de verbinding van de cilinder met het dockingstation als het type en grootte van de knop.
-In develop 3 staat 
+
 ### Deliver fase 
 Belangrijk: deze fase is overlappend en niet chronologisch
 
@@ -588,18 +583,19 @@ Een van de laatste zaken die moet bepaald worden is de keuze van de electronica.
 
 
 Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aangezien deze optie de enigste mogelijkheid biedt het spel ook met de cilinders omgedraaid te kunnen spelen. Helaas blijkt deze methode onnauwkeurig te zijn. Hierbij werd getest met vier DF9-40series druksensoren met een bereik van 20g - 2kg volgens onderstaande opstelling met spanningsdeler. De code hiervan is terug te vinden onder de map "code".
+<p align="center">
+<img src="afbeeldingen/druksensor1.jpg" width="18%">
+<img src="afbeeldingen/opstelling druksensor.jpg" width="30%">
+<img src="afbeeldingen/ruis_druk.png" width="41%">
+ </p>
 
-<img src="afbeeldingen/opstelling druksensor.jpg" width="50%">
 
->Praktische voordelen en uidaginen druksensoren:
+>Praktische voordelen en uidagingen druksensoren:
 > - Goed in detecteren als er iets of niets opstaat
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
 
-<p align="center">
-<img src="afbeeldingen/druksensor1.jpg" width="28%">
-<img src="afbeeldingen/ruis_druk.png" width="61%">
- </p>
+
 
 
 #### RFID/NFC lezers
@@ -607,17 +603,18 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 
 Om deze reden werd gekozen om vervolgens verder te werken met de RFID/NFC lezer. 
 
-Uit onze testen hiermee bleek dat er geen interferentie optrad. De tag mag niet verder dan 6 mm van de lezer verwijderd zijn om te kunnen worden ingelezen. Echter is het heel complex en ingewikkeld om vier lezers aan 1 arduino aan te sluiten. Voor 1 lezer blijken ook 7 aansluitingen nodig te zijn. Door het gebruik van 1 lezer zou er te veel aan gebruiksvriendelijkheid moeten worden ingeboet. De gebruiker zou op een bijkomstige manier de positie van de cilinder moeten ingeven. Dit kan worden opgelost door met behulp van protopie de gebruiker telkens te vragen op welke positie deze zet. Afhankelijk van het aantal keer met deze blok over de sensor te schuiven verplaatst de bol zich voor de juiste feedback.
+Uit onze testen hiermee bleek dat er **geen interferentie optrad tussen de tags**. Echter is het heel complex en ingewikkeld om vier lezers aan 1 arduino aan te sluiten. Voor 1 lezer blijken ook 7 aansluitingen nodig te zijn. Door het gebruik van 1 lezer zou er te veel aan gebruiksvriendelijkheid moeten worden ingeboet. De gebruiker zou op een bijkomstige manier de positie van de cilinder moeten ingeven. 
+<p align="center">
+<img src="afbeeldingen/nfc output2.png" width="53%">
+<img src="afbeeldingen/opstelling rfid.jpg" width="44%">
+</p>
 
 >Praktische voordelen en uitdagingen RFID/NFC lezers
 > - geen interferentie tussen naburige tags dus betrouwbaar
 > - gebruik vier lezers nodig, lastig voor 1 enkele arduino
 
-<img src="afbeeldingen/volgorde cilinder.png" width="99%">
-<p align="center">
-<img src="afbeeldingen/nfc output2.png" width="53%">
-<img src="afbeeldingen/opstelling rfid.jpg" width="44%">
-</p>
+
+
 
 #### Weerstanden
 
@@ -671,18 +668,6 @@ Door gebruik te maken van 2 cirkels van geleidend materiaal waarover de weerstan
 |**Rondel met Cu-draad (zonder pin)**<img src="afbeeldingen/9_Rondel met Cu-draad (zonder pin).jpg" width="80%">|Goed contact|/|goed contact bij licht drukken|Goed contact|/|
 |**Adapter** <img src="afbeeldingen/10_adapter.jpg" width="80%">|/|/|/|/|Goed contact|
 
-
-
-
-**Uitleg code:**
-
-- aanmaken lijst met correcte volgorde
-- aanmaken lijst huidige volgorde
-- aanmaken functie die volgorde controleert
-- aanmaken functie die de kwantitatieve waarde omzet naar de naam van de weerstand door - 
-- gebruik te maken van intervallen
-- **...**
-
 ### Productie definitieve ontwerp
 #### componenten:
 Uit de vorige waves, klantbehoeften en uit het gedeelte design volgt dat het product volgende componenten moet bevatten:
@@ -696,19 +681,20 @@ Uit de vorige waves, klantbehoeften en uit het gedeelte design volgt dat het pro
 #### positie componenten: 
 Daarbij kan het geheel op onderstaande manieren geplaatst worden
 <img src="afbeeldingen/positie.png" width="60%">
+
 Scherm optie 1 en 2 gaan niet omdat deze het zicht hinderen. 3 en 4 is afhankelijk van rechts of linkshandigen. Hieruit wordt besloten dat het scherm volledig appart en op voorkeur van de gebruiker geplaatst wordt.
 
 #### technieken:
 Keuzematrix met design blocks:
 ||1|2|3|4|
 |:---|:---|:---|:---|:---|
-|materiaal|MDF|PLA|PS|Foam
+|materiaal|MDF|PLA|hout|Foam
 |productietechniek|3D printen|thermovormen|lasercutten|spuitgieten
 |verbindingsmechanismen|schroef|klik|vaste passing|lijm
 
-voor de cilinders wordt 3D printing toegepast. Dit omdat het hier om een cilindrisch element en een beperkte hoeveelheid gaat. Bij hogere productie kan bv naar thermovormen gekeken.
+- cilinders: voor de cilinders wordt **3D printing** toegepast. Dit omdat het hier om een cilindrisch element en een beperkte hoeveelheid gaat. Bij hogere productie kan bv naar thermovormen gekeken.
 
-Het dockingstation bestaat uit een combinatie van lasercutten en thermovormen. Thermovormen omdat in weinig stappen een gebogen vorm met alsnog een strak bovenste surface ontstaat. Een deel van de matrijs kan daarbij behouden worden. Wat in weinig materiaalverlies resulteert. Om te verzekeren dat de lezers langs de bovenkant niet inzakken worden nog twee lagen gelasercut.
+- dockingstation: Het dockingstation bestaat uit een combinatie van **lasercutten en thermovormen**. Thermovormen omdat in weinig stappen een gebogen vorm met alsnog een strak bovenste surface ontstaat. Een deel van de matrijs kan daarbij behouden worden. Wat in weinig materiaalverlies resulteert. Om te verzekeren dat de lezers langs de bovenkant niet inzakken worden nog twee lagen gelasercut.
 
 
 
@@ -724,53 +710,51 @@ Het design van dit product vloeit voort uit:
 Om de tekst te beperken werd van enkele principes weergegeven hoe hiermee in het product rekening werd gehouden. In realiteit is dit dus uitgebreider.
 
 ### Design principes Dieter Rams
-Dieter Rams is een bekende Duitse ontwerper. Zijn tien algemene ontwerpregels worden hieronder weergegeven. 
+Dieter Rams is een bekende Duitse ontwerper. Zijn tien algemene ontwerpregels worden hieronder weergegeven.
+
 <img src="afbeeldingen/10-principles-good-design-rams-dieter.jpg" width="30%">
 
 In dit ontwerp werd o.a. veel aandacht besteed aan:
-#### principe één: good design is innovative:
-De theoretische werking is **nooit eerder zo ontwikkeld tot een product**. Hiervoor was er enkel een beamer en projector.
-#### principe twee: good design makes a product useful:
+- principe één: good design is innovative: De theoretische werking is **nooit eerder zo ontwikkeld tot een product**. Hiervoor was er enkel een beamer en projector.
+- principe twee: good design makes a product useful:
 Doorheen dit proces werd gekeken hoe we onze how might we zo efficient mogelijk konden oplossen. Daarbij werd gekeken dat de theoretische werking behouden werd zonder onnodige toevoegingen aan te brengen. In ons ontwerp is dit te zien door **geen onnodige knoppen en functies** aan te brengen.
-#### principe drie: good design is aesthetic:
+- principe drie: good design is aesthetic:
 Hieraan werd voldaan door niet enkel vanuit een functioneel oogpunt te starten maar ook vanuit een moodboard...
 
 
-### gestalt wetten
+### Gestalt wetten
 Deze geven weer hoe de gebruiker objecten interpreteerd. Door het toepassen van deze wetten verloopt de interactie tussen gebruiker en product vlotter. 
 
 <img src="afbeeldingen/gestalt.jpg" width="30%">
 
-#### similarity:
+- similarity:
 Om duidelijk te maken dat de **cilinders bij elkaar horen krijgen deze dezelfde kleur.**
 
-#### Closure:
+- Closure:
 Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak** gezet. Dit is verschillend van de blok met de arduino en het scherm. 
 
-
-### moodboard
-
+### Moodboard
 <img src="afbeeldingen/moodboard.png" width="30%">
 
-#### materiaalkeuze docking:
+- materiaalkeuze docking:
 Om het docking een "glossy" uiterlijk te geven zoals in het moodboard wordt een plastic plaat gebruikt.
-#### texture cilinders:
+- texture cilinders:
 **Oogt premium, is zweet absorberend**. Maar moeilijk om effectief toe te passen.
-#### grip cilinders:
+- grip cilinders:
 Zoals de bidon in het moodboard wordt ook bij de cilinders een **grip toegevoegd**. De vorm van die grip is al eerder in develop twee onderzocht.
 
 
 ### Algemene design principes
 <img src="afbeeldingen/design principes.png" width="30%">
 
-#### constraints:
+- constraints:
 De verbinding tussen de cilinder en het docking station zijn beide cilindervormig. Doordat de vier openingen en de vier cilinders de zelfde zijn is het duidelijk dat eender welke cilinder op eender welke plaats kan komen.
-#### Feedback:
-De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
-#### Affordances:
-Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. Dit kan ook als **nudging** gezien worden aangezien bepaald gedrag wordt uitgelokt.
+- Feedback: De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
+<p align="center">
+<img src="afbeeldingen/brandende leds.jpg" width="40%">
 
-Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
+
+- Affordances: Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. Dit kan ook als **nudging** gezien worden aangezien bepaald gedrag wordt uitgelokt.  Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
 <p align="center">
 <img src="afbeeldingen/grip.png" width="20%">
 
