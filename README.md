@@ -414,8 +414,8 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 
 ## Develop
 ### Wave 1
-- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
-- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop1%20protocol.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%201%20rapport.pdf)
 #### Doestellingen
 1. Bepalen van de meest ergonomische massa.
  1a. a.d.h.v. gebruikerstest voor rechtstreekse input.
@@ -491,6 +491,8 @@ De hoogte van de cilinder bedraagt 103mm.
 
 
 ### Wave 2 (N=4)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%202%20protocol.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%202%20rapport.pdf)
 #### Doestellingen
 
 1. Bepalen welke grip
@@ -579,6 +581,9 @@ Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
 >- D De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
 >- D De dockingstation bevat een arcade knop voor een spel te beëindigen
 
+### Wave 3
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%203%20protocol.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%203%20rapport.pdf)
 
 ## Prototyping
 
