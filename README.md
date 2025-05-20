@@ -762,15 +762,14 @@ De verbinding tussen de cilinder en het docking station zijn beide cilindervormi
 #### Feedback:
 De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
 #### Affordances:
-Door de openingen en **rode cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. DIt kan ook als nudging gezien worden.
+Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. DIt kan ook als nudging gezien worden.
 
 Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
 
 
-## Bill of materials en klantbehoeften
-- foam
-- vier kleuren balpen
-- papier
+## Verder kijken
+Uit de laatste les gebruiksgericht ontwerpen (13/05) in de Krook volgde uit de PESTEL methode voorgesteld door andere studenten dat op economisch vlak MuziSym rendabel kan zijn door naast de aankoop ook nog een service met meer nummers en danspassen te leveren.
+
 ## Overzicht Design Requirements
 
 |ID|Design Requirement|Source|
@@ -814,13 +813,12 @@ Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast
 |4.6|De knop is een directe drukknop |[Develop 2](#develop-2-n4)|
 
 ## Kritische reflectie
-Max. 500 woorden
 
+### theorie <-> praktijk
+Ondanks dat er veel tijd besteed is aan het nagaan van een goed lezer-sensor mechanisme (druksensor -> rfid -> weerstand) bleven er na het toevoegen van delays, extra geleidend materiaal en leds als feedback toch veel slechte contacten over. Dit leert ons dat iets wat mooi is in theorie dit niet altijd in de praktijk is.
 
-->keuze electronica
-
--> theorie <-> praktijk
-
+### Arduino
+De arduino bleek nogal traag en onbettrouwbaar te zijn bij het uploaden van code. De volgende keer kan een raspberry pi een mogelijke oplossing zijn.
 -> van verhaal naar to the point
 
 -> boomstructuur interface
@@ -828,6 +826,7 @@ Max. 500 woorden
 -> geleidende materialen
 
 -> niet alle klantbehoeften kunnen worden waar gemaakt
+
 
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. (https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf)
