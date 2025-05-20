@@ -13,57 +13,48 @@ Projectteam: Thoma Demets en Cieters Jeroen
 RGM: een interactieve en multisensorische oefenmethode die motorische, sensorische en cognitieve elementen bevat. Daarbij omvat:
 
 - Het sensorische gedeelte: het waarnemen van de muziek en symbolen
-
 - Het motorische gedeelte: het uitvoeren van de danspassen zoals in de rechterkolom
-
 - Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
 
 Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
 Daarbij worden **dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld**. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1].
-Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coordinatie.(bron6 literatuurstudie) De theoretische werking wordt verder besproken in de inleiding.
+Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coordinatie.[2] De theoretische werking wordt verder besproken in de inleiding.
 
 ### Spelverloop
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang random gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
 <p align="center">
-<img src="afbeeldingen/symbolen met uitleg.png" width="25%">
-<img src="afbeeldingen/render_eind.png" width="40%">
-<img src="afbeeldingen/render_grip.png" width="30%">
-
+<img src="afbeeldingen/symbolen met uitleg.png" width="30%">
+<img src="afbeeldingen/eind1.png" width="65%">
 
 ## Introductie
 ### Theoretisch
 Vooraleer het uitgebreider te hebben over het probleem is het eerst noodzakelijk dieper in te gaan op de theoretische werking van deze methode. Dit is noodzakelijk als achtergrond en aangezien het vervolg van dit proces steunt op dit principe.
 
-Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[1]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[2]
-
+Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[1]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[3]
 
 ### probleem
-Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen. In rusthuizen wordt slechts gebruikgemaakt van een beeldscherm [3] en [4], mensen en dan vooral ouderen thuis vallen helemaal uit de boot aangezien er in die methode een ebgeleider nodig is.
+**Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen.** In rusthuizen wordt slechts gebruikgemaakt van een beeldscherm [4] en [5], mensen en dan vooral ouderen thuis vallen helemaal uit de boot aangezien er in die methode een ebgeleider nodig is.
 
 <img src="afbeeldingen/primitieve methode.png" width="30%">
+
 Het is deze grote “gap” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
-
-
 ### How might we
 Hieruit volgt onze challenge, onze how might we:
 **Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
-
-
 ### Stakeholders
-Debelangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput.de
-
+De belangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput.
+De medestudenten in de Krook voor hun andere blik en feeddback op dit ontwerpproces
 ## Methodologie
 Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken. Daarbij wordt onderaan gestart om op uiteindelijk bij pleasurable uit te komen
 <p align="center">
 <img src="afbeeldingen/zendesk.png" width="50%">
 <img src="afbeeldingen/Aaron Walter.png" width="25%">
-<img src="afbeeldingen/cilinders.png" width="25%">
  
 ### Discovery fase
 Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
-Daarbij is het belangrijkste doel is om vragen als: **Waar liggen de Gaps? Wie is de doelgroep? En is deze doelgroep voldoende groot?** Te beantwoorden
+Daarbij is het belangrijkste doel om vragen als: **Waar liggen de Gaps? Hoe werkt deze methode? Wie is de geschikte doelgroep?** Te beantwoorden
 Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede basis**. 
-Binnen de literatuurstudie wordt gebruik gemaakt van: wetenschappelijke artikels, databases, gewone artikels en websites. Dit geeft een sterke brede, theoretische en wetenschappelijke basis.
+
 Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze beter te leren kennen dan deze zichzelf kent. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. **Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat.** Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd.
 
 ### Defenition fase
@@ -86,14 +77,15 @@ Uit voorgaande prototypes, gebruikerstesten, templates, experimenten (zie o.a. p
 
 
 ## Discovery
+### Literatuurstudie (N=10)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
 
-### Doestellingen
-- Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces.
+#### Doestellingen
+- Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces
 - Opstellen klantbehoeften
 - Algemeen beeld inzake RGM en beantwoorden onderzoeksvragen
-- De belangrijkste onderzoeksvragen in deze studie zijn: 
-
-### Onderzoeksvragen  
+#### Onderzoeksvragen  
 - Wat is de RGM methode?
 - Onderzoeksvragen secundair:  
 - Hoe helpt de RGM methode mensen? 
@@ -103,32 +95,28 @@ Uit voorgaande prototypes, gebruikerstesten, templates, experimenten (zie o.a. p
 - Welke rol speelt muziek?  
 - Hoe werkt dit in de hersenen? Welke hersengebied bevindt zich waar? 
 - Hoe veroudert ons lichaam? 
-
-### Materiaal & methoden
+#### Materiaal & methoden
 * Literatuurstudie 
 * Interviews 
 * Benchmarking
 
-### Resultaten
-#### Literatuurstudie (N=10)
-[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
-[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
-Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, wordt begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd om met een brede basis te beginnen. 
+#### Resultaten
+
+
+Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, wordt begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd om met een solide basis te beginnen.
+
 De belangrijkste bevindingen - die onder andere de onderzoeksvragen beantwoorden - worden hieronder weergegeven:
 
-Als doelgroep werden “65+ers zonder neurologische aandoening” gekozen. Geen kinderen omdat deze methode minder efficiënt en invloed heeft op hun hersenen . 65+ers omdat dit een groot deel van de bevolking is. Zo blijkt uit Statbel dat **18,9% van de Vlamingen 65+er** is.
+1. Als doelgroep werden “65+ers zonder neurologische aandoening” gekozen. Geen kinderen omdat deze methode minder efficiënt en invloed heeft op hun hersenen. 65+ers omdat dit een groot deel van de bevolking is. Zo blijkt uit Statbel dat **18,9% van de Vlamingen 65+er** is.
 <img src="afbeeldingen/bevolking Vlaanderen" width="24%">
 
-De hedendaagse methode vereist een scherm, practionner en een groepsgebeuren (bron7). **Een belangrijke gap is dat er dus geen kant en klare thuis oplossing bestaat dat de eindgebruiker autonoom kan gebruiken.**
+2. De hedendaagse methode vereist een scherm, practionner en een groepsgebeuren (bron7). **Een belangrijke gap is dat er dus geen kant en klare thuis oplossing bestaat dat de eindgebruiker autonoom kan gebruiken.**
 
-**Door de sterke achterliggende theorie van RGM zoals hierboven vermeld is het nuttig de theoretische werking( combinatie muziek, symbolen en danspassen) over te nemen en in een nieuw jasje te steken. Het is de bedoeling de theoretische werking te integreren in een eindproduct.**
+3. **Door de sterke achterliggende theorie van RGM zoals hierboven vermeld is het nuttig de theoretische werking( combinatie muziek, symbolen en danspassen) over te nemen en in een nieuw jasje te steken. Het is de bedoeling de theoretische werking te integreren in een eindproduct.**
 
-In dit [1] wetenschappelijk artikel wordt de methode theoretisch samengevat: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas [2]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation.” Wat verder wordt gezegd: “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”
+4. In dit [1] wetenschappelijk artikel wordt de methode theoretisch samengevat: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas [3]. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation.” Wat verder wordt gezegd: “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”
 
-Uit dit [5] wetenschappelijk artikel volgt dat de mens verouderd doordat dit in ons DNA zit en door chemische reacties versterkt door UV straling. In functie van deze oorzaken kan binnen onze haalbaarheid niet worden ontworpen. wel kunnen bovenstaande voordelen blijven wanneer de theoretische werking van RGM verder geintegreerd wordt tot een product.
-
-
-
+5. Uit dit [6] wetenschappelijk artikel volgt dat de mens verouderd doordat dit in ons DNA zit en door chemische reacties versterkt door UV straling. In functie van deze oorzaken kan binnen onze haalbaarheid niet worden ontworpen. wel kunnen bovenstaande voordelen blijven wanneer de theoretische werking van RGM verder geintegreerd wordt tot een product.
 
 Uit deze bronnen volgde de doelgroep: “65+ers zonder neurologische aandoening” en werden de eerste design requirements vastgelegd. Uiteindelijk werden met de inzichten van deze 10 bronnen een Fishbone diagram en een Innovatrix opgesteld. 
 <p align="center">
@@ -709,6 +697,9 @@ Het dockingstation bestaat uit een combinatie van lasercutten en thermovormen. T
 
 
 ## Design
+<img src="afbeeldingen/render_eindok.png" width="60%">
+<img src="afbeeldingen/render_grip.png" width="60%">
+
 Het design van dit product vloeit voort uit:
 - Design principes Dieter Rams
 - gestalt wetten
@@ -831,13 +822,15 @@ De arduino bleek nogal traag en onbettrouwbaar te zijn bij het uploaden van code
 ## Bronnen
 [1]Pohl, P. (2018). The Ronnie Gardiner Method: An Innovative Music-Based Intervention for Neurological Rehabilitation - Theoretical Background and Contemporary Research with Focus on Parkinson’s Disease. Neurophysiology And Rehabilitation, 32–37. (https://edelweisspublications.com/edelweiss/article/ronnie-gardiner-method-innovative-music-based-intervention-neurological-rehabilitation-theoretical-background-npr-18-106.pdf)
 
-[2]Nws, V. (2022, 13 april). Tweetaligheid houdt de hersenen jong. vrtnws.be. https://www.vrt.be/vrtnws/nl/2022/04/13/tweetaligheid-houdt-de-hersenen-jong/
+[2]Music supported therapy in neurorehabilitation. (z.d.). Oxford Textbook Of Neurorehabilitation (2 Edn). https://research.gold.ac.uk/id/eprint/29275/1/med-9780198824954-chapter-31.pdf
 
-[3]Home. (z.d.). RGM Nederland. https://rgm-nederland.nl/site/home
+[3]Nws, V. (2022, 13 april). Tweetaligheid houdt de hersenen jong. vrtnws.be. https://www.vrt.be/vrtnws/nl/2022/04/13/tweetaligheid-houdt-de-hersenen-jong/
 
-[4]Rianne Stouten. (2022, 31 oktober). RGM - een introductie [Video]. YouTube. https://www.youtube.com/watch?v=f69yf9YW_Cw
+[4]Home. (z.d.). RGM Nederland. https://rgm-nederland.nl/site/home
 
-[5]https://www.pnas.org/doi/pdf/10.1073/pnas.78.11.7124
+[5]Rianne Stouten. (2022, 31 oktober). RGM - een introductie [Video]. YouTube. https://www.youtube.com/watch?v=f69yf9YW_Cw
+
+[6]https://www.pnas.org/doi/pdf/10.1073/pnas.78.11.7124
 
 ## Bijlagen
 figma woorden: https://www.figma.com/design/PEY1bDh1OrohykHiABHBeu/Untitled?node-id=0-1&m=dev&t=fQvcs61jFtjjBYOr-1
