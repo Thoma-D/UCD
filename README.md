@@ -412,14 +412,17 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 > - D1.17 De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien
 > - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
 
-## Develop 1: Ergonomie deel 1
-### Doestellingen
+## Develop
+### Wave 1
+#### Doestellingen
 1. Bepalen van de meest ergonomische massa.
  1a. a.d.h.v. gebruikerstest voor rechtstreekse input.
 
 2. ergonomische afmetingen
-- 2a. Omtrek a.d.h.v. database gebruikt voor een grotere steekproef (werd eerder uit gebruikerstest bepaald)
-- 2b. Hoogte 
+  
+    2a. Omtrek a.d.h.v. database gebruikt voor een grotere steekproef (werd eerder uit gebruikerstest bepaald)
+
+    2b. Hoogte 
 
 ### Materiaal & methoden
 - Ondoorzichtige cilinder (2X) 
@@ -432,29 +435,31 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 
 - Dined database 
 
-### Resultaten
-**1a: Meest ergonomisch gewicht**
+#### Resultaten
+**1: Meest ergonomisch gewicht**
 
 Er werden 2 gewichten met een verschil van 100g aan de gebruiker voorgeschoteld, om deze door hen te laten vergelijken. 
 Hieruit kiezen ze hun voorkeur, vervolgens wordt vanaf deze massa, met een kleiner verschil (50g, 25g) deze stap herhaald. Dit tot hun ideale massa is bepaald.
 
 <img src="afbeeldingen/Gebruikerstest.png" width="25%"> <img src="afbeeldingen/weegschaal.png" width="12%">
-
-Uit deze test werden onderstaande waarden verkregen
-
 <img src="afbeeldingen/waarden 1A.png" width="25%">
-
-Binnen dit percentile driven protocol willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast zoals in onderstaande figuur te zien is. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gemiddelde gewicht 230,8g is.
-
 <img src="afbeeldingen/design mean.png" width="25%">
+
+Uit deze test werden bovenstaande waarden verkregen. Binnen dit percentile driven protocol willen we een zo aangenaam mogelijk gewicht verkrijgen. Hierdoor wordt de strategie design for the mean toegepast zoals in bovenstaande staande figuur te zien is. Belangrijk is dat het gaat om het voorkeursgewicht en niet maximale. Na verwerking in excel volgt hieruit dat het gemiddelde gewicht 230,8g is.
+
+
 
 **2a: Omtrek cilinder (database)**
 
-Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt. 1 Daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aan gezien een maximaal contactopp belangrijk is. Dus de omtrek is 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
-
-<img src="afbeeldingen/design tall.png" width="50%">
-
-<img src="afbeeldingen/data 2A.png" width="50%"> 
+Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende manieren vastneemt zoals hier onder te zien.
+<p align="center">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Grip1.jpg" width="20%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Grip2.jpg" width="20%">
+ </p> 
+ één daarvan is met de volledige hand. Om dit te onderzoeken werden in de Dined database onderstaande parameters ingesteld. Hierbij zijn de grote waarden interessant. Aangezien een maximaal contactopp belangrijk is. Dus de omtrek is 129mm + 3*13=155mm. Hieruit volgt ideale diameter = 49,34mm. Belangrijk om te vermelden: deze gegevens zijn van leeftijden van 20-30j aangezien de leeftijden van 60+ers niet bekend is.
+<p align="center">
+<img src="afbeeldingen/design tall.png" width="60%">
+<img src="afbeeldingen/data 2A.png" width="20%"> 
 
 .
 
@@ -465,7 +470,7 @@ Uit gebruikerstesten blijkt dat de gebruiker de cilinder op twee verschillende m
 De database werd ingesteld zoals hierboven weergegeven. Aangezien hier de grootste handen de cilinder ook moeten kunnen vastnemen wordt weer design for the tall gebruikt. waarde = mean + 3 sd = 85+3*6=103mm
 
 ### Conclusies
-**1a: Meest ergonomisch gewicht**
+**1: Meest ergonomisch gewicht**
 
 De cilinders hebben elk een gewicht van 230,8g. 
 
@@ -485,9 +490,9 @@ De hoogte van de cilinder bedraagt 103mm.
 
 ## Develop 2 (N=4)
 ### Doestellingen
-- Uitesten van spel
-- Bepalen van beste extra grip
-- Bepalen begrip contact LED's
+
+1. Bepalen van de grip
+2. Bepalen begrip contact LED's
 - Bepalen beste knop voor einde v.h. spel
 ### Materiaal & methoden
 - Knoppen
@@ -495,24 +500,20 @@ De hoogte van de cilinder bedraagt 103mm.
 - Prototype docking station+ arduino/ bekabeling
 - Cilinders (+weerstanden) 
 -TAP & QAP
-- Bipolar emotional response testing (BERT)
-- comparative usability testing 
+- **Bipolar emotional response testing (BERT)**
+- **comparative usability testing**
 ### Resultaten
 
-**Welke cilinder-grip wordt verkozen, waarom?**
+**Cilinder-grip**
 
 <p align="center">
-<img src="afbeeldingen/Gebruikerstest_Dev2_Grip1.jpg" width="40%">
-<img src="afbeeldingen/Gebruikerstest_Dev2_Grip2.jpg" width="40%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Grip1.jpg" width="20%">
+<img src="afbeeldingen/Gebruikerstest_Dev2_Grip2.jpg" width="20%">
  </p>
 
 
-Hiervoor werden 3 cilinder toppers met elkaar vergeleken in spel context en achteraf geevalueerd op meerdere categorieen met een comparative usability testing.
-<p align="center">
-<img src="afbeeldingen/Gebruikerstest_Dev2_Estetiek.jpg" width="46%">
-<img src="afbeeldingen/Gebruikerstest_Dev2_Voorkeur.png" 
-width="45%">
- </p>
+Hiervoor werden 3 cilinder toppen met elkaar vergeleken in spel context en achteraf geevalueerd op meerdere categorieën met een comparative usability testing.
+De gebruiker werd gevraagd een score op 5 te geven op vlak van esthetiek en 5 op functionaliteit.
 
 <p align="center">
 <img src="afbeeldingen/CilinderGripSoorten.png" width="30%">
@@ -521,9 +522,11 @@ width="45%">
 
 Uit deze test blijkt dat deze grip B door de meeste gebruikers gekozen wordt. Vervolgens grip A en als laatste C. 
 
-Hieruit volgt design requirment D2.7. 
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.7 B wordt gebruikt als grip
 
-**Hoe wordt gecommuniceerd dat de cilinders zeker een goed contact hebben?**
+**Communicatie dat de cilinders zeker een goed contact hebben**
 
 1. **Vorm cutout**
 
@@ -550,10 +553,10 @@ Hieruit volgt D
 Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv BERT testing.
 
 <p align="center">
-<img src="afbeeldingen/Gemiddelde BERT scores.png" width="90%">
-</p>
-<img src="afbeeldingen/knop direct-indirect.png" width="50%">
- knop direct-indirect.png
+<img src="afbeeldingen/Gemiddelde BERT scores.png" width="78%">
+<img src="afbeeldingen/knop direct-indirect.png" width="20%">
+
+knop direct-indirect.png
 Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest. (D)
 ### Conclusies
 
