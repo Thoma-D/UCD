@@ -55,7 +55,7 @@ Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam he
 Daarbij is het belangrijkste doel om vragen als: **Waar liggen de Gaps? Hoe werkt deze methode? Wie is de geschikte doelgroep?** Te beantwoorden
 Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede basis**. 
 
-Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze beter te leren kennen dan deze zichzelf kent. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. **Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat.** Om dit te vermijden werden vier proefpersonen die binnen de doelgroep vallen geïnterviewd.
+
 
 ### Defenition fase
 Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker opnieuw centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor staan zoals in bovenstaande figuur bij prototypes meestal twee versies. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
@@ -77,15 +77,13 @@ Uit voorgaande prototypes, gebruikerstesten, templates, experimenten (zie o.a. p
 
 
 ## Discovery
-### Literatuurstudie (N=10)
-- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
-- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
 
 #### Doestellingen
 - Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces
 - Opstellen klantbehoeften
 - Algemeen beeld inzake RGM en beantwoorden onderzoeksvragen
 #### Onderzoeksvragen  
+literatuurstudie
 - Wat is de RGM methode?
 - Onderzoeksvragen secundair:  
 - Hoe helpt de RGM methode mensen? 
@@ -95,12 +93,19 @@ Uit voorgaande prototypes, gebruikerstesten, templates, experimenten (zie o.a. p
 - Welke rol speelt muziek?  
 - Hoe werkt dit in de hersenen? Welke hersengebied bevindt zich waar? 
 - Hoe veroudert ons lichaam? 
+
+interviews
+- Hoe staan 65+ ers zonder neurologische aandoening tegenover de RGM-methode?
+- Welke aspecten van deze methode spreken hen aan? 
+- Wat zien ze liever anders?  
 #### Materiaal & methoden
 * Literatuurstudie 
 * Interviews 
 * Benchmarking
 
-#### Resultaten
+### Resultaten literatuurstudie (N=10)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20literatuurstudie.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/literatuurstudie%20gebruiksgericht.pdf)
 
 
 Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, wordt begonnen met een literatuurstudie. Hierbij werden zowel wetenschappelijke artikels, websites, databases en gewone artikels bestudeerd om met een solide basis te beginnen.
@@ -111,7 +116,9 @@ De belangrijkste bevindingen - die onder andere de onderzoeksvragen beantwoorden
 <p align="center">
 <img src="afbeeldingen/bevolking Vlaanderen.png" width="24%">
 
-2. De hedendaagse methode vereist een scherm, practionner en een groepsgebeuren (bron7). **Een belangrijke gap is dat er dus geen kant en klare thuis oplossing bestaat dat de eindgebruiker autonoom kan gebruiken.**
+2. De hedendaagse methode vereist een scherm, practionner en een groepsgebeuren zoals hieronder te zien. **Een belangrijke gap is dat er dus geen kant en klare thuis oplossing bestaat dat de eindgebruiker autonoom kan gebruiken.**
+<p align="center">
+<img src="afbeeldingen/primitieve methode.png" width="24%">
 
 3. **Door de sterke achterliggende theorie van RGM zoals hierboven vermeld is het nuttig de theoretische werking( combinatie muziek, symbolen en danspassen) over te nemen en in een nieuw jasje te steken. Het is de bedoeling de theoretische werking te integreren in een eindproduct.**
 
@@ -124,7 +131,7 @@ Hieruit volgt onderstaand fishbone diagram.
  
 
 
-> [!IMPORTANT]
+> [IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product moet meerdere hersengebieden activeren	
 > - D1.2 Het product moet in groep te kunnen gebruiken zijn	
@@ -133,25 +140,22 @@ Hieruit volgt onderstaand fishbone diagram.
 > - D1.5 Het product moet ritme bevatten	
 > - D1.6 Het product moet de ervaring geven/ er in slagen dat de doelgroep er steeds beter in wordt
 
-#### Interviews (N=4)
+### Interviews (N=4)
 - [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/protocol%20interview.pdf)
 - [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/interview%20verslag.pdf)
 
-Uit de interviews met “65+ers zonder neurologische aandoening” volgt dat wanneer ze naar de originele methode kijken: 
+Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze beter te leren kennen dan deze zichzelf kent. Door middel van interviews kan op deze manier direct bekeken worden wat de gebruiker zelf vindt. **Zo kan in een wetenschappelijk artikel staan dat muziek positieve effecten heeft, maar dat de gebruiker hier niet voor muziek open staat.** Om dit te vermijden werden vier proefpersonen die binnen de doelgroep “65+ers zonder neurologische aandoening” vallen geïnterviewd.
 
-**“Het ziet er zo moeilijk uit al deze dingen tegelijkertijd te doen”.** Hiermee geeft Marleen Hofman aan dat ze de combinatie van motorische, sensorische en cognitieve prikkels te veel vindt."
+Wanneer ze gevraagd worden naar de originele methode te kijken, blijkt dat: 
 
-**“Ik hoop hiermee mijn grenzen te verleggen. Achteraf hoop ik te kunnen zeggen: amai ik had nooit gedacht dat ik dit zou kunnen”.** Hiermee geeft Joske aan wat ze met dit spel zou willen 
+1. **“Het ziet er zo moeilijk uit al deze dingen tegelijkertijd te doen”.** Hiermee geeft Marleen Hofman aan dat ze de combinatie van motorische, sensorische en cognitieve prikkels te veel vindt." 
+De danspassen die in de rest van dit project noodzakelijk zijn zullen dus trager op elkaar aansluiten.
 
+2. **“Ik hoop hiermee mijn grenzen te verleggen. Achteraf hoop ik te kunnen zeggen: amai ik had nooit gedacht dat ik dit zou kunnen”.** Hiermee geeft Joske aan wat ze met dit spel zou willen bereiken. Daaruit blijkt dat de gebruiker open staat voor het concept.
 
+3. Als naar hun gevoelens op de **gevoelsroos van Plutchik** gevraagd wordt komen vooral de gevoelens: angst en nieuwsgierigheid op.
 
-Er werden interviews uigevoerd met  met als doel antwoorden op enkele onderzoeksvragen te formuleren, en een persona van onze gebruikers op te stellen. 
-
-De onderzoeksvragen luiden als volgt: Hoe staan 65+ ers zonder neurologische aandoening tegenover de RGM-methode? Welke aspecten van deze methode spreken hen aan? Wat zien ze liever anders?   
-
-Na een introductie werden de gebruikers ondervraagd. Uit hun antwoorden werd geconcludeerd dat ze openstaan voor de RGM-methode, maar behoefte hebben aan een rustiger tempo en verschillende moeilijkheidsniveaus. Ze stonden allemaal open voor een gebruiksvriendelijke thuisoplossing, die bruikbaar moet zijn zonder tussenkomst van derden.  
-
-Nadat uiteindelijk de interviews waren afgelegd werd het volgende persona opgesteld. 
+4. Na het afnemen van de interviews kan bovenstaande informatie samengevat worden in onderstaande persona. Dit is belangrijk in het vervolg van het proces zodat telkens gebruiksgericht ontworpen wordt.
 <img src="afbeeldingen/Persona.jpg">
 
 > [!IMPORTANT]
@@ -165,24 +169,24 @@ Nadat uiteindelijk de interviews waren afgelegd werd het volgende persona opgest
 > - D1.13 Het product moet buiten te gebruiken kunnen zijn 	
 > - D1.14 Het product moet zo weinig mogelijk schermen, verbinding met smartphones en tablets bevatten	
 
+### Benchmarking (N=11)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/ProtocoL_Benchmarking_Thoma_Demets.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/Studie_Benchmarking_Thoma_Demets.pdf)
 
-#### Benchmarking (N=11)
-[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/ProtocoL_Benchmarking_Thoma_Demets.pdf)
-[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Discovery/Studie_Benchmarking_Thoma_Demets.pdf)
-
-Aan de hand van Benchmarking werd de huidige markt en hun huidige oplossingen geanalyseerd.  
+Aan de hand van Benchmarking werd de huidige markt en hun huidige oplossingen geanalyseerd. Deze worden in onderstaande tabel op basis van een analyse, specificaties... weergegeven.
+<p align="center">
+<img src="afbeeldingen/Benchmark analyse.png"width="60%">
 
 Momenteel passen geen producten RGM rechtstreeks toe. Daarom werden hierbij gelijkaardige, relevante en succesvolle producten geanalyseerd om zo tot extra design requirements te komen. Uiteindelijk werd met deze data volgende tabel opgesteld. 
-<p align="center">
-<img src="afbeeldingen/Benchmark analyse.png">
-</p>
-
 
 ### Conclusies & implicaties
-De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot een duidelijk beeld van de doelgroep, “65+’ers zonder neurologische aandoening,” en hun behoeften. De doelgroep staat open voor de RGM-methode, maar vraagt om een rustiger tempo, meer herhaling en verschillende moeilijkheidsniveaus. Daarnaast is er een sterke voorkeur voor een gebruiksvriendelijke thuisoplossing die zelfstandig kan worden gebruikt. Benchmarking toont aan dat er momenteel geen directe RGM-producten op de markt zijn, maar vergelijkbare oplossingen bieden waardevolle inzichten voor het ontwerp en bevestigen de bestaande marktkans. 
+De analyse vanuit literatuurstudie, interviews en benchmarking heeft geleid tot een duidelijk beeld van de doelgroep, “65+’ers zonder neurologische aandoening,” en hun behoeften. De doelgroep staat open voor de RGM-methode, maar vraagt om een rustiger tempo, meer herhaling en verschillende moeilijkheidsniveaus. Daarnaast is er een sterke voorkeur voor een gebruiksvriendelijke thuisoplossing die zelfstandig kan worden gebruikt. Benchmarking toont aan dat er momenteel geen directe RGM-producten op de markt zijn, maar vergelijkbare oplossingen bieden waardevolle inzichten voor het ontwerp en bevestigen de bestaande marktkans. In onderstaande innovatrix kan bovenstaande informatie nog een samengevat worden.
+<p align="center">
+<img src="afbeeldingen/Innovatrix.jpg" width="50%">
+
+Uiteindelijk volgt de how might we:
 
 **Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
-<img src="afbeeldingen/Innovatrix.jpg" width="24%">
 
 ## Definition
 <p align="center">
