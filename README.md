@@ -157,10 +157,14 @@ Het is ook belangrijk rechtstreekse input van de gebruiker te krijgen en deze be
 
 Wanneer ze gevraagd worden naar de originele methode te kijken, blijkt dat: 
 
-1. **“Het ziet er zo moeilijk uit al deze dingen tegelijkertijd te doen”.** Hiermee geeft Marleen Hofman aan dat ze de combinatie van motorische, sensorische en cognitieve prikkels te veel vindt." 
-De danspassen die in de rest van dit project noodzakelijk zijn zullen dus trager op elkaar aansluiten.
+1. > “Het ziet er zo moeilijk uit al deze dingen tegelijkertijd te doen”.
 
-2. **“Ik hoop hiermee mijn grenzen te verleggen. Achteraf hoop ik te kunnen zeggen: amai ik had nooit gedacht dat ik dit zou kunnen”.** Hiermee geeft Joske aan wat ze met dit spel zou willen bereiken. Daaruit blijkt dat de gebruiker open staat voor het concept.
+    Hiermee geeft Marleen Hofman aan dat ze de combinatie van motorische, sensorische en cognitieve prikkels te veel vindt." 
+    De danspassen die in de rest van dit project noodzakelijk zijn zullen dus trager op elkaar aansluiten.
+
+2. > “Ik hoop hiermee mijn grenzen te verleggen. Achteraf hoop ik te kunnen zeggen: amai ik had nooit gedacht dat ik dit zou kunnen”.
+
+    Hiermee geeft Joske aan wat ze met dit spel zou willen bereiken. Daaruit blijkt dat de gebruiker open staat voor het concept.
 
 3. Als naar hun gevoelens op de **gevoelsroos van Plutchik** gevraagd wordt komen vooral de gevoelens: angst en nieuwsgierigheid op.
 
@@ -203,19 +207,17 @@ Uiteindelijk volgt de how might we:
 <img src="afbeeldingen/Wave 1 morfologische matrix.png" width="40%">
 </p>
 
-### WAVE 1 (N=5)
-- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
-- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
-
+In deze wave wordt vooral op de functionele aspecten gefocust. Dit a.d.h.v.
+de aspecten uit bovenstaand storyboard.
 **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor zijn er op de afbeeldingen van prototypes meestal twee varianten te zien.
 
-Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
-
+### Resultaten WAVE 1 (N=5)
 #### Doestellingen
 - Bepalen hoe de danspassen weergeven worden
 - Bepalen als de blokken te onderscheiden moeten zijn
 - Bepalen van het aantal blokken
 #### onderzoeksvragen
+In deze fase zijn de aspecten uit het storyboard van wave 1 de onderzoeksvragen zoals:
 - Hoeveel blokken worden gebruikt?
 - welke vorm hebben de blokken?
 - Hoe snel volgen de danspassen elkaar op
@@ -225,22 +227,23 @@ Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de i
 - Video's RGM danspassen
 - 6 indentiek gekleurde blokken
 - 4 verschillend gekleurde blokken
-- TAP (think out lout protocol)
-- QAP (Question asking protocol)
-- Intervieuw
+- interview met:
+  -  TAP (think out lout protocol)
+  - QAP (Question asking protocol)
 
 <p align="center">
   <img src="afbeeldingen/Prototype 1 (2).jpg" width="49%">
   
 </p>
 
-### Resultaten
 
-**Hoe worden danspasjes weergegeven?** 
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
+
+
+#### aspect 1: Hoe worden danspasjes weergegeven? 
 
 Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de zon in je hart” met RGM-symbolen voorbereid. Waarbij een verandering van danspas werd weergegeven aan de hand van een korte overgansanimatie. 
-
- 
 
 * 1: Frequentie danspassen: om de 4 slagen
 
@@ -259,61 +262,49 @@ Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de
 
 60% van de gebruikers verkoos de trage versie. Aangezien deze cijfers verdeeld zijn, is het het best hen de keuze te geven. 
 
-**Hoe kan je de blokjes onderscheiden? Is dit nodig?**
+#### aspect 2: Hoe kan je de blokjes onderscheiden? Is dit nodig?
 
-Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren.
+Om dit te testen werd eenmaal 4 blokken met dezelfde kleuren voorzien en eenmaal met verschillende kleuren.
 <p align="center">
-  <img src="afbeeldingen/blokkenzelfdekleur.png" width="49%">
-  <img src="https://github.com/user-attachments/assets/bdb81264-3999-459a-b369-8edf3ad4ef2f" width="45%">
+  <img src="afbeeldingen/blokkenverschillendekleur.png" width="45%">
+  <img src="afbeeldingen/blokkenzelfdekleur.png" width="45%">
 </p>
 
-Uit observatie en een achteraf afgelegde ondervraging, konden we concluderen dat 60% verkoos ze te kunnen onderscheiden. 
+Uit observatie en het QAP, konden we concluderen dat 60% (3/5) verkoos ze te kunnen onderscheiden. 
 
 <p align="center">
  <img src="afbeeldingen/Grafiek Blokken onderscheiden.png" width="50%">
  </p>
 
-Om de keuze aan de gebruiker te geven zal 1 van de zijdes verschillend bij elke blok worden ingekleurd (rood, blauw,...), en de andere zijde bij elke blok dezelfde (zwart). Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren. Dit leide dan tot design requirements D2.3 en D2.2.
+Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren. Die nodig zijn om een kleur en effen zijde te creëren. Een cilinder is de enigste vorm die dit op een ergonomische manier toelaat. Dit leide dan tot design requirements D2.3 en D2.2.
  
 
-**Hoeveel blokjes worden er gebruikt (fixed?)**
+#### aspect 3: Hoeveel blokjes worden er gebruikt (fixed?)
 
-
- Het spel werd 3x gespeeld, startent bij de makkelijkste variant.
- 
- Hierbij zagen we dat het al een grote uitdaging was met 4 blokken om deze in de correcte volgorde te plaatsen.
-
+Na het spel met eenmaal 4 en eenmaal zes blokken gespeeld te hebben verkoos 80% de variant met 4 blokken. Ook gaf de gebruiker dit zelf aan:
 > “Het is lastig om zowel op de danspassen als de muziek te letten” 
 
-Na afloop verkoos 80% de variant met 4 blokken. Hieruit volgt de design requirement D.1.
+ Hieruit volgt de design requirement D.2.1
 
 <p align="center">
  <img src="afbeeldingen/Grafiek aantal blokken.png" width="50%">
  </p> 
-
- **TAP/QAP**
- 
  Wat opviel is dat de grootste moeilijk lag bij het sorteren van de blokken. 60% van de gebruikers vroeg, of vermelde dat ze graag het de mogelijkheid zouden hebben een nummer op voorhand eens te beluisteren. Vandaar design requirment D1.15
-
-
-> “Welke kant is rood”
 
 Bij de kleuren en hun bijhorende kanten werden ook veel fouten gemaakt, daaruit volgt design requirment D 4.4
  
- ### Conclusies
-**spel**
+### Conclusies
 
-Het product laat de gebruiker het liedje op voorhand horen als dit gewenst is.
+Hieronder volgen nog enkele losstaande conclusies: 
+1. Het product laat de gebruiker het liedje op voorhand horen als dit gewenst is.
+2. Het product bestaat uit 4 interactieve cilindervormige blokken met 2 fuctionele zijdes.
+3. Er zit 1 centrale speaker in de docking station, zo houden we de kostprijs lager en kunnen we de cilinders compacter houden.
+4. De grootste moeilijkheid zit hem in het in de juiste volgorde van de cilinders plaatsen. Niet in het uitvoeren van de danspassen.
+5. > “Welke kant is rood”
 
-**interactieve blokken**
+    De gebruiker linkt rood aan rechts. Dit doordat dit zo bij hun hoorapparaat ook zo het geval is. 
 
-Het product bezit 4 interactieve cilindervormige blokken met 2 fuctionele zijdes.
 
-**Docking station**
-
-Er zit 1 centrale speaker in de docking station, zo houden we de kostprijs lager en kunnen we de cilinders compacter houden.
-De dockingstation geeft aan welke kant rood en blauw moeten voorstellen.
- 
 > [!IMPORTANT]
 > Design Requirements:
 > - D1.15 Het product moet de mogelijkheid geven het muzieknummer vooraf volledig te spelen
@@ -325,33 +316,35 @@ De dockingstation geeft aan welke kant rood en blauw moeten voorstellen.
 
 
 
+### WAVE 2 (N=5)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20interview%20wave%202.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20two.pdf)
 
-<img width="997" alt="image" src="https://github.com/user-attachments/assets/1fd16838-bfc2-43f7-8a39-efa6a0336942" />
-
-
+Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. Zoals hieronder te zien is.
 
 ![image](https://github.com/user-attachments/assets/a33babda-11e2-470f-9793-6422a0d6b006)
 
-## WAVE 2 (N=5)
- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20interview%20wave%202.pdf)
-[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20two.pdf)
+ De overgebleven onderzoeksvragen worden in deze gebruikerstesten onderzocht.
 
-Nadat de inhoudelijke werking vastligt en dit gevalideerd is door de gebruiker wordt in de tweede wave werd voornamelijk meer op de details gefocust. Hieronder vallen geometrie, kleur en interface. Ook in deze wave werd methodisch te werk gegaan en vanuit een morfologische matrix gewerkt. Hieruit konden nieuwe onderzoeksvragen worden opgesteld. Voor elk van deze vragen werden verschillende oplossingen gezocht. Een deel van deze onderzoeksvragen kon met de voorgaande kennis van de discovery fase beantwoord worden. De overgebleven onderzoeksvragen worden in deze gebruikerstesten onderzocht.
 
 ### Doestellingen
 - Bepalen kleur
 - Bepalen geometrie en displaygrootte
 - Bepalen interface
 - Hoe staan ouderen t.o.v. belonigsystemen
-  
+
+### Onderzoeksvragen
+In deze fase zijn de aspecten uit het storyboard van wave 1 de onderzoeksvragen zoals:
+- displaygrootte
+- afmetingen cilinder
+- Waar moet aandacht aan worden besteed bij de interface
+
 ### Materiaal & methoden
 - Figma interface met woorden en interface met symbolen
 - Smartphone (6.7")
 - Tablet (10.9")
 - Laptop (15.6")
 - tv
-
-  
 - Interview
 - BERT-test
 
@@ -360,7 +353,7 @@ De gebruikerstesten worden uitgevoerd als een combinatie van BERT-testen en inte
 ### Resultaten
 
 
-**Welke displaygrootte moet het product hebben?**
+#### Welke displaygrootte moet het product hebben?
 
 Daarvoor werden tijdens de interviews gebruik gemaakt van een smartphone, tablet, een laptop en een TV. Zoals op onderstaande figuur te zien is.  
 
@@ -374,9 +367,10 @@ Hierop reageerden de gebruikers verdeeld. 40% koos voor het 6.7" scherm, 40% tv 
 <img src="afbeeldingen/Schermgrootte.png" width="50%">
  </p> 
 
-Wat ook op viel is dat Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. **Zie interview Willy: “wat is een HDMI-kabel”.**  
+Aangezien de doelgroep niet weet wat een HDMI- kabel is kan dit ook niet gekoppeld worden aan een tv-scherm. Hierdoor schieten de kleine schermen over.
+>  “wat is een HDMI-kabel”.**  
 
-**Welke afmetingen hebben de cilinders**
+#### Welke afmetingen hebben de cilinders
 
 Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groottes kan de gebruiker nu nauwkeuriger kiezen welke deze het meest aangenaams vindt. Uit de BERT testen en interviews blijkt dat 80% 45mm als diameter verkiest. Dit doordat deze het makkelijkst vast te pakken zijn.
 
@@ -384,23 +378,19 @@ Uit wave 1 was gebleken dat deze cilindervormig moeten zijn. A.d.h.v. drie groot
 <img src="afbeeldingen/Afmetingen cilinder.png" width="50%">
  </p> 
 
-**Kent de doelgroep beloningssystemen en staan ze hiervoor open?**
+#### Kent de doelgroep beloningssystemen en staan ze hiervoor open?
 
-Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd met dergelijke systemen. Vooral klantenkaarten en klantenapps bij supermarkten blijken populair te zijn. Daarbij viel op dat hun voorkeur uitgaat naar een manuele kaart i.p.v. een app waar ze veel meer met dergelijke systemen geconfronteerd worden. Uiteindelijk blijkt dat ze openstaan om hun vooruitgang te zien maar minder geïnteresseerd zijn in echte grote beloningssystemen. 
+Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd met dergelijke systemen. Vooral **klantenkaarten en klantenapps bij supermarkten blijken populair te zijn. Daarbij viel op dat hun voorkeur uitgaat naar een manuele kaart i.p.v. een app waar ze veel meer met dergelijke systemen geconfronteerd worden.** Uiteindelijk blijkt dat ze openstaan om hun vooruitgang te zien maar minder geïnteresseerd zijn in echte grote beloningssystemen. 
 
-**Waar moet aandacht aan worden besteed om tot een goede interface te komen?**
+#### Waar moet aandacht aan worden besteed om tot een goede interface te komen?
 
-Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. één met woorden en één met symbolen. Deze zijn terug te vinden bij de bijlagen. De bedoeling was om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Eenvoud stond hier centraal. Deze aanpak bleek ook te werken. Hoe simpeler de interface bleek, hoe minder verwarring en vlotter de gebruiker hierdoor kon navigeren. Wat wel opviel is dat de doelgroep veel minder vertrouwt blijk te zijn met symbolen dan gewoon woorden. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. symbolen
+Voor deze laatste onderzoeksvraag werden twee verschillende interfaces a.d.h.v. figma gemaakt. één met woorden en één met symbolen. Deze zijn terug te vinden bij de bijlagen. De bedoeling is om de gebruiker hierdoor te zien navigeren en te zien of deze erin slaagt een sessie te starten. Wat blijkt: Hoe simpeler de interface, hoe minder verwarring en vlotter de gebruiker hierdoor kan navigeren. Wat wel opviel is dat de doelgroep veel **minder vertrouwt blijk te zijn met symbolen dan gewoon woorden**. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. woorden
 Om de uitwerking van de interface in het vervolg van het proces vlotter te laten verlopen werd een boomdiagram van de interface gemaakt zoals in onderstaande figuur te zien is.
 
 <p align="center">
 <img src="afbeeldingen/boomschema interface.png" width="80%">
  </p>
  
-**Kleur**
-
-Kleur werd uiteindelijk al in de verwerking van wave 1 bepaald.
-
 ### Conclusies
 **Displaygrootte**
 
@@ -420,13 +410,12 @@ De interface moet voldoende simpel zijn.
 De interface steunt voornamelijk op woorden en niet op symbolen.
 
 
-> [!IMPORTANT]
+> [IMPORTANT]
 > Design Requirements:
 > - D3.3 De schermgrootte ligt tussen 6.7" en 10.9"
 > - D2.4 De interactieve blokken hebben een hoogte en straal van 45mm
 > - D1.17 De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien
 > - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
-
 
 ## Develop 1: Ergonomie deel 1
 ### Doestellingen
@@ -724,8 +713,7 @@ Het dockingstation bestaat uit een combinatie van lasercutten en thermovormen. T
 
 
 ## Design
-<img src="afbeeldingen/render_eindok.png" width="60%">
-<img src="afbeeldingen/render_grip.png" width="60%">
+
 
 Het design van dit product vloeit voort uit:
 - Design principes Dieter Rams
@@ -780,10 +768,17 @@ De verbinding tussen de cilinder en het docking station zijn beide cilindervormi
 #### Feedback:
 De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
 #### Affordances:
-Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. DIt kan ook als nudging gezien worden.
+Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. Dit kan ook als **nudging** gezien worden aangezien bepaald gedrag wordt uitgelokt.
 
 Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
+<p align="center">
+<img src="afbeeldingen/grip.png" width="20%">
 
+### Render
+Op basis hiervan werd met Siemens NX, Vred en Affinity onderstaande renders gemaakt. 
+
+<img src="afbeeldingen/render_eindok.png" width="56%">
+<img src="afbeeldingen/render_grip.png" width="40%">
 
 ## Verder kijken
 Uit de laatste les gebruiksgericht ontwerpen (13/05) in de Krook volgde uit de PESTEL methode voorgesteld door andere studenten dat op economisch vlak MuziSym rendabel kan zijn door naast de aankoop ook nog een service met meer nummers en danspassen te leveren.
@@ -836,14 +831,19 @@ Uit de laatste les gebruiksgericht ontwerpen (13/05) in de Krook volgde uit de P
 Ondanks dat er veel tijd besteed is aan het nagaan van een goed lezer-sensor mechanisme (druksensor -> rfid -> weerstand) bleven er na het toevoegen van delays, extra geleidend materiaal en leds als feedback toch veel slechte contacten over. Dit leert ons dat iets wat mooi is in theorie dit niet altijd in de praktijk is.
 
 ### Arduino
-De arduino bleek nogal traag en onbettrouwbaar te zijn bij het uploaden van code. De volgende keer kan een raspberry pi een mogelijke oplossing zijn.
--> van verhaal naar to the point
+De arduino bleek nogal traag en onbetrouwbaar te zijn bij het uploaden van code. De volgende keer kan een raspberry pi een mogelijke oplossing zijn.
+### Van verhaal naar to the point
+Tijdens dit proces leerden we van wat in het begin eerder een verhaal en doorlopende tekst was naar een gestructureerd en to the point ontwerpproces te gaan.
+
 
 -> boomstructuur interface
+Op 
 
--> geleidende materialen
+
 
 -> niet alle klantbehoeften kunnen worden waargemaakt
+
+
 
 
 ## Bronnen
