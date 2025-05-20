@@ -47,8 +47,8 @@ De medestudenten in de Krook voor hun andere blik en feeddback op dit ontwerppro
 ## Methodologie
 Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken. Daarbij wordt onderaan gestart om op uiteindelijk bij pleasurable uit te komen
 <p align="center">
-<img src="afbeeldingen/zendesk.png" width="50%">
-<img src="afbeeldingen/Aaron Walter.png" width="25%">
+<img src="afbeeldingen/zendesk.png" width="60%">
+<img src="afbeeldingen/Aaron Walter.png" width="35%">
  
 ### Discovery fase
 Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. 
@@ -58,7 +58,16 @@ Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede b
 
 
 ### Defenition fase
-Nadat bovenstaande vragen beantwoord zijn en de eerste klantbehoeften worden opgesteld, wordt naar de defenition fase over gegaan. In deze fase staat de gebruiker opnieuw centraal en worden veel prototypes gemaakt. **Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor staan zoals in bovenstaande figuur bij prototypes meestal twee versies. Dit met als doel randvoorwaarden en klantbehoeften op te stellen. Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
+<p align="center">
+<img src="afbeeldingen/methodologie define.png" width="100%">
+
+Binnen de defenition werd binnen de overkoepelende Zendesk tripple diamond methodologie onze eigen methode gebruikt:
+
+Eerst werd een storyboard opgesteld die elke stap van het gebruiksproces benaderd. Hieruit werden mogelijke onderzoeksvragen opgesteld. Een deel van deze vragen kon al met de voorkennis van de literatuurstudie in interviews beantwoord worden. De overgebleven onderzoeksvragen onderzochten we in de gebruikerstesten. 
+
+In deze fase wordt nudat de fundamentele kennis er is gekeken naar de functionele parameters van het concept. Vragen als **hoeveel blokken? Welke vorm hebben de blokken? En hoe snel volgen de danspassen op elkaar?** worden beantwoord.
+
+ Hierbinnen werd gebruik gebruik gemaakt van 2 waves:
 
 In de eerste wave staat functionaliteit centraal. Dit is van primair belang zoals ook uit Aaron Walters pyramid blijkt. Het doel is om vragen als **hoeveel blokken? En hoe snel volgen de danspassen op elkaar?** Te beantwoorden. Uiteindelijk kunnen nieuwe klantbehoeften worden opgesteld.
 
@@ -195,17 +204,23 @@ Uiteindelijk volgt de how might we:
 </p>
 
 ### WAVE 1 (N=5)
-[protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
-[rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
+
+**Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor zijn er op de afbeeldingen van prototypes meestal twee varianten te zien.
 
 Tijdens de 1ste wave werd er eerst gedaan aan “concept testing” waarbij de interesse in het concept wordt getest. Hierbij werd methodisch gewerkt, we zijn vertrokken vanuit een storyboard, daaruit hebben we de belangrijkste onderzoeksvragen afgeleid, en deze in een morfologische matrix gegoten waarna we voor elk van de problemen antwoorden zochten. Vervolgens konden we aan de hand van de vooraf afgelegde research een eerste eliminatie doen van mogelijke antwoorden. Uiteindelijk werden de overgebleven onderzoeksvragen verder onderzocht: 
 
-### Doestellingen
-- Bepalen hoe we de danspassen weergeven
+#### Doestellingen
+- Bepalen hoe de danspassen weergeven worden
 - Bepalen als de blokken te onderscheiden moeten zijn
 - Bepalen van het aantal blokken
-
-### Materiaal & methoden
+#### onderzoeksvragen
+- Hoeveel blokken worden gebruikt?
+- welke vorm hebben de blokken?
+- Hoe snel volgen de danspassen elkaar op
+- Hoe worden de danspassen weergegeven
+#### Materiaal & methoden
 - Smartphone
 - Video's RGM danspassen
 - 6 indentiek gekleurde blokken
@@ -232,19 +247,18 @@ Voor de eerste wave werden vooraf 3 variaties van videofragmenten van “Laat de
   Lied verdeeld in: 4
   [Links naar video's](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/Videofragmenten/Traag%204/Trage%20video's)
 
-
 * 2: Frequentie danspassen: om de 2 slagen
 
   Lied verdeeld in: 4
   [Links naar video's](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/Videofragmenten/snel%204/snelle%20video's%20(in%204))
-
 
 * 3: Frequentie danspassen: om de 2 slagen
 
    Lied verdeeld in: 6
   [Links naar video's](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/Videofragmenten/snel%206/snelle%20video's%20(in%206))
 
-  
+60% van de gebruikers verkoos de trage versie. Aangezien deze cijfers verdeeld zijn, is het het best hen de keuze te geven. 
+
 **Hoe kan je de blokjes onderscheiden? Is dit nodig?**
 
 Hiervoor werden voor het 1ste spel 4 blokken met dezelfde kleuren voorzien, en voor het 2de 4 met verschillende kleuren.
