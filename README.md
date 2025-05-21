@@ -126,7 +126,7 @@ Om een goed beeld te vatten van de RGM-methode en alle opportuniteiten er rond, 
 5. Uit dit [6] wetenschappelijk artikel volgt dat de mens verouderd doordat dit in ons DNA zit en door chemische reacties versterkt door UV straling. In functie van deze oorzaken kan binnen onze haalbaarheid niet worden ontworpen. wel kunnen bovenstaande voordelen blijven wanneer de theoretische werking van RGM verder geintegreerd wordt tot een product.
 Hieruit volgt onderstaand fishbone diagram.
 <p align="center">
- <img src="afbeeldingen/fishbone diagram.jpg" width="60%">
+ <img src="afbeeldingen/fishbone diagram.jpg" width="50%">
  
 
 
@@ -653,6 +653,10 @@ Keuzematrix met design blocks:
 - cilinders: voor de cilinders wordt **3D printing** toegepast. Dit omdat het hier om een cilindrisch element en een beperkte hoeveelheid gaat. Bij hogere productie kan bv naar thermovormen gekeken.
 
 - dockingstation: Het dockingstation bestaat uit een combinatie van **lasercutten en thermovormen**. Thermovormen omdat in weinig stappen een gebogen vorm met alsnog een strak bovenste surface ontstaat. Een deel van de matrijs kan daarbij behouden worden. Wat in weinig materiaalverlies resulteert. Om te verzekeren dat de lezers langs de bovenkant niet inzakken worden nog twee lagen gelasercut.
+
+#### Opbouw
+<p align="center">
+<img src="afbeeldingen/assy.png" width="70%">
 
 ## Design
 Het design van dit product vloeit voort uit:
