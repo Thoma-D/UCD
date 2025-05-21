@@ -567,9 +567,15 @@ Interactie en fasen van het spel evalueren.
 - Cilinders (+weerstanden) 
 - **performance measurement**
 #### Resultaten
+
+
+<img src="afbeeldingen/Storyboard_Kleur.jpg" width="60%">
+
+
+
 Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoeren van een performance measurement.
 <details>
-<summary>Klik voor de PM-tabel</summary>
+<summary> Klik voor de PM-tabel </summary>
 
 <br>
 
@@ -587,6 +593,15 @@ Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoe
 | 10  | Uitzetten             | De gebruiker kan het spel uitzetten door uit het stopcontact te trekken      |                    |           |
 
 </details>
+|
+
+
+
+
+
+<img src="afbeeldingen/DEV_3_Test.png" width="75%">
+
+
 Hieruit volgenden volgden dat 11/40 taken moeilijk verliepen, ookwel 27.5%.
 Uiteindelijk werden volgende oplossingen geimplementeerd:
 
