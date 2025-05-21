@@ -555,6 +555,64 @@ Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
 - [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%203%20protocol.pdf)
 - [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%203%20rapport.pdf)
 
+#### Doestellingen
+
+Interactie en fasen van het spel evalueren.
+
+
+3. keuze knop
+#### Materiaal & methoden
+- Storyboard
+- Camera
+- extra scherm (protopie)
+- Prototype docking station (+laptop))
+- Cilinders (+weerstanden) 
+- **performance measurement**
+#### Resultaten
+Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoeren van een performance measurement.
+<details>
+<summary>Klik voor de PM-tabel</summay>
+
+<br>
+
+| Nr. | Taak                  | Omschrijving                                                                 | Moeilijk/makkelijk | Opmerking |
+|-----|-----------------------|------------------------------------------------------------------------------|--------------------|-----------|
+| 1   | Aanzetten prototype   | Gebruiker drukt op ronde knop in het midden.                                 |                    |           |
+| 2   | Positioneren cilinders| Gebruiker zet de cilinders in willekeurige volgorde op het spelbord          |          |           |
+| 3   | Doorlopen demo        | De gebruiker doorloopt a.d.h.v. het scherm de demo                           |                    |           |
+| 4   | Starten spel          | De gebruiker drukt op ronde knop in het midden                               |                    |           |
+| 5   | Nemen cilinder        | De gebruiker weet dat deze een cilinder moet nemen                           |                    |           |
+| 6   | Uitvoeren danspassen  | De gebruiker weet dat deze na het nemen van een cilinder de danspassen moet uitvoeren |          |           |
+| 7   | Nemen tweede cilinder | De gebruiker weet dat deze een tweede cilinder moet nemen                    |                    |           |
+| 8   | Terugplaatsen         | De gebruiker weet dat de cilinders in een andere volgorde kunnen worden terug geplaatst |         |           |
+| 9   | Controleren           | De gebruiker weet dat de middelste knop dient om te valideren                |                    |           |
+| 10  | Uitzetten             | De gebruiker kan het spel uitzetten door uit het stopcontact te trekken      |                    |           |
+
+</details>
+Hieruit volgenden volgden dat 11/40 taken moeilijk verliepen, ookwel 27.5%.
+Uiteindelijk werden volgende oplossingen geimplementeerd:
+
+<table style="font-size: 0.85em;">
+  <thead>
+    <tr>
+      <th>Taak</th>
+      <th>Oplossing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Icoontje met “ok” toevoegen</td></tr>
+    <tr><td>2</td><td>Toevoegen folie</td></tr>
+    <tr><td>3</td><td>Cirkels rond knop en cilinders toevoegen</td></tr>
+    <tr><td>4</td><td>Extra scherm toevoegen met “druk om te starten”</td></tr>
+    <tr><td>5</td><td></td></tr>
+    <tr><td>6</td><td></td></tr>
+    <tr><td>7</td><td></td></tr>
+    <tr><td>8</td><td></td></tr>
+    <tr><td>9</td><td></td></tr>
+    <tr><td>10</td><td></td></tr>
+  </tbody>
+</table>
+
 ## Prototyping
 ### keuze elektronica
 Een van de laatste zaken die moet bepaald worden is de keuze van de electronica. Daarvoor werd gestart vanuit een keuzematrix waarin de relavante mogelijkheden stonden. Deze matrix is hieronder weergegeven.
@@ -592,7 +650,7 @@ Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij funct
 
 **Keuze weerstandgroottes:**
 
-Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. Zodat de onnauwkeurigheid van de arduino veel lager ligt.
+Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. 
 
 **verder aanvullen met formule spanningsdeler en keuze weerstand uitleggen**
 
