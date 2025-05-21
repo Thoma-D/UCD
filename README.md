@@ -547,9 +547,9 @@ Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
 > - D4.5 De knop heeft een minimale diameter van 19mm
 > - D4.6 De knop is een directe drukknop 
 <img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
->- D De dockingstation bevat cutout's van de cilinders als affordance
->- D De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
->- D De dockingstation bevat een arcade knop voor een spel te beëindigen
+>- D4.7 De dockingstation bevat cutout's van de cilinders als affordance
+>- D4.8 De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
+>- D4.9 De dockingstation bevat een arcade knop voor een spel te beëindigen
 
 ### Wave 3
 - [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%203%20protocol.pdf)
@@ -812,6 +812,12 @@ Uit de laatste les gebruiksgericht ontwerpen (13/05) in de Krook volgde uit de P
 |4.4|Het product moet duidelijk aangeven wat rechts(rood) en wat links(blauw) is|[Wave 1](#wave-1-n5)|
 |4.5|De knop heeft een minimale diameter van 19mm |[Develop 2](#develop-2-n4)|
 |4.6|De knop is een directe drukknop |[Develop 2](#develop-2-n4)|
+|4.7|De dockingstation bevat cutout's van de cilinders als affordance|[Develop 2](#develop-2-n4)|
+|4.8| De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt |[Develop 2](#develop-2-n4)|
+|4.9|De dockingstation bevat een arcade knop voor een spel te beëindigen|[Develop 2](#develop-2-n4)|
+
+
+
 ## Kritische reflectie
 ### theorie <-> praktijk
 Ondanks dat er veel tijd besteed is aan het nagaan van een goed lezer-sensor mechanisme (druksensor -> rfid -> weerstand) bleven er na het toevoegen van delays, extra geleidend materiaal en leds als feedback toch veel slechte contacten over. Dat niet alles wat perfect in theorie werkt, ook in de praktijk werkt.
