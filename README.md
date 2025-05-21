@@ -603,7 +603,10 @@ Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoe
 
 
 Hieruit volgenden volgden dat 11/40 taken moeilijk verliepen, ookwel 27.5%.
-Uiteindelijk werden volgende oplossingen geimplementeerd:
+
+
+
+Uiteindelijk werden volgende oplossingen geimplementeerd voor de taken die moeilijk verliepen:
 
 
 
