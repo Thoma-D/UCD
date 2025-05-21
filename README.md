@@ -559,7 +559,6 @@ Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
 Interactie en fasen van het spel evalueren.
 
 
-3. keuze knop
 #### Materiaal & methoden
 - Storyboard
 - Camera
@@ -633,14 +632,14 @@ Uit onze testen hiermee bleek dat er **geen interferentie optrad tussen de tags*
 #### Weerstanden
 Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. Er werd een poging gedaan met weerstanden. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins. Bij de testen vielen geen nadelen op.
 <p align="center">
-<img src="afbeeldingen/Schakeling_arduino_weerstand.jpg" width="60%">
+<img src="afbeeldingen/Schakeling_arduino_weerstand.jpg" width="52%">
+<img src="afbeeldingen/Spanningsdeler_Visualisatie.png" width="44%">
 </p>
 
 **Keuze weerstandgroottes:**
 
 Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. 
 
-**verder aanvullen met formule spanningsdeler en keuze weerstand uitleggen**
 
 
 >Praktische voordelen en uitdagingen weerstanden
