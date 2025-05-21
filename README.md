@@ -16,8 +16,8 @@ RGM: een interactieve en multisensorische oefenmethode die motorische, sensorisc
 - Het motorische gedeelte: het uitvoeren van de danspassen zoals in de rechterkolom
 - Het cognitieve gedeelte: interpreteren van de symbolen en kleuren, deze linken aan de bijhorende danspas en deze juist coördineren.
 
-Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleren de hersenen. 
-Daarbij worden **dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld**. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1]. Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coordinatie[2]. De theoretische werking wordt verder besproken in de inleiding.
+Hierbij wordt er gebruik gemaakt van **symbolen en muziek**. Op deze muziek en symbolen worden danspassen uitgevoerd. Het combineren van deze elementen stimuleert de hersenen. 
+Daarbij worden **dezelfde hersengebieden als bij het leren van een muziekinstrument geprikkeld**. “RGM therefore has the potential to activate the same brain areas as when learning how to play an instrument, although no instruments are involved.”[1]. Concreet resulteert deze methode in een hogere denksnelheid, kortere reactietijd, een betere coördinatie[2]. De theoretische werking wordt verder besproken in de inleiding.
 
 ### Spelverloop
 Het initiële doel van dit spel is om de vier cilinders in de juiste volgorde te ordenen. Elk van deze cilinders wordt bij aanvang gekoppeld aan een deel (1/4de) van het gekozen muzieknummer. Bij het vastnemen van 1 cilinder begint het gekoppelde deel van de muziek te spelen en verschijnen op het schermpje de bijhorende danspassen. De mogelijke combinaties zijn in onderstaande figuur weergegeven. Nadat dit deeltje is afgespeeld, wordt een tweede cilinder vastgenomen. Het hierbij horende muziekje en danspasjes worden afgespeeld. Vanaf nu kan gekozen worden deze van plaats te verwisselen of nog een derde vast te nemen. Het spel gaat zo verder totdat de blokken in de juiste volgorde staan.
@@ -31,36 +31,36 @@ Vooraleer het uitgebreider te hebben over het probleem is het eerst noodzakelijk
 
 Zoals eerder vermeld is dit een multi-sensorische denkoefening die gebruik maakt van zowel sensorische, motorische als cognitieve elementen bevat. **Het is net die combinatie van deze elementen die ervoor zorgt dat verschillende hersengebieden tegelijkertijd werken en geactiveerd worden. Het prikkelen van deze gebieden stimuleert deze hersengebieden en de verbindingen daartussen.** Daarbij is vooral het **belang van muziek niet te onderschatten.** Zo volgde uit een wetenschappelijk artikel: “In addition, musical activities induce grey and white matter changes in multiple brain regions, especially in front temporal areas”. Music also activates the dopaminergic mesolimbic system of the brain, which regulates memory, attention, executive function, mood, and motivation”[1]. Hierbij is het de bedoeling de het verkleinen van de cognitieve reserve tegen te gaan zoals uitgebreider besproken wordt in dit artikel van vrt-nws[3]
 
-### probleem
-**Alhoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen.** In rusthuizen wordt slechts gebruikgemaakt van een beeldscherm [4] en [5], mensen en dan vooral ouderen thuis vallen helemaal uit de boot aangezien er in die methode een ebgeleider nodig is.
+### Probleem
+**Hoewel deze methode wetenschappelijk is aangetoond, staat deze methode praktisch echter nog in haar kinderschoenen.** In rusthuizen wordt slechts gebruikgemaakt van een beeldscherm [4] en [5], mensen en dan vooral ouderen thuis vallen helemaal uit de boot aangezien er in die methode een begeleider nodig is.
 
 <img src="afbeeldingen/primitieve methode.png" width="30%">
 
-Het is deze grote “**gap**” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodoligsche manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
+Het is deze grote “**gap**” die wij voor “65+ers zonder neurologische aandoening” op een gebruik(er)sgerichte en methodologische manier trachten op te lossen. Daarbij willen we de uitvoering van deze methode in een nieuw jasje steken zonder veel aan de theoretische werking te sleutelen.
 ### How might we
 Hieruit volgt onze challenge, onze how might we:
 **Hoe kunnen we 65 + ers zonder een neurologische aandoening preventief helpen bij het tegengaan van mentale veroudering door op een interactieve manier muziek, beweging, denken en waarnemen te integreren?**
 ### Stakeholders
-De belangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput. De medestudenten in de Krook voor hun andere blik en feeddback op dit ontwerpproces
+De belangrijkste stakeholders in dit project zijn de testpersonen die de ook de eindgebruikers zijn. Wij danken hun zeer voor hun waardevolle imput. De medestudenten in de Krook voor hun andere blik en feedback op dit ontwerpproces
 ## Methodologie
-Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk tripple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de pyramide van Aaron Walter vertrokken. Daarbij wordt onderaan gestart om op uiteindelijk bij pleasurable uit te komen
+Om een ontwerpproces tot een goed eind te brengen is het belangrijk methodologisch te werk te gaan en een goeie methodologie te gebruiken. Centraal in dit project wordtgebruik gemaakt van Zendesk triple diamond zoals in onderstaande figuur. Daarnaast wordt vanuit de piramide van Aaron Walter vertrokken. Daarbij wordt onderaan gestart om op uiteindelijk bij pleasurable uit te komen
 <p align="center">
 <img src="afbeeldingen/zendesk.png" width="60%">
 <img src="afbeeldingen/Aaron Walter.png" width="35%">
  
 ### Discovery fase
-Binnen deze tripple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. Daarbij is het belangrijkste doel om vragen als: **Waar liggen de Gaps? Hoe werkt deze methode? Wie is de geschikte doelgroep?** Te beantwoorden
+Binnen deze triple diamond is de discoveryfase de eerste fase. Zoals de naam het zelf zegt is het hierbij de bedoeling een goed en volledig beeld te krijgen inzake de RGM methode. Daarbij is het belangrijkste doel om vragen als: **Waar liggen de Gaps? Hoe werkt deze methode? Wie is de geschikte doelgroep?** Te beantwoorden
 Daarbij vormt de **combinatie van een literatuurstudie en interviews een goede basis**. 
 
-### Defenition fase
+### Definition fase
 
-Binnen de defenition wordt-binnen de overkoepelende Zendesk tripple diamond methodologie-onze eigen methode gebruikt zoals hieronder weergegeven.
+Binnen de definition wordt-binnen de overkoepelende Zendesk triple diamond methodologie-onze eigen methode gebruikt zoals hieronder weergegeven.
 <p align="center">
 <img src="afbeeldingen/methodologie define.png" width="100%">
 
 Eerst wordt een storyboard opgesteld dat elke stap van het gebruiksproces benaderd. Hieruit werden mogelijke onderzoeksvragen opgesteld. Een deel van deze vragen kon al met de voorkennis van de literatuurstudie in interviews beantwoord worden. De overgebleven onderzoeksvragen onderzochten we in de gebruikerstesten. 
 
-In deze fase wordt nudat de fundamentele kennis er is gekeken naar de functionele parameters van het concept. Vragen als **hoeveel blokken? Welke vorm hebben de blokken? En hoe snel volgen de danspassen op elkaar?** worden beantwoord.
+In deze fase wordt nu dat de fundamentele kennis er is gekeken naar de functionele parameters van het concept. Vragen als **hoeveel blokken? Welke vorm hebben de blokken? En hoe snel volgen de danspassen op elkaar?** worden beantwoord.
 
 
 ### Develop fase
@@ -77,14 +77,14 @@ Uit voorgaande prototypes, gebruikerstesten, templates, experimenten (zie o.a. p
 
 ## Discovery
 
-#### Doestellingen
+#### Doelstellingen
 - Formuleren van een duidelijke "How might we"-vraag om richting te geven aan het ontwerpproces
 - Opstellen klantbehoeften
 - Algemeen beeld inzake RGM en beantwoorden onderzoeksvragen
 #### Onderzoeksvragen  
 literatuurstudie
 - Wat is de RGM methode?
-- Onderzoeksvragen secundair:  
+- Secundaire onderzoeksvragen:
 - Hoe helpt de RGM methode mensen? 
 - Hoe werkt deze methode? 
 - voor wie is deze methode het meest geschikt? 
@@ -197,7 +197,7 @@ Uiteindelijk volgt de how might we:
 </p>
 
 In deze wave wordt vooral op de functionele aspecten gefocust. Dit a.d.h.v.de aspecten uit bovenstaand storyboard.
-**Om comformation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor zijn er op de afbeeldingen van prototypes meestal twee varianten te zien. 
+**Om confirmation bias te vermijden en ervoor te zorgen dat de gebruiker nuttige feedback kan geven, werd telkens van meerdere prototypes gebruik gemaakt**. Hierdoor zijn er op de afbeeldingen van prototypes meestal twee varianten te zien. 
 
 Zoals in de methodologie beschreven werd een deel van de onderzoeksvragen al in bovenstaande matrix beantwoord. Diegene die overbleven zijn de onderzoeksvragen van deze wave. Voor de tweede wave wordt dit opniew gedaan.
 
@@ -265,7 +265,7 @@ Uit observatie en het QAP, konden we concluderen dat 60% (3/5) verkoos ze te kun
  <img src="afbeeldingen/Grafiek Blokken onderscheiden.png" width="50%">
  </p>
 
-Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren. Die nodig zijn om een kleur en effen zijde te creëren. Een cilinder is de enigste vorm die dit op een ergonomische manier toelaat. Dit leide dan tot design requirements D2.3 en D2.2.
+Uiteindelijk werd hieruit ook bepaald om de vorm van de blokken cilindrisch te maken om zo 2 functionele zijdes te creeren. Die nodig zijn om een kleur en effen zijde te creëren. Een cilinder is de enigste vorm die dit op een ergonomische manier toelaat. Dit leidde dan tot design requirements D2.3 en D2.2.
  
 
 #### aspect 3: Aantal blokken
@@ -278,7 +278,7 @@ Na het spel met eenmaal 4 en eenmaal zes blokken gespeeld te hebben verkoos 80% 
 <p align="center">
  <img src="afbeeldingen/Grafiek aantal blokken.png" width="50%">
  </p> 
- Wat opviel is dat de grootste moeilijk lag bij het sorteren van de blokken. 60% van de gebruikers vroeg, of vermelde dat ze graag het de mogelijkheid zouden hebben een nummer op voorhand eens te beluisteren. Vandaar design requirment D1.15. Bij de kleuren en hun bijhorende kanten werden ook veel fouten gemaakt, daaruit volgt design requirment D 4.4.
+ Wat opviel is dat de grootste moeilijk lag bij het sorteren van de blokken. 60% van de gebruikers vroeg, of vermelde dat ze graag het de mogelijkheid zouden hebben een nummer op voorhand eens te beluisteren. Vandaar design requirement D1.15. Bij de kleuren en hun bijhorende kanten werden ook veel fouten gemaakt, daaruit volgt design requirement D 4.4.
  
 ### Conclusies
 
@@ -364,7 +364,7 @@ Ook binnen onze doelgroep worden de geïnterviewden wel degelijk geconfronteerd 
 
 #### Aspect 4: Interface
 
-Wanneer de gebruiker gevraagd wordt naar welk voorkeur de interface gaat, blijkt dat: Hoe simpeler de interface, hoe minder verwarring en vlotter de gebruiker hierdoor kan navigeren. Wat opviel is dat de doelgroep veel **minder vertrouwt blijk te zijn met symbolen dan gewoon woorden**. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. woorden
+Wanneer de gebruiker gevraagd wordt naar welk voorkeur de interface gaat, blijkt dat: Hoe simpeler de interface, hoe minder verwarring en vlotter de gebruiker hierdoor kan navigeren. Wat opviel, is dat de doelgroep veel **minder vertrouwt blijk te zijn met symbolen dan gewoon woorden**. Bijgevolg zal worden verder gewerkt met een interface a.d.h.v. woorden
 Om de uitwerking van de interface in het vervolg van het proces vlotter te laten verlopen werd een boomdiagram van de interface gemaakt zoals in onderstaande figuur te zien is. De interfaces zijn onder "bijlagen" terug te vinden.
 
 <p align="center">
@@ -422,7 +422,7 @@ De interface steunt voornamelijk op woorden en niet op symbolen.
 - Percentile driven design 
 - Gebruikerstest  
 
-- Dined database 
+- DINED-database 
 
 #### Resultaten
 **1: Meest ergonomisch gewicht**
@@ -631,7 +631,7 @@ Uit deze matrix blijken de druksensoren het interessantst te zijn. Dit vooral aa
 <img src="afbeeldingen/ruis_druk.png" width="41%">
  </p>
 
->Praktische voordelen en uidagingen druksensoren:
+>Praktische voordelen en uitdagingen druksensoren:
 > - Goed in detecteren als er iets of niets opstaat
 > - moeilijk te calibreren bij een constante indrukking
 > - slechte gevoeligheid: Op huid heel gevoelig, op papier en andere materialen detecteert pas bij grote massa
@@ -677,7 +677,7 @@ Door gebruik te maken van 2 cirkels van geleidend materiaal waarover de weerstan
 
 ||Geleidende tape| Sheet metal| Sluitringen|Al folie|Geleidende verf|
 |:---|:---|:---|:---|:---|:---|
-|+| Snel mee te werken, esthetisch||Estetisch, moet niet meer bewerken| Makkelijk voor prototypes, makkelijk bewerkbaar|vormvrijheid, |
+|+| Snel mee te werken, esthetisch||Esthetisch, moet niet meer bewerken| Makkelijk voor prototypes, makkelijk bewerkbaar|vormvrijheid, |
 |-|lastig om cirkelvormige ringen mee te maken|moeilijk vervormbaar|vormen staan al vast (geleid)|niet esthetisch|weinig kleur, duur|
 
 **Def-selectie: keuzematrix op basis van praktische test**
