@@ -571,7 +571,7 @@ Interactie en fasen van het spel evalueren.
 #### Resultaten
 Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoeren van een performance measurement.
 <details>
-<summary>Klik voor de PM-tabel</summay>
+<summary>Klik voor de PM-tabel</summary>
 
 <br>
 
@@ -592,26 +592,15 @@ Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoe
 Hieruit volgenden volgden dat 11/40 taken moeilijk verliepen, ookwel 27.5%.
 Uiteindelijk werden volgende oplossingen geimplementeerd:
 
-<table style="font-size: 0.85em;">
-  <thead>
-    <tr>
-      <th>Taak</th>
-      <th>Oplossing</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>1</td><td>Icoontje met “ok” toevoegen</td></tr>
-    <tr><td>2</td><td>Toevoegen folie</td></tr>
-    <tr><td>3</td><td>Cirkels rond knop en cilinders toevoegen</td></tr>
-    <tr><td>4</td><td>Extra scherm toevoegen met “druk om te starten”</td></tr>
-    <tr><td>5</td><td></td></tr>
-    <tr><td>6</td><td></td></tr>
-    <tr><td>7</td><td></td></tr>
-    <tr><td>8</td><td></td></tr>
-    <tr><td>9</td><td></td></tr>
-    <tr><td>10</td><td></td></tr>
-  </tbody>
-</table>
+
+
+| Taak | Oplossing                                              |
+|------|---------------------------------------------------------|
+| 1    | Icoontje met “ok” toevoegen                             |
+| 2    | Toevoegen folie                                         |
+| 3    | Cirkels rond knop en cilinders toevoegen                |
+| 4    | Extra scherm toevoegen met “druk om te starten”         |
+
 
 ## Prototyping
 ### keuze elektronica
