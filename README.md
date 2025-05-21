@@ -202,6 +202,8 @@ In deze wave wordt vooral op de functionele aspecten gefocust. Dit a.d.h.v.de as
 Zoals in de methodologie beschreven werd een deel van de onderzoeksvragen al in bovenstaande matrix beantwoord. Diegene die overbleven zijn de onderzoeksvragen van deze wave. Voor de tweede wave wordt dit opniew gedaan.
 
 ### Resultaten WAVE 1 (N=5)
+- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
+- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
 #### Doestellingen
 - Bepalen hoe de danspassen weergeven worden
 - Bepalen als de blokken te onderscheiden moeten zijn
@@ -225,8 +227,7 @@ In deze fase zijn de aspecten uit het storyboard van wave 1 de onderzoeksvragen 
   <img src="afbeeldingen/Prototype 1 (2).jpg" width="49%">
 </p>
 
-- [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/protocol%20gebruikerstest%20wave%201.pdf)
-- [rapport](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Definition/gebruikerstest%20wave%20one.pdf)
+
 
 
 #### aspect 1: Weergave danspassen 
