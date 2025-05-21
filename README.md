@@ -572,12 +572,14 @@ Interactie en fasen van het spel evalueren.
 <img src="afbeeldingen/Storyboard_Kleur.jpg" width="60%">
 
 
+|
+
 
 Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoeren van een performance measurement.
-<details>
-<summary> Klik voor de PM-tabel </summary>
 
-<br>
+
+|
+
 
 | Nr. | Taak                  | Omschrijving                                                                 | Moeilijk/makkelijk | Opmerking |
 |-----|-----------------------|------------------------------------------------------------------------------|--------------------|-----------|
@@ -592,8 +594,7 @@ Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoe
 | 9   | Controleren           | De gebruiker weet dat de middelste knop dient om te valideren                |                    |           |
 | 10  | Uitzetten             | De gebruiker kan het spel uitzetten door uit het stopcontact te trekken      |                    |           |
 
-</details>
-|
+
 
 
 
@@ -602,7 +603,7 @@ Uit bovenstaande storyboard werd de onderstaande tabel opgesteld voor het uitvoe
 <img src="afbeeldingen/DEV_3_Test.png" width="75%">
 
 
-Hieruit volgenden volgden dat 11/40 taken moeilijk verliepen, ookwel 27.5%.
+Hieruit volgende volgden dat 11/40 taken moeilijk verliepen, ookwel 27.5%. waarbij 75% moeite had met taken 2 en 3 en 50% met taken 4 en 6.
 
 
 
@@ -612,10 +613,11 @@ Uiteindelijk werden volgende oplossingen geimplementeerd voor de taken die moeil
 
 | Taak | Oplossing                                              |
 |------|---------------------------------------------------------|
-| 1    | Icoontje met “ok” toevoegen                             |
-| 2    | Toevoegen folie                                         |
-| 3    | Cirkels rond knop en cilinders toevoegen                |
-| 4    | Extra scherm toevoegen met “druk om te starten”         |
+| 3 & 4   | Icoontje met “ok” toevoegen                             |
+| 2  | Toevoegen folie                                         |
+|  2    | Cirkels rond knop en cilinders toevoegen                |
+| 3 & 4   | Extra scherm toevoegen met “druk om te starten”         |
+|6| uitleg ivm symbolen|
 
 
 ## Prototyping
