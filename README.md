@@ -735,7 +735,7 @@ Om duidelijk te maken dat de **cilinders bij elkaar horen krijgen deze dezelfde 
 Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak** gezet. Dit is verschillend van de blok met de arduino en het scherm. 
 
 ### Moodboard
-<img src="afbeeldingen/moodboard.png" width="30%">
+<img src="afbeeldingen/Moodboard+.png" width="30%">
 
 - materiaalkeuze docking:
 Om het docking een "glossy" uiterlijk te geven zoals in het moodboard wordt een plastic plaat gebruikt.
