@@ -543,10 +543,9 @@ Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv
 Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
 > [!IMPORTANT]
 > Design Requirements:
-> - D2.7 De cilinders hebben grip B
+> - D2.7 De cilinders hebben grip B <img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
 > - D4.5 De knop heeft een minimale diameter van 19mm
 > - D4.6 De knop is een directe drukknop 
-<img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
 >- D4.7 De dockingstation bevat cutout's van de cilinders als affordance
 >- D4.8 De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
 >- D4.9 De dockingstation bevat een arcade knop voor een spel te beëindigen
