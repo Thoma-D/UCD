@@ -650,7 +650,7 @@ Uit onze testen hiermee bleek dat er **geen interferentie optrad tussen de tags*
 > - geen interferentie tussen naburige tags dus betrouwbaar
 > - gebruik vier lezers nodig, lastig voor 1 enkele arduino
 #### Weerstanden
-Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. Er werd een poging gedaan met weerstanden. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins. Bij de testen vielen geen nadelen op.
+Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij functioneel, hetzij aan gebruiksvriendelijkheid - werd nog naar andere mogelijkheden gezocht. Er werd een poging gedaan met weerstanden. Met behulp van spanningsdelers ten opzichte van telkens dezelfde referentieweerstand (R2=10000Ohm) kan makkelijk de positie worden waargenomen. De schakeling werd verder zo gemaakt dat **het verwijderen van de ene weerstand geen invloed heeft op de andere. Nog heeft het aantal gekoppelde weerstanden geen invloed op de analoge pins.**
 <p align="center">
 <img src="afbeeldingen/Schakeling_arduino_weerstand.jpg" width="52%">
 <img src="afbeeldingen/Spanningsdeler_Visualisatie.png" width="44%">
@@ -658,7 +658,11 @@ Aangezien elk van voorgaande mogelijkheden te grote nadelen hadden -hetzij funct
 
 **Keuze weerstandgroottes:**
 
-Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. 
+Een analoge pin kan een waarde van nul tot 1023 vaststellen. Daarbij is het de bedoeling dat de vier weerstanden op die manier gekozen dat ze zo breed mogelijk gespreid zijn. Daarom werd een weerstand van - met een analogRead van - gekozen:
+- R=1000 Ohm - analogRead= 930
+- R=100000 Ohm - analogRead= 93
+- R=3300 Ohm - analogRead= 770
+- R=10000 Ohm - analogRead= 512
 
 
 
@@ -718,7 +722,7 @@ Keuzematrix met design blocks:
 
 - cilinders: voor de cilinders wordt **3D printing** toegepast. Dit omdat het hier om een cilindrisch element en een beperkte hoeveelheid gaat. Bij hogere productie kan bv naar thermovormen gekeken.
 
-- dockingstation: Het dockingstation bestaat uit een combinatie van **lasercutten en thermovormen**. Thermovormen omdat in weinig stappen een gebogen vorm met alsnog een strak bovenste surface ontstaat. Een deel van de matrijs kan daarbij behouden worden. Wat in weinig materiaalverlies resulteert. Om te verzekeren dat de lezers langs de bovenkant niet inzakken worden nog twee lagen gelasercut.
+- dockingstation: Het dockingstation bestaat uit een combinatie van **lasercutten en thermovormen**. Thermovormen omdat in weinig stappen een strak bovenste surface met gebogen zijkante ontstaat. Een deel van de matrijs kan daarbij behouden worden. Wat in weinig materiaalverlies resulteert. Om te verzekeren dat de lezers langs de bovenkant niet inzakken worden nog twee lagen gelasersneden.
 
 #### Opbouw
 <p align="center">
@@ -740,7 +744,7 @@ Dieter Rams is een bekende Duitse ontwerper. Zijn tien algemene ontwerpregels wo
 In dit ontwerp werd o.a. veel aandacht besteed aan:
 - principe één: good design is innovative: De theoretische werking is **nooit eerder zo ontwikkeld tot een product**. Hiervoor was er enkel een beamer en projector.
 - principe twee: good design makes a product useful:
-Doorheen dit proces werd gekeken hoe we onze how might we zo efficient mogelijk konden oplossen. Daarbij werd gekeken dat de theoretische werking behouden werd zonder onnodige toevoegingen aan te brengen. In ons ontwerp is dit te zien door **geen onnodige knoppen en functies** aan te brengen.
+Doorheen dit proces werd gekeken hoe we onze how might we zo efficiënt mogelijk konden oplossen. Daarbij werd gekeken dat de theoretische werking behouden werd zonder onnodige toevoegingen aan te brengen. In ons ontwerp is dit te zien door **geen onnodige knoppen en functies** aan te brengen.
 - principe drie: good design is aesthetic:
 Hieraan werd voldaan door niet enkel vanuit een functioneel oogpunt te starten maar ook vanuit een moodboard...
 ### Gestalt wetten
@@ -748,11 +752,9 @@ Deze geven weer hoe de gebruiker objecten interpreteerd. Door het toepassen van 
 
 <img src="afbeeldingen/gestalt.jpg" width="30%">
 
-- similarity:
-Om duidelijk te maken dat de **cilinders bij elkaar horen krijgen deze dezelfde kleur.**
+- **similarity**: Om duidelijk te maken dat de **cilinders bij elkaar horen krijgen deze dezelfde kleur.**
 
-- Closure:
-Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak** gezet. Dit is verschillend van de blok met de arduino en het scherm. 
+- **Closure**: Om duidelijk aan te tonen dat de **cilinders bij elkaar horen worden deze op het zelfde begrensde oppervlak** gezet. Dit is verschillend van de blok met de arduino en het scherm. 
 
 ### Moodboard
 <img src="afbeeldingen/Moodboard+.png" width="30%">
@@ -768,14 +770,13 @@ Zoals de bidon in het moodboard wordt ook bij de cilinders een **grip toegevoegd
 ### Algemene design principes
 <img src="afbeeldingen/design principes.png" width="30%">
 
-- constraints:
-De verbinding tussen de cilinder en het docking station zijn beide cilindervormig. Doordat de vier openingen en de vier cilinders de zelfde zijn is het duidelijk dat eender welke cilinder op eender welke plaats kan komen.
-- Feedback: De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
+- **constraints**: De verbinding tussen de cilinder en het docking station zijn beide cilindervormig. Doordat de vier openingen en de vier cilinders de zelfde zijn is het duidelijk dat eender welke cilinder op eender welke plaats kan komen.
+- **Feedback**: De **leds branden wanneer de cilinder contact maakt met het dockingstation**.
 <p align="center">
 <img src="afbeeldingen/brandende leds.jpg" width="20%">
 
 
-- Affordances: Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. Dit kan ook als **nudging** gezien worden aangezien bepaald gedrag wordt uitgelokt.  Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
+- **Affordances**: Door de openingen en **zwarte cirkels** in het docking station kan de **gebruiker afleiden dat hier een cilinder in komt**. Dit kan ook als **nudging** gezien worden aangezien bepaald gedrag wordt uitgelokt.  Door de grip bovenop de cilinder is de gebruiker rapper geneigd de cilinder vast te nemen.
 <p align="center">
 <img src="afbeeldingen/grip.png" width="20%">
 
