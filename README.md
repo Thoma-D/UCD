@@ -130,7 +130,7 @@ Hieruit volgt onderstaand fishbone diagram.
  
 
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > Design Requirements:
 > - D1.1 Het product moet meerdere hersengebieden activeren	
 > - D1.2 Het product moet in groep te kunnen gebruiken zijn	
@@ -390,14 +390,14 @@ De interface moet voldoende simpel zijn.
 De interface steunt voornamelijk op woorden en niet op symbolen.
 
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > Design Requirements:
 > - D3.3 De schermgrootte ligt tussen 6.7" en 10.9"
 > - D3.3 Onderstaande interface wordt gebruikt.<img src="afbeeldingen/boomschema interface.png" width="20%">
 > - D2.4 De interactieve blokken hebben een hoogte en straal van 45mm
 > - D1.17 De gebruiker heeft de mogelijkheid om zijn vooruitgang te zien
 > - D3.1 en D3.2 De interface moet simpel zijn. Daarbij wordt voornamelijk van woorden gebruik gemaakt
->- 
+
 
 ## Develop
 ### Wave 1
@@ -541,14 +541,16 @@ Hierbij werden meerdere knoppen en touchscreen opties met elkaar vergeleken adhv
 <img src="afbeeldingen/knop direct-indirect.png" width="20%">
 
 Hieruit volgt dat de gebruiker de "grote en directe" arcade knop verkiest.
+
+
 > [!IMPORTANT]
 > Design Requirements:
 > - D2.7 De cilinders hebben grip B <img src="afbeeldingen/CilinderGripSoorten.png" width="10%">
 > - D4.5 De knop heeft een minimale diameter van 19mm
 > - D4.6 De knop is een directe drukknop 
->- D4.7 De dockingstation bevat cutout's van de cilinders als affordance
->- D4.8 De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
->- D4.9 De dockingstation bevat een arcade knop voor een spel te beëindigen
+> - D4.7 De dockingstation bevat cutout's van de cilinders als affordance
+> - D4.8 De dockingstation bevat LED's die aangeven wanneer de cilinders een goed contact maakt.
+> - D4.9 De dockingstation bevat een arcade knop voor een spel te beëindigen
 
 ### Wave 3
 - [protocol](https://github.com/Thoma-D/UCD/blob/main/Bijlages/Develop/develop%203%20protocol.pdf)
